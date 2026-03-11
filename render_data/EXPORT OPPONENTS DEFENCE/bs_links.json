@@ -1,0 +1,82 @@
+[
+  {
+    "key": "points",
+    "mode": "standard",
+    "url": "https://www.basketstories.net/datacenter/el_teams_opponents_allstats.php?stat=points&deviation=standard#list"
+  },
+  {
+    "key": "ftm",
+    "mode": "standard",
+    "url": "https://www.basketstories.net/datacenter/el_teams_opponents_allstats.php?stat=ftm&deviation=standard#list"
+  },
+  {
+    "key": "fta",
+    "mode": "standard",
+    "url": "https://www.basketstories.net/datacenter/el_teams_opponents_allstats.php?stat=fta&deviation=standard#list"
+  },
+  {
+    "key": "fg2m",
+    "mode": "standard",
+    "url": "https://www.basketstories.net/datacenter/el_teams_opponents_allstats.php?stat=fg2m&deviation=standard#list"
+  },
+  {
+    "key": "fg2a",
+    "mode": "standard",
+    "url": "https://www.basketstories.net/datacenter/el_teams_opponents_allstats.php?stat=fg2a&deviation=standard#list"
+  },
+  {
+    "key": "fg3m",
+    "mode": "standard",
+    "url": "https://www.basketstories.net/datacenter/el_teams_opponents_allstats.php?stat=fg3m&deviation=standard#list"
+  },
+  {
+    "key": "fg3a",
+    "mode": "standard",
+    "url": "https://www.basketstories.net/datacenter/el_teams_opponents_allstats.php?stat=fg3a&deviation=standard#list"
+  },
+  {
+    "key": "totalrebs",
+    "mode": "standard",
+    "url": "https://www.basketstories.net/datacenter/el_teams_opponents_allstats.php?stat=totalrebs&deviation=standard#list"
+  },
+  {
+    "key": "ofrebs",
+    "mode": "standard",
+    "url": "https://www.basketstories.net/datacenter/el_teams_opponents_allstats.php?stat=ofrebs&deviation=standard#list"
+  },
+  {
+    "key": "defrebs",
+    "mode": "standard",
+    "url": "https://www.basketstories.net/datacenter/el_teams_opponents_allstats.php?stat=defrebs&deviation=standard#list"
+  },
+  {
+    "key": "assists",
+    "mode": "standard",
+    "url": "https://www.basketstories.net/datacenter/el_teams_opponents_allstats.php?stat=assists&deviation=standard#list"
+  },
+  {
+    "key": "turnovers",
+    "mode": "standard",
+    "url": "https://www.basketstories.net/datacenter/el_teams_opponents_allstats.php?stat=turnovers&deviation=standard#list"
+  },
+  {
+    "key": "steals",
+    "mode": "standard",
+    "url": "https://www.basketstories.net/datacenter/el_teams_opponents_allstats.php?stat=steals&deviation=standard#list"
+  },
+  {
+    "key": "blocks",
+    "mode": "standard",
+    "url": "https://www.basketstories.net/datacenter/el_teams_opponents_allstats.php?stat=blocks&deviation=standard#list"
+  },
+  {
+    "key": "fouls",
+    "mode": "standard",
+    "url": "https://www.basketstories.net/datacenter/el_teams_opponents_allstats.php?stat=fouls&deviation=standard#list"
+  },
+  {
+    "key": "foulsa",
+    "mode": "standard",
+    "url": "https://www.basketstories.net/datacenter/el_teams_opponents_allstats.php?stat=foulsa&deviation=standard#list"
+  }
+]

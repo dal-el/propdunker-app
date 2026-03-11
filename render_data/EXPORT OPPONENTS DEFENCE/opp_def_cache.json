@@ -1,0 +1,7079 @@
+{
+  "tables": {
+    "standard": {
+      "points": {
+        "AS Monaco": {
+          "PG": {
+            "value": -0.56,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.32,
+            "color": "red"
+          },
+          "SF": {
+            "value": -1.24,
+            "color": "red"
+          },
+          "PF": {
+            "value": 1.12,
+            "color": "green"
+          },
+          "C": {
+            "value": 1.08,
+            "color": "green"
+          }
+        },
+        "ASVEL Villeurbanne": {
+          "PG": {
+            "value": -1.97,
+            "color": "red"
+          },
+          "SG": {
+            "value": 1.94,
+            "color": "green"
+          },
+          "SF": {
+            "value": -2.4,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.17,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.47,
+            "color": "green"
+          }
+        },
+        "Barcelona": {
+          "PG": {
+            "value": 0.4,
+            "color": "green"
+          },
+          "SG": {
+            "value": -2.28,
+            "color": "red"
+          },
+          "SF": {
+            "value": -2.25,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.15,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.39,
+            "color": "green"
+          }
+        },
+        "Baskonia Vitoria": {
+          "PG": {
+            "value": 1.88,
+            "color": "green"
+          },
+          "SG": {
+            "value": 2.16,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.62,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.91,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.02,
+            "color": "green"
+          }
+        },
+        "Bayern Munich": {
+          "PG": {
+            "value": -0.33,
+            "color": "red"
+          },
+          "SG": {
+            "value": -1.98,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.86,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.39,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.58,
+            "color": "red"
+          }
+        },
+        "Crvena Zvezda": {
+          "PG": {
+            "value": -1.44,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.13,
+            "color": "red"
+          },
+          "SF": {
+            "value": 2.42,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.6,
+            "color": "red"
+          },
+          "C": {
+            "value": -2.44,
+            "color": "red"
+          }
+        },
+        "Dubai Basketball": {
+          "PG": {
+            "value": 0.67,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.04,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.64,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.88,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.96,
+            "color": "green"
+          }
+        },
+        "Efes Anadolu": {
+          "PG": {
+            "value": -1.55,
+            "color": "red"
+          },
+          "SG": {
+            "value": -1.97,
+            "color": "red"
+          },
+          "SF": {
+            "value": 1.0,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.48,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.1,
+            "color": "red"
+          }
+        },
+        "Fenerbahce": {
+          "PG": {
+            "value": -0.83,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.5,
+            "color": "green"
+          },
+          "SF": {
+            "value": -1.45,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.88,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.07,
+            "color": "red"
+          }
+        },
+        "Hapoel Tel Aviv": {
+          "PG": {
+            "value": -0.08,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.6,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.69,
+            "color": "green"
+          },
+          "PF": {
+            "value": -1.43,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.01,
+            "color": "green"
+          }
+        },
+        "Maccabi Tel Aviv": {
+          "PG": {
+            "value": 0.79,
+            "color": "green"
+          },
+          "SG": {
+            "value": 1.13,
+            "color": "green"
+          },
+          "SF": {
+            "value": 3.16,
+            "color": "green"
+          },
+          "PF": {
+            "value": 1.62,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.39,
+            "color": "green"
+          }
+        },
+        "Olimpia Milano": {
+          "PG": {
+            "value": 1.67,
+            "color": "green"
+          },
+          "SG": {
+            "value": 1.37,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.69,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.49,
+            "color": "red"
+          },
+          "C": {
+            "value": 1.63,
+            "color": "green"
+          }
+        },
+        "Olympiacos Piraeus": {
+          "PG": {
+            "value": 1.43,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.12,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.22,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.44,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.05,
+            "color": "red"
+          }
+        },
+        "Panathinaikos": {
+          "PG": {
+            "value": -1.76,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.69,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.26,
+            "color": "green"
+          },
+          "PF": {
+            "value": -2.12,
+            "color": "red"
+          },
+          "C": {
+            "value": -1.33,
+            "color": "red"
+          }
+        },
+        "Paris Basketball": {
+          "PG": {
+            "value": 1.45,
+            "color": "green"
+          },
+          "SG": {
+            "value": 1.15,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.73,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.26,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.45,
+            "color": "red"
+          }
+        },
+        "Partizan Belgrade": {
+          "PG": {
+            "value": -0.55,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.97,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.48,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.52,
+            "color": "green"
+          },
+          "C": {
+            "value": 1.42,
+            "color": "green"
+          }
+        },
+        "Real Madrid": {
+          "PG": {
+            "value": 0.95,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.4,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.76,
+            "color": "red"
+          },
+          "PF": {
+            "value": 1.46,
+            "color": "green"
+          },
+          "C": {
+            "value": -1.97,
+            "color": "red"
+          }
+        },
+        "Valencia Basket": {
+          "PG": {
+            "value": 0.14,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.61,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.29,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.6,
+            "color": "green"
+          },
+          "C": {
+            "value": -1.28,
+            "color": "red"
+          }
+        },
+        "Virtus Bologna": {
+          "PG": {
+            "value": 0.13,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.67,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.1,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.59,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.12,
+            "color": "red"
+          }
+        },
+        "Zalgiris Kaunas": {
+          "PG": {
+            "value": 2.4,
+            "color": "green"
+          },
+          "SG": {
+            "value": -1.03,
+            "color": "red"
+          },
+          "SF": {
+            "value": -2.33,
+            "color": "red"
+          },
+          "PF": {
+            "value": -1.37,
+            "color": "red"
+          },
+          "C": {
+            "value": 1.46,
+            "color": "green"
+          }
+        }
+      },
+      "ftm": {
+        "AS Monaco": {
+          "PG": {
+            "value": -0.12,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.05,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.64,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.3,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.03,
+            "color": "green"
+          }
+        },
+        "ASVEL Villeurbanne": {
+          "PG": {
+            "value": -0.21,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.45,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.04,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.61,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.26,
+            "color": "green"
+          }
+        },
+        "Barcelona": {
+          "PG": {
+            "value": -0.29,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.09,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.31,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.24,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.22,
+            "color": "red"
+          }
+        },
+        "Baskonia Vitoria": {
+          "PG": {
+            "value": 0.57,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.86,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.34,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.11,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.31,
+            "color": "green"
+          }
+        },
+        "Bayern Munich": {
+          "PG": {
+            "value": -0.43,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.26,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.31,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.05,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.21,
+            "color": "green"
+          }
+        },
+        "Crvena Zvezda": {
+          "PG": {
+            "value": 0.02,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.26,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.1,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.26,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.47,
+            "color": "red"
+          }
+        },
+        "Dubai Basketball": {
+          "PG": {
+            "value": -0.61,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.18,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.08,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.11,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.8,
+            "color": "green"
+          }
+        },
+        "Efes Anadolu": {
+          "PG": {
+            "value": -0.16,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.22,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.27,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.28,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.43,
+            "color": "green"
+          }
+        },
+        "Fenerbahce": {
+          "PG": {
+            "value": 0.47,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.93,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.03,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.03,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.32,
+            "color": "red"
+          }
+        },
+        "Hapoel Tel Aviv": {
+          "PG": {
+            "value": -0.52,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.18,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.39,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.75,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.11,
+            "color": "red"
+          }
+        },
+        "Maccabi Tel Aviv": {
+          "PG": {
+            "value": -0.4,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.99,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.88,
+            "color": "green"
+          },
+          "PF": {
+            "value": 1.37,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.63,
+            "color": "green"
+          }
+        },
+        "Olimpia Milano": {
+          "PG": {
+            "value": 0.4,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.08,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.18,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.52,
+            "color": "red"
+          }
+        },
+        "Olympiacos Piraeus": {
+          "PG": {
+            "value": 0.1,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.58,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.34,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.53,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.32,
+            "color": "red"
+          }
+        },
+        "Panathinaikos": {
+          "PG": {
+            "value": -0.29,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.01,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.63,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.2,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.14,
+            "color": "red"
+          }
+        },
+        "Paris Basketball": {
+          "PG": {
+            "value": 0.76,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.56,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.5,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.13,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.21,
+            "color": "green"
+          }
+        },
+        "Partizan Belgrade": {
+          "PG": {
+            "value": 0.21,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.09,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.28,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.01,
+            "color": "green"
+          }
+        },
+        "Real Madrid": {
+          "PG": {
+            "value": -0.4,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.22,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.04,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.09,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.5,
+            "color": "red"
+          }
+        },
+        "Valencia Basket": {
+          "PG": {
+            "value": 0.57,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.04,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.1,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.15,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.13,
+            "color": "green"
+          }
+        },
+        "Virtus Bologna": {
+          "PG": {
+            "value": -0.07,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.1,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.67,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.25,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.18,
+            "color": "red"
+          }
+        },
+        "Zalgiris Kaunas": {
+          "PG": {
+            "value": 0.17,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.11,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.42,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.7,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.07,
+            "color": "red"
+          }
+        }
+      },
+      "fta": {
+        "AS Monaco": {
+          "PG": {
+            "value": 0.2,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.39,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.58,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.59,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.17,
+            "color": "red"
+          }
+        },
+        "ASVEL Villeurbanne": {
+          "PG": {
+            "value": -0.11,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.58,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.12,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.61,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.37,
+            "color": "green"
+          }
+        },
+        "Barcelona": {
+          "PG": {
+            "value": -0.25,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.17,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.19,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.15,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.25,
+            "color": "red"
+          }
+        },
+        "Baskonia Vitoria": {
+          "PG": {
+            "value": 0.51,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.81,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.31,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.03,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.04,
+            "color": "green"
+          }
+        },
+        "Bayern Munich": {
+          "PG": {
+            "value": -0.72,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.14,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.17,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.32,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.07,
+            "color": "green"
+          }
+        },
+        "Crvena Zvezda": {
+          "PG": {
+            "value": 0.5,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.71,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.15,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.68,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.22,
+            "color": "red"
+          }
+        },
+        "Dubai Basketball": {
+          "PG": {
+            "value": -0.8,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.32,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.04,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.11,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.64,
+            "color": "green"
+          }
+        },
+        "Efes Anadolu": {
+          "PG": {
+            "value": -0.34,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.33,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.43,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.63,
+            "color": "green"
+          }
+        },
+        "Fenerbahce": {
+          "PG": {
+            "value": 0.69,
+            "color": "green"
+          },
+          "SG": {
+            "value": 1.05,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.17,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.05,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.18,
+            "color": "red"
+          }
+        },
+        "Hapoel Tel Aviv": {
+          "PG": {
+            "value": -0.49,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.05,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.09,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.81,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.34,
+            "color": "red"
+          }
+        },
+        "Maccabi Tel Aviv": {
+          "PG": {
+            "value": -0.22,
+            "color": "red"
+          },
+          "SG": {
+            "value": -1.21,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.77,
+            "color": "green"
+          },
+          "PF": {
+            "value": 1.18,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.37,
+            "color": "green"
+          }
+        },
+        "Olimpia Milano": {
+          "PG": {
+            "value": 0.54,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.05,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.17,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.86,
+            "color": "red"
+          }
+        },
+        "Olympiacos Piraeus": {
+          "PG": {
+            "value": -0.11,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.36,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.52,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.51,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.15,
+            "color": "red"
+          }
+        },
+        "Panathinaikos": {
+          "PG": {
+            "value": -0.62,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.1,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.36,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.55,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.02,
+            "color": "red"
+          }
+        },
+        "Paris Basketball": {
+          "PG": {
+            "value": 0.92,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.36,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.76,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.31,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.83,
+            "color": "green"
+          }
+        },
+        "Partizan Belgrade": {
+          "PG": {
+            "value": 0.36,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.31,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.34,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.58,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.39,
+            "color": "green"
+          }
+        },
+        "Real Madrid": {
+          "PG": {
+            "value": -0.58,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.36,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.07,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.19,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.82,
+            "color": "red"
+          }
+        },
+        "Valencia Basket": {
+          "PG": {
+            "value": 0.71,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.04,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.09,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.32,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.03,
+            "color": "red"
+          }
+        },
+        "Virtus Bologna": {
+          "PG": {
+            "value": -0.28,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.38,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.64,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.12,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.43,
+            "color": "red"
+          }
+        },
+        "Zalgiris Kaunas": {
+          "PG": {
+            "value": 0.18,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.06,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.45,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.79,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.1,
+            "color": "red"
+          }
+        }
+      },
+      "fg2m": {
+        "AS Monaco": {
+          "PG": {
+            "value": -0.59,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.27,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.58,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.29,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.7,
+            "color": "green"
+          }
+        },
+        "ASVEL Villeurbanne": {
+          "PG": {
+            "value": 0.01,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.52,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.43,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.08,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.15,
+            "color": "green"
+          }
+        },
+        "Barcelona": {
+          "PG": {
+            "value": -0.19,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.17,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.07,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.16,
+            "color": "green"
+          }
+        },
+        "Baskonia Vitoria": {
+          "PG": {
+            "value": 0.34,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.39,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.03,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.34,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.32,
+            "color": "red"
+          }
+        },
+        "Bayern Munich": {
+          "PG": {
+            "value": -0.16,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.12,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.29,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.06,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.28,
+            "color": "red"
+          }
+        },
+        "Crvena Zvezda": {
+          "PG": {
+            "value": -0.42,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.19,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.06,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.2,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.7,
+            "color": "red"
+          }
+        },
+        "Dubai Basketball": {
+          "PG": {
+            "value": 0.14,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.38,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.38,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.42,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.22,
+            "color": "green"
+          }
+        },
+        "Efes Anadolu": {
+          "PG": {
+            "value": -0.28,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.72,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.14,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.2,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.11,
+            "color": "green"
+          }
+        },
+        "Fenerbahce": {
+          "PG": {
+            "value": 0.34,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.09,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.32,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.07,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.34,
+            "color": "green"
+          }
+        },
+        "Hapoel Tel Aviv": {
+          "PG": {
+            "value": 0.47,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.04,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.34,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.18,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.35,
+            "color": "green"
+          }
+        },
+        "Maccabi Tel Aviv": {
+          "PG": {
+            "value": 0.35,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.62,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.45,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.46,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.04,
+            "color": "green"
+          }
+        },
+        "Olimpia Milano": {
+          "PG": {
+            "value": 0.38,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.76,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.3,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.21,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.06,
+            "color": "red"
+          }
+        },
+        "Olympiacos Piraeus": {
+          "PG": {
+            "value": 0.0,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.2,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.13,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.09,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.13,
+            "color": "red"
+          }
+        },
+        "Panathinaikos": {
+          "PG": {
+            "value": 0.2,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.18,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.48,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.79,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.3,
+            "color": "green"
+          }
+        },
+        "Paris Basketball": {
+          "PG": {
+            "value": -0.15,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.7,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.76,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.03,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.26,
+            "color": "red"
+          }
+        },
+        "Partizan Belgrade": {
+          "PG": {
+            "value": -0.36,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.6,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.52,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.0,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.4,
+            "color": "green"
+          }
+        },
+        "Real Madrid": {
+          "PG": {
+            "value": 0.18,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.25,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.03,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.06,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.9,
+            "color": "red"
+          }
+        },
+        "Valencia Basket": {
+          "PG": {
+            "value": 0.31,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.21,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.04,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.55,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.72,
+            "color": "red"
+          }
+        },
+        "Virtus Bologna": {
+          "PG": {
+            "value": -0.06,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.29,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.07,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.24,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.23,
+            "color": "red"
+          }
+        },
+        "Zalgiris Kaunas": {
+          "PG": {
+            "value": 1.01,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.06,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.28,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.22,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.52,
+            "color": "green"
+          }
+        }
+      },
+      "fg2a": {
+        "AS Monaco": {
+          "PG": {
+            "value": -0.84,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.44,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.35,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.61,
+            "color": "green"
+          }
+        },
+        "ASVEL Villeurbanne": {
+          "PG": {
+            "value": -0.27,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.19,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.66,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.03,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.48,
+            "color": "green"
+          }
+        },
+        "Barcelona": {
+          "PG": {
+            "value": -0.1,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.25,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.2,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.66,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.11,
+            "color": "green"
+          }
+        },
+        "Baskonia Vitoria": {
+          "PG": {
+            "value": 1.16,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.49,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.05,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.97,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.28,
+            "color": "green"
+          }
+        },
+        "Bayern Munich": {
+          "PG": {
+            "value": -0.43,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.06,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.32,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.03,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.36,
+            "color": "red"
+          }
+        },
+        "Crvena Zvezda": {
+          "PG": {
+            "value": -0.11,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.62,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.34,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.58,
+            "color": "red"
+          },
+          "C": {
+            "value": -1.04,
+            "color": "red"
+          }
+        },
+        "Dubai Basketball": {
+          "PG": {
+            "value": 0.21,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.7,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.03,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.5,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.27,
+            "color": "green"
+          }
+        },
+        "Efes Anadolu": {
+          "PG": {
+            "value": -0.42,
+            "color": "red"
+          },
+          "SG": {
+            "value": -1.48,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.05,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.14,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.01,
+            "color": "red"
+          }
+        },
+        "Fenerbahce": {
+          "PG": {
+            "value": 0.9,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.51,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.09,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.03,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.04,
+            "color": "green"
+          }
+        },
+        "Hapoel Tel Aviv": {
+          "PG": {
+            "value": 0.62,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.61,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.67,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.4,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.16,
+            "color": "green"
+          }
+        },
+        "Maccabi Tel Aviv": {
+          "PG": {
+            "value": 0.71,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.69,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.16,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.21,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.16,
+            "color": "red"
+          }
+        },
+        "Olimpia Milano": {
+          "PG": {
+            "value": 0.72,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.68,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.03,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.16,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.16,
+            "color": "green"
+          }
+        },
+        "Olympiacos Piraeus": {
+          "PG": {
+            "value": 0.0,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.62,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.08,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.16,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.32,
+            "color": "red"
+          }
+        },
+        "Panathinaikos": {
+          "PG": {
+            "value": -0.81,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.1,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.13,
+            "color": "green"
+          },
+          "PF": {
+            "value": -1.08,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.04,
+            "color": "red"
+          }
+        },
+        "Paris Basketball": {
+          "PG": {
+            "value": -0.34,
+            "color": "red"
+          },
+          "SG": {
+            "value": -1.12,
+            "color": "red"
+          },
+          "SF": {
+            "value": -1.05,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.1,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.14,
+            "color": "red"
+          }
+        },
+        "Partizan Belgrade": {
+          "PG": {
+            "value": -0.64,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.93,
+            "color": "red"
+          },
+          "SF": {
+            "value": -1.07,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.33,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.32,
+            "color": "green"
+          }
+        },
+        "Real Madrid": {
+          "PG": {
+            "value": 0.63,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.12,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.68,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.02,
+            "color": "green"
+          },
+          "C": {
+            "value": -1.06,
+            "color": "red"
+          }
+        },
+        "Valencia Basket": {
+          "PG": {
+            "value": -0.12,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.21,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.1,
+            "color": "red"
+          },
+          "PF": {
+            "value": 1.15,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.52,
+            "color": "red"
+          }
+        },
+        "Virtus Bologna": {
+          "PG": {
+            "value": -0.28,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.58,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.23,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.13,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.27,
+            "color": "red"
+          }
+        },
+        "Zalgiris Kaunas": {
+          "PG": {
+            "value": 1.36,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.49,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.26,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.02,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.44,
+            "color": "green"
+          }
+        }
+      },
+      "fg3m": {
+        "AS Monaco": {
+          "PG": {
+            "value": -0.39,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.15,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.02,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.21,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.05,
+            "color": "green"
+          }
+        },
+        "ASVEL Villeurbanne": {
+          "PG": {
+            "value": -0.39,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.01,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.67,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.29,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.07,
+            "color": "red"
+          }
+        },
+        "Barcelona": {
+          "PG": {
+            "value": 0.5,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.39,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.66,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.09,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.08,
+            "color": "green"
+          }
+        },
+        "Baskonia Vitoria": {
+          "PG": {
+            "value": 0.08,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.25,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.18,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.09,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.08,
+            "color": "green"
+          }
+        },
+        "Bayern Munich": {
+          "PG": {
+            "value": 0.35,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.56,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.35,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.1,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.11,
+            "color": "red"
+          }
+        },
+        "Crvena Zvezda": {
+          "PG": {
+            "value": -0.21,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.02,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.68,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.19,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.26,
+            "color": "red"
+          }
+        },
+        "Dubai Basketball": {
+          "PG": {
+            "value": 0.14,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.03,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.01,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.08,
+            "color": "green"
+          }
+        },
+        "Efes Anadolu": {
+          "PG": {
+            "value": -0.23,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.17,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.19,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.3,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.11,
+            "color": "red"
+          }
+        },
+        "Fenerbahce": {
+          "PG": {
+            "value": -0.51,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.31,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.31,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.56,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.03,
+            "color": "green"
+          }
+        },
+        "Hapoel Tel Aviv": {
+          "PG": {
+            "value": -0.03,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.11,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.13,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.38,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.15,
+            "color": "red"
+          }
+        },
+        "Maccabi Tel Aviv": {
+          "PG": {
+            "value": 0.02,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.96,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.22,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.01,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.08,
+            "color": "red"
+          }
+        },
+        "Olimpia Milano": {
+          "PG": {
+            "value": 0.34,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.13,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.26,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.07,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.26,
+            "color": "green"
+          }
+        },
+        "Olympiacos Piraeus": {
+          "PG": {
+            "value": 0.16,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.09,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.34,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.23,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.27,
+            "color": "green"
+          }
+        },
+        "Panathinaikos": {
+          "PG": {
+            "value": -0.52,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.24,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.23,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.14,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.13,
+            "color": "red"
+          }
+        },
+        "Paris Basketball": {
+          "PG": {
+            "value": 0.64,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.55,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.07,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.18,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.03,
+            "color": "red"
+          }
+        },
+        "Partizan Belgrade": {
+          "PG": {
+            "value": 0.01,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.1,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.04,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.46,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.22,
+            "color": "green"
+          }
+        },
+        "Real Madrid": {
+          "PG": {
+            "value": 0.02,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.07,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.28,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.41,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.0,
+            "color": "green"
+          }
+        },
+        "Valencia Basket": {
+          "PG": {
+            "value": 0.04,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.05,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.07,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.05,
+            "color": "red"
+          }
+        },
+        "Virtus Bologna": {
+          "PG": {
+            "value": 0.19,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.42,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.29,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.15,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.14,
+            "color": "red"
+          }
+        },
+        "Zalgiris Kaunas": {
+          "PG": {
+            "value": -0.29,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.07,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.26,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.43,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.08,
+            "color": "green"
+          }
+        }
+      },
+      "fg3a": {
+        "AS Monaco": {
+          "PG": {
+            "value": -0.85,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.26,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.07,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.15,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.07,
+            "color": "green"
+          }
+        },
+        "ASVEL Villeurbanne": {
+          "PG": {
+            "value": -0.69,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.33,
+            "color": "red"
+          },
+          "SF": {
+            "value": -1.12,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.65,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.28,
+            "color": "red"
+          }
+        },
+        "Barcelona": {
+          "PG": {
+            "value": 0.2,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.58,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.97,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.1,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.21,
+            "color": "green"
+          }
+        },
+        "Baskonia Vitoria": {
+          "PG": {
+            "value": -0.2,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.59,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.57,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.0,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.09,
+            "color": "red"
+          }
+        },
+        "Bayern Munich": {
+          "PG": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.73,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.23,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.28,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.15,
+            "color": "green"
+          }
+        },
+        "Crvena Zvezda": {
+          "PG": {
+            "value": 0.1,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.4,
+            "color": "green"
+          },
+          "SF": {
+            "value": 1.67,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.01,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.62,
+            "color": "red"
+          }
+        },
+        "Dubai Basketball": {
+          "PG": {
+            "value": -0.22,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.05,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.22,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.09,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.12,
+            "color": "green"
+          }
+        },
+        "Efes Anadolu": {
+          "PG": {
+            "value": -0.24,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.42,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.12,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.62,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.04,
+            "color": "green"
+          }
+        },
+        "Fenerbahce": {
+          "PG": {
+            "value": -0.67,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.23,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.08,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.96,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.13,
+            "color": "red"
+          }
+        },
+        "Hapoel Tel Aviv": {
+          "PG": {
+            "value": -0.07,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.06,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.07,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.4,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.54,
+            "color": "red"
+          }
+        },
+        "Maccabi Tel Aviv": {
+          "PG": {
+            "value": 0.42,
+            "color": "green"
+          },
+          "SG": {
+            "value": 1.76,
+            "color": "green"
+          },
+          "SF": {
+            "value": 1.27,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.55,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.27,
+            "color": "red"
+          }
+        },
+        "Olimpia Milano": {
+          "PG": {
+            "value": 0.4,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.18,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.09,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.37,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.24,
+            "color": "green"
+          }
+        },
+        "Olympiacos Piraeus": {
+          "PG": {
+            "value": -0.14,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.27,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.49,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.58,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.65,
+            "color": "green"
+          }
+        },
+        "Panathinaikos": {
+          "PG": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.47,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.23,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.4,
+            "color": "green"
+          }
+        },
+        "Paris Basketball": {
+          "PG": {
+            "value": 1.01,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.93,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.41,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.9,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.01,
+            "color": "green"
+          }
+        },
+        "Partizan Belgrade": {
+          "PG": {
+            "value": 0.37,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.28,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.15,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.47,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.08,
+            "color": "green"
+          }
+        },
+        "Real Madrid": {
+          "PG": {
+            "value": 0.41,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.22,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.23,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.52,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.25,
+            "color": "green"
+          }
+        },
+        "Valencia Basket": {
+          "PG": {
+            "value": 0.09,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.08,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.37,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.08,
+            "color": "red"
+          }
+        },
+        "Virtus Bologna": {
+          "PG": {
+            "value": 0.8,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.28,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.13,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.11,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.4,
+            "color": "red"
+          }
+        },
+        "Zalgiris Kaunas": {
+          "PG": {
+            "value": -0.83,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.15,
+            "color": "red"
+          },
+          "SF": {
+            "value": -1.16,
+            "color": "red"
+          },
+          "PF": {
+            "value": -1.07,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.41,
+            "color": "green"
+          }
+        }
+      },
+      "totalrebs": {
+        "AS Monaco": {
+          "PG": {
+            "value": 0.08,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.15,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.28,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.31,
+            "color": "green"
+          },
+          "C": {
+            "value": 1.14,
+            "color": "green"
+          }
+        },
+        "ASVEL Villeurbanne": {
+          "PG": {
+            "value": 0.07,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.19,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.24,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.5,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.05,
+            "color": "green"
+          }
+        },
+        "Barcelona": {
+          "PG": {
+            "value": -0.31,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.54,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.55,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.05,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.7,
+            "color": "green"
+          }
+        },
+        "Baskonia Vitoria": {
+          "PG": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.14,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.23,
+            "color": "green"
+          },
+          "PF": {
+            "value": 1.06,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.05,
+            "color": "red"
+          }
+        },
+        "Bayern Munich": {
+          "PG": {
+            "value": -0.43,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.17,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.91,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.72,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.84,
+            "color": "red"
+          }
+        },
+        "Crvena Zvezda": {
+          "PG": {
+            "value": -0.3,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.06,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.13,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.3,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.59,
+            "color": "red"
+          }
+        },
+        "Dubai Basketball": {
+          "PG": {
+            "value": 0.16,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.73,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.46,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.32,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.83,
+            "color": "red"
+          }
+        },
+        "Efes Anadolu": {
+          "PG": {
+            "value": 0.04,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.46,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.11,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.22,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.76,
+            "color": "red"
+          }
+        },
+        "Fenerbahce": {
+          "PG": {
+            "value": -0.47,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.05,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.04,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.04,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.67,
+            "color": "green"
+          }
+        },
+        "Hapoel Tel Aviv": {
+          "PG": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.18,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.81,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.76,
+            "color": "green"
+          }
+        },
+        "Maccabi Tel Aviv": {
+          "PG": {
+            "value": 0.33,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.16,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.09,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.54,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.14,
+            "color": "green"
+          }
+        },
+        "Olimpia Milano": {
+          "PG": {
+            "value": 0.29,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.04,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.13,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.18,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.55,
+            "color": "red"
+          }
+        },
+        "Olympiacos Piraeus": {
+          "PG": {
+            "value": 0.25,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.31,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.05,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.48,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.15,
+            "color": "red"
+          }
+        },
+        "Panathinaikos": {
+          "PG": {
+            "value": 0.69,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.29,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.45,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.35,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.64,
+            "color": "green"
+          }
+        },
+        "Paris Basketball": {
+          "PG": {
+            "value": 0.03,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.06,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.78,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.34,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.11,
+            "color": "green"
+          }
+        },
+        "Partizan Belgrade": {
+          "PG": {
+            "value": 0.05,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.45,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.18,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.04,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.1,
+            "color": "red"
+          }
+        },
+        "Real Madrid": {
+          "PG": {
+            "value": 0.11,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.07,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.39,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.06,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.91,
+            "color": "red"
+          }
+        },
+        "Valencia Basket": {
+          "PG": {
+            "value": -0.34,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.14,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.23,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.24,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.85,
+            "color": "red"
+          }
+        },
+        "Virtus Bologna": {
+          "PG": {
+            "value": 0.22,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.3,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.42,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.24,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.14,
+            "color": "red"
+          }
+        },
+        "Zalgiris Kaunas": {
+          "PG": {
+            "value": -0.35,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.43,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.06,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.24,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.7,
+            "color": "green"
+          }
+        }
+      },
+      "ofrebs": {
+        "AS Monaco": {
+          "PG": {
+            "value": 0.05,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.09,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.04,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.25,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.53,
+            "color": "green"
+          }
+        },
+        "ASVEL Villeurbanne": {
+          "PG": {
+            "value": 0.03,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.04,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.09,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.3,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.09,
+            "color": "red"
+          }
+        },
+        "Barcelona": {
+          "PG": {
+            "value": -0.05,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.11,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.1,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.19,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.43,
+            "color": "green"
+          }
+        },
+        "Baskonia Vitoria": {
+          "PG": {
+            "value": 0.15,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.32,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.05,
+            "color": "green"
+          }
+        },
+        "Bayern Munich": {
+          "PG": {
+            "value": -0.29,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.11,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.18,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.42,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.12,
+            "color": "red"
+          }
+        },
+        "Crvena Zvezda": {
+          "PG": {
+            "value": -0.2,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.22,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.18,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.27,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.18,
+            "color": "red"
+          }
+        },
+        "Dubai Basketball": {
+          "PG": {
+            "value": 0.29,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.03,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.22,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.14,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.15,
+            "color": "red"
+          }
+        },
+        "Efes Anadolu": {
+          "PG": {
+            "value": 0.08,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.04,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.31,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.52,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.27,
+            "color": "red"
+          }
+        },
+        "Fenerbahce": {
+          "PG": {
+            "value": -0.1,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.12,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.46,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.08,
+            "color": "green"
+          }
+        },
+        "Hapoel Tel Aviv": {
+          "PG": {
+            "value": -0.04,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.16,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.28,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.07,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.37,
+            "color": "green"
+          }
+        },
+        "Maccabi Tel Aviv": {
+          "PG": {
+            "value": 0.02,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.03,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.19,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.29,
+            "color": "green"
+          }
+        },
+        "Olimpia Milano": {
+          "PG": {
+            "value": -0.04,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.16,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.28,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.2,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.6,
+            "color": "red"
+          }
+        },
+        "Olympiacos Piraeus": {
+          "PG": {
+            "value": 0.16,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.36,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.27,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.2,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.07,
+            "color": "red"
+          }
+        },
+        "Panathinaikos": {
+          "PG": {
+            "value": 0.19,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.03,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.11,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.38,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.18,
+            "color": "green"
+          }
+        },
+        "Paris Basketball": {
+          "PG": {
+            "value": 0.13,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.05,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.25,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.15,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.77,
+            "color": "green"
+          }
+        },
+        "Partizan Belgrade": {
+          "PG": {
+            "value": -0.09,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.12,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.17,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.18,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.34,
+            "color": "red"
+          }
+        },
+        "Real Madrid": {
+          "PG": {
+            "value": 0.06,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.18,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.28,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.2,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.32,
+            "color": "red"
+          }
+        },
+        "Valencia Basket": {
+          "PG": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.14,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.1,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.14,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.28,
+            "color": "red"
+          }
+        },
+        "Virtus Bologna": {
+          "PG": {
+            "value": 0.06,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.17,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.17,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.32,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.22,
+            "color": "red"
+          }
+        },
+        "Zalgiris Kaunas": {
+          "PG": {
+            "value": -0.04,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.15,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.02,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.04,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.11,
+            "color": "green"
+          }
+        }
+      },
+      "defrebs": {
+        "AS Monaco": {
+          "PG": {
+            "value": -0.08,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.24,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.33,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.49,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.36,
+            "color": "green"
+          }
+        },
+        "ASVEL Villeurbanne": {
+          "PG": {
+            "value": 0.16,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.25,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.36,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.15,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.33,
+            "color": "red"
+          }
+        },
+        "Barcelona": {
+          "PG": {
+            "value": -0.4,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.48,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.36,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.13,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.45,
+            "color": "green"
+          }
+        },
+        "Baskonia Vitoria": {
+          "PG": {
+            "value": -0.16,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.12,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.46,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.8,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.29,
+            "color": "red"
+          }
+        },
+        "Bayern Munich": {
+          "PG": {
+            "value": -0.2,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.11,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.35,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.47,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.19,
+            "color": "red"
+          }
+        },
+        "Crvena Zvezda": {
+          "PG": {
+            "value": -0.25,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.15,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.14,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.25,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.46,
+            "color": "red"
+          }
+        },
+        "Dubai Basketball": {
+          "PG": {
+            "value": -0.16,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.77,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.25,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.07,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.58,
+            "color": "red"
+          }
+        },
+        "Efes Anadolu": {
+          "PG": {
+            "value": 0.25,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.5,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.15,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.05,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.64,
+            "color": "red"
+          }
+        },
+        "Fenerbahce": {
+          "PG": {
+            "value": -0.07,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.18,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.06,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.38,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.49,
+            "color": "green"
+          }
+        },
+        "Hapoel Tel Aviv": {
+          "PG": {
+            "value": -0.08,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.28,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.16,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.74,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.36,
+            "color": "green"
+          }
+        },
+        "Maccabi Tel Aviv": {
+          "PG": {
+            "value": 0.33,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.07,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.24,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.06,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.12,
+            "color": "green"
+          }
+        },
+        "Olimpia Milano": {
+          "PG": {
+            "value": 0.19,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.27,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.17,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.2,
+            "color": "red"
+          }
+        },
+        "Olympiacos Piraeus": {
+          "PG": {
+            "value": 0.21,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.05,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.41,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.54,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.17,
+            "color": "red"
+          }
+        },
+        "Panathinaikos": {
+          "PG": {
+            "value": 0.25,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.32,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.63,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.13,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.32,
+            "color": "green"
+          }
+        },
+        "Paris Basketball": {
+          "PG": {
+            "value": 0.2,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.05,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.32,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.44,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.21,
+            "color": "red"
+          }
+        },
+        "Partizan Belgrade": {
+          "PG": {
+            "value": 0.12,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.67,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.25,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.32,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.34,
+            "color": "green"
+          }
+        },
+        "Real Madrid": {
+          "PG": {
+            "value": 0.09,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.19,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.16,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.17,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.39,
+            "color": "red"
+          }
+        },
+        "Valencia Basket": {
+          "PG": {
+            "value": -0.33,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.28,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.21,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.27,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.3,
+            "color": "red"
+          }
+        },
+        "Virtus Bologna": {
+          "PG": {
+            "value": 0.09,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.14,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.26,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.12,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.24,
+            "color": "red"
+          }
+        },
+        "Zalgiris Kaunas": {
+          "PG": {
+            "value": -0.33,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.31,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.43,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.03,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.6,
+            "color": "green"
+          }
+        }
+      },
+      "assists": {
+        "AS Monaco": {
+          "PG": {
+            "value": -0.7,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.27,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.41,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.08,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.17,
+            "color": "green"
+          }
+        },
+        "ASVEL Villeurbanne": {
+          "PG": {
+            "value": -0.17,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.81,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.08,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.29,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.19,
+            "color": "red"
+          }
+        },
+        "Barcelona": {
+          "PG": {
+            "value": -0.2,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.03,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.11,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.33,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.24,
+            "color": "green"
+          }
+        },
+        "Baskonia Vitoria": {
+          "PG": {
+            "value": -0.45,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.28,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.06,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.22,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.55,
+            "color": "green"
+          }
+        },
+        "Bayern Munich": {
+          "PG": {
+            "value": -0.4,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.14,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.1,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.36,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.21,
+            "color": "green"
+          }
+        },
+        "Crvena Zvezda": {
+          "PG": {
+            "value": -0.1,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.06,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.13,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.17,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.38,
+            "color": "green"
+          }
+        },
+        "Dubai Basketball": {
+          "PG": {
+            "value": 0.43,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.0,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.13,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.23,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.33,
+            "color": "red"
+          }
+        },
+        "Efes Anadolu": {
+          "PG": {
+            "value": 1.44,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.45,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.52,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.31,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.3,
+            "color": "red"
+          }
+        },
+        "Fenerbahce": {
+          "PG": {
+            "value": -0.54,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.5,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.23,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.47,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.37,
+            "color": "red"
+          }
+        },
+        "Hapoel Tel Aviv": {
+          "PG": {
+            "value": 0.07,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.83,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.19,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.42,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.18,
+            "color": "red"
+          }
+        },
+        "Maccabi Tel Aviv": {
+          "PG": {
+            "value": 0.24,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.26,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.85,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.62,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.2,
+            "color": "red"
+          }
+        },
+        "Olimpia Milano": {
+          "PG": {
+            "value": -0.53,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.14,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.0,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.23,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.14,
+            "color": "red"
+          }
+        },
+        "Olympiacos Piraeus": {
+          "PG": {
+            "value": 0.47,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.25,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.18,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.26,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.15,
+            "color": "red"
+          }
+        },
+        "Panathinaikos": {
+          "PG": {
+            "value": 0.98,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.37,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.28,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.03,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.12,
+            "color": "red"
+          }
+        },
+        "Paris Basketball": {
+          "PG": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.38,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.28,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.78,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.2,
+            "color": "green"
+          }
+        },
+        "Partizan Belgrade": {
+          "PG": {
+            "value": -0.22,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.26,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.1,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.43,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.15,
+            "color": "green"
+          }
+        },
+        "Real Madrid": {
+          "PG": {
+            "value": -0.29,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.54,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.45,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.05,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.33,
+            "color": "red"
+          }
+        },
+        "Valencia Basket": {
+          "PG": {
+            "value": 0.36,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.24,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.1,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.07,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.05,
+            "color": "green"
+          }
+        },
+        "Virtus Bologna": {
+          "PG": {
+            "value": 0.69,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.07,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.08,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.09,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.06,
+            "color": "green"
+          }
+        },
+        "Zalgiris Kaunas": {
+          "PG": {
+            "value": -0.27,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.13,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.43,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.22,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.22,
+            "color": "green"
+          }
+        }
+      },
+      "turnovers": {
+        "AS Monaco": {
+          "PG": {
+            "value": 0.57,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.08,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.19,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.0,
+            "color": null
+          },
+          "C": {
+            "value": -0.26,
+            "color": "green"
+          }
+        },
+        "ASVEL Villeurbanne": {
+          "PG": {
+            "value": 0.06,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.14,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.41,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.01,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.1,
+            "color": "green"
+          }
+        },
+        "Barcelona": {
+          "PG": {
+            "value": 0.15,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.21,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.01,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.1,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.26,
+            "color": "green"
+          }
+        },
+        "Baskonia Vitoria": {
+          "PG": {
+            "value": -0.19,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.21,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.06,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.01,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.06,
+            "color": "green"
+          }
+        },
+        "Bayern Munich": {
+          "PG": {
+            "value": 0.49,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.17,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.11,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.27,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.02,
+            "color": "red"
+          }
+        },
+        "Crvena Zvezda": {
+          "PG": {
+            "value": 0.02,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.18,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.08,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.07,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.17,
+            "color": "green"
+          }
+        },
+        "Dubai Basketball": {
+          "PG": {
+            "value": -0.3,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.1,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.38,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.31,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.26,
+            "color": "green"
+          }
+        },
+        "Efes Anadolu": {
+          "PG": {
+            "value": -0.04,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.29,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.13,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.2,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.01,
+            "color": "green"
+          }
+        },
+        "Fenerbahce": {
+          "PG": {
+            "value": -0.13,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.04,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.21,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.31,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.5,
+            "color": "red"
+          }
+        },
+        "Hapoel Tel Aviv": {
+          "PG": {
+            "value": 0.1,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.11,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.04,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.09,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.01,
+            "color": "red"
+          }
+        },
+        "Maccabi Tel Aviv": {
+          "PG": {
+            "value": 0.04,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.07,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.22,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.53,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.03,
+            "color": "red"
+          }
+        },
+        "Olimpia Milano": {
+          "PG": {
+            "value": -0.63,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.36,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.27,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.11,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.09,
+            "color": "red"
+          }
+        },
+        "Olympiacos Piraeus": {
+          "PG": {
+            "value": 0.07,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.19,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.18,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.19,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.26,
+            "color": "red"
+          }
+        },
+        "Panathinaikos": {
+          "PG": {
+            "value": 0.38,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.2,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.13,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.07,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.15,
+            "color": "green"
+          }
+        },
+        "Paris Basketball": {
+          "PG": {
+            "value": 0.06,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.61,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.36,
+            "color": "red"
+          },
+          "PF": {
+            "value": 1.04,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.32,
+            "color": "red"
+          }
+        },
+        "Partizan Belgrade": {
+          "PG": {
+            "value": 0.04,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.01,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.07,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.06,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.19,
+            "color": "red"
+          }
+        },
+        "Real Madrid": {
+          "PG": {
+            "value": -0.39,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.14,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.18,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.14,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.25,
+            "color": "green"
+          }
+        },
+        "Valencia Basket": {
+          "PG": {
+            "value": -0.27,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.1,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.81,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.32,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.34,
+            "color": "red"
+          }
+        },
+        "Virtus Bologna": {
+          "PG": {
+            "value": -0.34,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.38,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.13,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.21,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.28,
+            "color": "red"
+          }
+        },
+        "Zalgiris Kaunas": {
+          "PG": {
+            "value": -0.26,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.18,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.23,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.23,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.2,
+            "color": "green"
+          }
+        }
+      },
+      "steals": {
+        "AS Monaco": {
+          "PG": {
+            "value": 0.13,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.11,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.17,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.27,
+            "color": "red"
+          }
+        },
+        "ASVEL Villeurbanne": {
+          "PG": {
+            "value": -0.19,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.11,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.28,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.19,
+            "color": "green"
+          }
+        },
+        "Barcelona": {
+          "PG": {
+            "value": -0.19,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.06,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.05,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.15,
+            "color": "green"
+          }
+        },
+        "Baskonia Vitoria": {
+          "PG": {
+            "value": 0.2,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.23,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.21,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.19,
+            "color": "red"
+          }
+        },
+        "Bayern Munich": {
+          "PG": {
+            "value": 0.3,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.06,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.09,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.16,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.14,
+            "color": "green"
+          }
+        },
+        "Crvena Zvezda": {
+          "PG": {
+            "value": 0.62,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.07,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.23,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.15,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.25,
+            "color": "red"
+          }
+        },
+        "Dubai Basketball": {
+          "PG": {
+            "value": -0.1,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.04,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.01,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.15,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.32,
+            "color": "red"
+          }
+        },
+        "Efes Anadolu": {
+          "PG": {
+            "value": -0.24,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.09,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.04,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.36,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.11,
+            "color": "red"
+          }
+        },
+        "Fenerbahce": {
+          "PG": {
+            "value": -0.2,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.22,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.1,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.09,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.06,
+            "color": "red"
+          }
+        },
+        "Hapoel Tel Aviv": {
+          "PG": {
+            "value": -0.11,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.04,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.07,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.11,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.03,
+            "color": "green"
+          }
+        },
+        "Maccabi Tel Aviv": {
+          "PG": {
+            "value": -0.08,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.18,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.12,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.01,
+            "color": "green"
+          }
+        },
+        "Olimpia Milano": {
+          "PG": {
+            "value": 0.0,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.24,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.08,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.15,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.23,
+            "color": "red"
+          }
+        },
+        "Olympiacos Piraeus": {
+          "PG": {
+            "value": -0.09,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.06,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.19,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.15,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.22,
+            "color": "green"
+          }
+        },
+        "Panathinaikos": {
+          "PG": {
+            "value": -0.24,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.18,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.22,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.12,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.17,
+            "color": "green"
+          }
+        },
+        "Paris Basketball": {
+          "PG": {
+            "value": 0.36,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.08,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.24,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.31,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.03,
+            "color": "green"
+          }
+        },
+        "Partizan Belgrade": {
+          "PG": {
+            "value": 0.01,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.3,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.04,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.22,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.03,
+            "color": "red"
+          }
+        },
+        "Real Madrid": {
+          "PG": {
+            "value": 0.18,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.07,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.09,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.06,
+            "color": "red"
+          }
+        },
+        "Valencia Basket": {
+          "PG": {
+            "value": 0.09,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.01,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.07,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.14,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.22,
+            "color": "green"
+          }
+        },
+        "Virtus Bologna": {
+          "PG": {
+            "value": 0.05,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.33,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.06,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.17,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.01,
+            "color": "red"
+          }
+        },
+        "Zalgiris Kaunas": {
+          "PG": {
+            "value": -0.35,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.31,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.17,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.16,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.24,
+            "color": "green"
+          }
+        }
+      },
+      "blocks": {
+        "AS Monaco": {
+          "PG": {
+            "value": 0.02,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.06,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.08,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.05,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.3,
+            "color": "red"
+          }
+        },
+        "ASVEL Villeurbanne": {
+          "PG": {
+            "value": -0.1,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.04,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.23,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.11,
+            "color": "red"
+          }
+        },
+        "Barcelona": {
+          "PG": {
+            "value": -0.07,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.02,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.0,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.07,
+            "color": "red"
+          }
+        },
+        "Baskonia Vitoria": {
+          "PG": {
+            "value": 0.02,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.08,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.06,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.12,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.25,
+            "color": "red"
+          }
+        },
+        "Bayern Munich": {
+          "PG": {
+            "value": -0.05,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.15,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.01,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.08,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.11,
+            "color": "green"
+          }
+        },
+        "Crvena Zvezda": {
+          "PG": {
+            "value": 0.1,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.27,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.02,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.15,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.02,
+            "color": "green"
+          }
+        },
+        "Dubai Basketball": {
+          "PG": {
+            "value": -0.14,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.02,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.03,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.08,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.04,
+            "color": "red"
+          }
+        },
+        "Efes Anadolu": {
+          "PG": {
+            "value": -0.03,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.01,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.04,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.12,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.2,
+            "color": "green"
+          }
+        },
+        "Fenerbahce": {
+          "PG": {
+            "value": 0.0,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.15,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.12,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.22,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.02,
+            "color": "green"
+          }
+        },
+        "Hapoel Tel Aviv": {
+          "PG": {
+            "value": 0.22,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.11,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.07,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.06,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.07,
+            "color": "red"
+          }
+        },
+        "Maccabi Tel Aviv": {
+          "PG": {
+            "value": -0.04,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.06,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.16,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.0,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.28,
+            "color": "red"
+          }
+        },
+        "Olimpia Milano": {
+          "PG": {
+            "value": -0.08,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.15,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.04,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.2,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.1,
+            "color": "red"
+          }
+        },
+        "Olympiacos Piraeus": {
+          "PG": {
+            "value": 0.01,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.12,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.1,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.26,
+            "color": "red"
+          }
+        },
+        "Panathinaikos": {
+          "PG": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.08,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.02,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.03,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.13,
+            "color": "red"
+          }
+        },
+        "Paris Basketball": {
+          "PG": {
+            "value": 0.08,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.05,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.13,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.23,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.57,
+            "color": "green"
+          }
+        },
+        "Partizan Belgrade": {
+          "PG": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.13,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.21,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.31,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.04,
+            "color": "red"
+          }
+        },
+        "Real Madrid": {
+          "PG": {
+            "value": -0.03,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.09,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.08,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.08,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.06,
+            "color": "green"
+          }
+        },
+        "Valencia Basket": {
+          "PG": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.08,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.04,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.22,
+            "color": "green"
+          }
+        },
+        "Virtus Bologna": {
+          "PG": {
+            "value": 0.18,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.27,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.12,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.07,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.04,
+            "color": "red"
+          }
+        },
+        "Zalgiris Kaunas": {
+          "PG": {
+            "value": -0.13,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.06,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.08,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.03,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.29,
+            "color": "green"
+          }
+        }
+      },
+      "fouls": {
+        "AS Monaco": {
+          "PG": {
+            "value": 0.26,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.11,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.14,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.03,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.02,
+            "color": "green"
+          }
+        },
+        "ASVEL Villeurbanne": {
+          "PG": {
+            "value": -0.22,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.0,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.35,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.15,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.05,
+            "color": "green"
+          }
+        },
+        "Barcelona": {
+          "PG": {
+            "value": 0.1,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.46,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.02,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.13,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.24,
+            "color": "green"
+          }
+        },
+        "Baskonia Vitoria": {
+          "PG": {
+            "value": -0.09,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.2,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.06,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.04,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.06,
+            "color": "green"
+          }
+        },
+        "Bayern Munich": {
+          "PG": {
+            "value": -0.29,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.06,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.04,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.13,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.62,
+            "color": "green"
+          }
+        },
+        "Crvena Zvezda": {
+          "PG": {
+            "value": -0.23,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.21,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.5,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.22,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.33,
+            "color": "red"
+          }
+        },
+        "Dubai Basketball": {
+          "PG": {
+            "value": -0.04,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.35,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.02,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.5,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.44,
+            "color": "red"
+          }
+        },
+        "Efes Anadolu": {
+          "PG": {
+            "value": 0.11,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.03,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.3,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.62,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.14,
+            "color": "green"
+          }
+        },
+        "Fenerbahce": {
+          "PG": {
+            "value": 0.05,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.16,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.14,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.07,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.2,
+            "color": "green"
+          }
+        },
+        "Hapoel Tel Aviv": {
+          "PG": {
+            "value": -0.04,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.03,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.52,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.17,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.28,
+            "color": "green"
+          }
+        },
+        "Maccabi Tel Aviv": {
+          "PG": {
+            "value": -0.14,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.29,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.39,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.64,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.38,
+            "color": "red"
+          }
+        },
+        "Olimpia Milano": {
+          "PG": {
+            "value": -0.2,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.27,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.15,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.52,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.34,
+            "color": "red"
+          }
+        },
+        "Olympiacos Piraeus": {
+          "PG": {
+            "value": 0.19,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.43,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.07,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.02,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.32,
+            "color": "red"
+          }
+        },
+        "Panathinaikos": {
+          "PG": {
+            "value": 0.01,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.22,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.34,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.23,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.38,
+            "color": "green"
+          }
+        },
+        "Paris Basketball": {
+          "PG": {
+            "value": 0.57,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.18,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.35,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.09,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.13,
+            "color": "green"
+          }
+        },
+        "Partizan Belgrade": {
+          "PG": {
+            "value": 0.02,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.28,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.29,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.68,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.15,
+            "color": "green"
+          }
+        },
+        "Real Madrid": {
+          "PG": {
+            "value": 0.1,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.08,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.27,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.07,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.21,
+            "color": "red"
+          }
+        },
+        "Valencia Basket": {
+          "PG": {
+            "value": -0.04,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.33,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.5,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.12,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.07,
+            "color": "red"
+          }
+        },
+        "Virtus Bologna": {
+          "PG": {
+            "value": -0.06,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.35,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.42,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.43,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.18,
+            "color": "green"
+          }
+        },
+        "Zalgiris Kaunas": {
+          "PG": {
+            "value": -0.08,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.22,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.41,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.08,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.09,
+            "color": "red"
+          }
+        }
+      },
+      "foulsa": {
+        "AS Monaco": {
+          "PG": {
+            "value": -0.09,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.43,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.44,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.53,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.01,
+            "color": "red"
+          }
+        },
+        "ASVEL Villeurbanne": {
+          "PG": {
+            "value": -0.29,
+            "color": "red"
+          },
+          "SG": {
+            "value": 0.4,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.06,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.28,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.57,
+            "color": "green"
+          }
+        },
+        "Barcelona": {
+          "PG": {
+            "value": -0.24,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.51,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.32,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.17,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.33,
+            "color": "red"
+          }
+        },
+        "Baskonia Vitoria": {
+          "PG": {
+            "value": 0.19,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.32,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.13,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.13,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.49,
+            "color": "green"
+          }
+        },
+        "Bayern Munich": {
+          "PG": {
+            "value": 0.07,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.27,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.07,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.19,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.12,
+            "color": "red"
+          }
+        },
+        "Crvena Zvezda": {
+          "PG": {
+            "value": 0.31,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.23,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.28,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.02,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.37,
+            "color": "red"
+          }
+        },
+        "Dubai Basketball": {
+          "PG": {
+            "value": 0.1,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.25,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.3,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.06,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.39,
+            "color": "green"
+          }
+        },
+        "Efes Anadolu": {
+          "PG": {
+            "value": 0.13,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.82,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.06,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.18,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.06,
+            "color": "red"
+          }
+        },
+        "Fenerbahce": {
+          "PG": {
+            "value": 0.52,
+            "color": "green"
+          },
+          "SG": {
+            "value": 1.18,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.29,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.1,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.41,
+            "color": "red"
+          }
+        },
+        "Hapoel Tel Aviv": {
+          "PG": {
+            "value": -0.21,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.12,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.34,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.0,
+            "color": "red"
+          }
+        },
+        "Maccabi Tel Aviv": {
+          "PG": {
+            "value": -0.22,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.88,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.6,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.66,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.74,
+            "color": "green"
+          }
+        },
+        "Olimpia Milano": {
+          "PG": {
+            "value": 0.11,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.12,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.28,
+            "color": "green"
+          },
+          "PF": {
+            "value": -0.21,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.5,
+            "color": "red"
+          }
+        },
+        "Olympiacos Piraeus": {
+          "PG": {
+            "value": 0.07,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.16,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.11,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.52,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.63,
+            "color": "red"
+          }
+        },
+        "Panathinaikos": {
+          "PG": {
+            "value": -0.94,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.17,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.15,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.61,
+            "color": "red"
+          },
+          "C": {
+            "value": -0.06,
+            "color": "red"
+          }
+        },
+        "Paris Basketball": {
+          "PG": {
+            "value": 0.31,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.09,
+            "color": "green"
+          },
+          "SF": {
+            "value": 0.35,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.08,
+            "color": "green"
+          },
+          "C": {
+            "value": 0.45,
+            "color": "green"
+          }
+        },
+        "Partizan Belgrade": {
+          "PG": {
+            "value": 0.27,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.12,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.25,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.14,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.18,
+            "color": "green"
+          }
+        },
+        "Real Madrid": {
+          "PG": {
+            "value": -0.02,
+            "color": "red"
+          },
+          "SG": {
+            "value": -0.41,
+            "color": "red"
+          },
+          "SF": {
+            "value": 0.05,
+            "color": "green"
+          },
+          "PF": {
+            "value": 0.19,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.28,
+            "color": "red"
+          }
+        },
+        "Valencia Basket": {
+          "PG": {
+            "value": 0.6,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.11,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.25,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.23,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.17,
+            "color": "red"
+          }
+        },
+        "Virtus Bologna": {
+          "PG": {
+            "value": 0.05,
+            "color": "green"
+          },
+          "SG": {
+            "value": -0.32,
+            "color": "red"
+          },
+          "SF": {
+            "value": -0.54,
+            "color": "red"
+          },
+          "PF": {
+            "value": 0.41,
+            "color": "green"
+          },
+          "C": {
+            "value": -0.18,
+            "color": "red"
+          }
+        },
+        "Zalgiris Kaunas": {
+          "PG": {
+            "value": 0.02,
+            "color": "green"
+          },
+          "SG": {
+            "value": 0.34,
+            "color": "green"
+          },
+          "SF": {
+            "value": -0.01,
+            "color": "red"
+          },
+          "PF": {
+            "value": -0.54,
+            "color": "red"
+          },
+          "C": {
+            "value": 0.31,
+            "color": "green"
+          }
+        }
+      }
+    },
+    "percentage": {}
+  }
+}

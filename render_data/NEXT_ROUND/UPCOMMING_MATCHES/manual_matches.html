@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="el">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Επεξεργασία Αγώνων</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background: #f5f5f5; }
+        h1 { color: #333; }
+        table { border-collapse: collapse; width: 100%; background: white; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+        th { background-color: #4CAF50; color: white; }
+        select, input { width: 100%; padding: 5px; box-sizing: border-box; }
+        .date-container { display: flex; align-items: center; gap: 4px; }
+        .date-container input { flex: 1; }
+        .date-container button { 
+            background: #2196F3; 
+            color: white; 
+            border: none; 
+            border-radius: 4px; 
+            cursor: pointer; 
+            padding: 6px 8px; 
+            font-size: 16px;
+            line-height: 1;
+            margin: 0;
+            white-space: nowrap;
+        }
+        .date-container button:hover { background: #0b7dda; }
+        button { margin: 10px 5px 10px 0; padding: 8px 12px; background: #4CAF50; color: white; border: none; cursor: pointer; border-radius: 4px; }
+        button:hover { background: #45a049; }
+        .remove-btn { background: #f44336; color: white; border: none; border-radius: 4px; cursor: pointer; padding: 5px 8px; }
+        .remove-btn:hover { background: #d32f2f; }
+        .clear-btn { background: #ff9800; }
+        .clear-btn:hover { background: #fb8c00; }
+        textarea { width: 100%; height: 300px; font-family: monospace; margin-top: 20px; }
+        .actions { display: flex; gap: 10px; flex-wrap: wrap; }
+        .invalid { border: 2px solid red; }
+    </style>
+</head>
+<body>
+    <h1>Επεξεργασία Αγώνων</h1>
+    <div class="actions">
+        <button id="addRowBtn">➕ Add Row</button>
+        <button id="removeLastBtn">➖ Remove Last Row</button>
+        <button id="clearAllBtn" class="clear-btn">🧹 Clear All</button>
+        <button id="generateBtn">⚙️ Generate JSON</button>
+        <button id="downloadBtn">⬇️ Download JSON</button>
+    </div>
+    <table id="matchesTable">
+        <thead>
+            <tr>
+                <th>Home</th>
+                <th>Away</th>
+                <th>Round</th>
+                <th>Date (ΗΗ/ΜΜ/ΕΕΕΕ)</th>
+                <th>Time (HH:MM)</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody id="tableBody">
+            <!-- rows -->
+        </tbody>
+    </table>
+    <textarea id="jsonOutput" placeholder="JSON output" readonly></textarea>
+
+    <script>
+        // ----- Ενσωματωμένα δεδομένα από τα αρχεία team_canonical.json και team_codes.json -----
+        const teamCanonical = {
+            "anadolu_efes": { "display": "Anadolu Efes" },
+            "as_monaco": { "display": "AS Monaco" },
+            "baskonia": { "display": "Baskonia" },
+            "crvena_zvezda": { "display": "Crvena Zvezda" },
+            "dubai": { "display": "Dubai Basketball" },
+            "olimpia_milano": { "display": "Olimpia Milano" },
+            "fc_barcelona": { "display": "FC Barcelona" },
+            "fc_bayern": { "display": "FC Bayern Munich" },
+            "fenerbahce": { "display": "Fenerbahce" },
+            "hapoel_tel_aviv": { "display": "Hapoel Tel Aviv" },
+            "asvel": { "display": "LDLC ASVEL Villeurbanne" },
+            "maccabi_tel_aviv": { "display": "Maccabi Tel Aviv" },
+            "olympiacos": { "display": "Olympiacos" },
+            "panathinaikos": { "display": "Panathinaikos" },
+            "paris": { "display": "Paris Basketball" },
+            "partizan": { "display": "Partizan" },
+            "real_madrid": { "display": "Real Madrid" },
+            "valencia": { "display": "Valencia Basket" },
+            "virtus_bologna": { "display": "Virtus Bologna" },
+            "zalgiris": { "display": "Zalgiris Kaunas" }
+        };
+
+        const teamCodes = {
+            "EFS": "anadolu_efes",
+            "FBB": "fenerbahce",
+            "RMB": "real_madrid",
+            "PBB": "paris",
+            "OLY": "olympiacos",
+            "PAO": "panathinaikos",
+            "MTA": "maccabi_tel_aviv",
+            "ZAL": "zalgiris",
+            "KBA": "baskonia",
+            "ASV": "asvel",
+            "ASM": "as_monaco",
+            "BAR": "fc_barcelona",
+            "BAY": "fc_bayern",
+            "CZV": "crvena_zvezda",
+            "PAR": "partizan",
+            "DUB": "dubai",
+            "EA7": "olimpia_milano",
+            "VBC": "valencia",
+            "VIR": "virtus_bologna",
+            "HTA": "hapoel_tel_aviv"
+        };
+
+        // ----- Δημιουργία λίστας ομάδων -----
+        const teams = [];
+        for (const [code, canonicalKey] of Object.entries(teamCodes)) {
+            const display = teamCanonical[canonicalKey]?.display;
+            if (display) {
+                teams.push({ canonicalKey, display, code });
+            }
+        }
+        teams.sort((a, b) => a.display.localeCompare(b.display));
+
+        const codeToDisplay = {};
+        const codeToCanonical = {};
+        teams.forEach(t => {
+            codeToDisplay[t.code] = t.display;
+            codeToCanonical[t.code] = t.canonicalKey;
+        });
+
+        // ----- Βοηθητικές συναρτήσεις για ημερομηνία -----
+        function validateGreekDate(dateStr) {
+            const regex = /^(\d{1,2})\/(\d{1,2})\/(\d{4})$/;
+            const match = dateStr.match(regex);
+            if (!match) return false;
+            const day = parseInt(match[1], 10);
+            const month = parseInt(match[2], 10);
+            const year = parseInt(match[3], 10);
+            if (month < 1 || month > 12) return false;
+            const daysInMonth = new Date(year, month, 0).getDate();
+            return day >= 1 && day <= daysInMonth;
+        }
+
+        function greekToIso(dateStr) {
+            if (!validateGreekDate(dateStr)) return null;
+            const parts = dateStr.split('/');
+            const day = parts[0].padStart(2, '0');
+            const month = parts[1].padStart(2, '0');
+            const year = parts[2];
+            return `${year}-${month}-${day}`;
+        }
+
+        // ----- Δημιουργία dropdown -----
+        function createTeamSelect(selectedCode = '') {
+            const select = document.createElement('select');
+            select.required = true;
+            const emptyOption = document.createElement('option');
+            emptyOption.value = '';
+            emptyOption.textContent = '-- Επιλογή ομάδας --';
+            select.appendChild(emptyOption);
+
+            teams.forEach(team => {
+                const option = document.createElement('option');
+                option.value = team.code;
+                option.textContent = team.display;
+                if (team.code === selectedCode) {
+                    option.selected = true;
+                }
+                select.appendChild(option);
+            });
+            return select;
+        }
+
+        // ----- Διαχείριση localStorage -----
+        const tbody = document.getElementById('tableBody');
+        const STORAGE_KEY = 'manualMatches_final';
+
+        // ----- Δημιουργία γραμμής -----
+        function createRow(homeCode = '', awayCode = '', round = '', dateGreek = '', time = '21:00') {
+            const tr = document.createElement('tr');
+
+            // Home
+            const tdHome = document.createElement('td');
+            const homeSelect = createTeamSelect(homeCode);
+            tdHome.appendChild(homeSelect);
+            tr.appendChild(tdHome);
+
+            // Away
+            const tdAway = document.createElement('td');
+            const awaySelect = createTeamSelect(awayCode);
+            tdAway.appendChild(awaySelect);
+            tr.appendChild(tdAway);
+
+            // Round
+            const tdRound = document.createElement('td');
+            const roundInput = document.createElement('input');
+            roundInput.type = 'number';
+            roundInput.min = '1';
+            roundInput.value = round;
+            roundInput.required = true;
+            tdRound.appendChild(roundInput);
+            tr.appendChild(tdRound);
+
+            // Date + κουμπί ημερολογίου
+            const tdDate = document.createElement('td');
+            const dateContainer = document.createElement('div');
+            dateContainer.className = 'date-container';
+
+            const dateInput = document.createElement('input');
+            dateInput.type = 'text';
+            dateInput.placeholder = 'ΗΗ/ΜΜ/ΕΕΕΕ';
+            dateInput.value = dateGreek;
+            dateInput.required = true;
+            dateInput.pattern = '\\d{1,2}/\\d{1,2}/\\d{4}';
+            dateInput.addEventListener('change', function() {
+                if (!validateGreekDate(this.value)) {
+                    this.classList.add('invalid');
+                } else {
+                    this.classList.remove('invalid');
+                }
+                saveToLocalStorage();
+            });
+
+            const calendarBtn = document.createElement('button');
+            calendarBtn.textContent = '📅';
+            calendarBtn.type = 'button';
+            calendarBtn.title = 'Επιλογή ημερομηνίας';
+            calendarBtn.addEventListener('click', function(event) {
+                event.preventDefault();
+
+                const rect = calendarBtn.getBoundingClientRect();
+
+                const tempInput = document.createElement('input');
+                tempInput.type = 'date';
+
+                // fixed ώστε το native picker να ανοίγει κοντά στο κουμπί
+                tempInput.style.position = 'fixed';
+                tempInput.style.left = rect.left + 'px';
+                tempInput.style.top = (rect.bottom + 4) + 'px';
+                tempInput.style.width = '1px';
+                tempInput.style.height = '1px';
+                tempInput.style.opacity = '0';
+                tempInput.style.zIndex = '10000';
+                tempInput.style.border = '0';
+                tempInput.style.padding = '0';
+                tempInput.style.margin = '0';
+                tempInput.style.background = 'transparent';
+
+                if (validateGreekDate(dateInput.value)) {
+                    tempInput.value = greekToIso(dateInput.value);
+                }
+
+                document.body.appendChild(tempInput);
+
+                tempInput.addEventListener('change', function() {
+                    if (this.value) {
+                        const [year, month, day] = this.value.split('-');
+                        const greekDate = `${day}/${month}/${year}`;
+                        dateInput.value = greekDate;
+                        dateInput.classList.remove('invalid');
+                        saveToLocalStorage();
+                    }
+                    tempInput.remove();
+                });
+
+                tempInput.addEventListener('blur', function() {
+                    setTimeout(() => {
+                        if (document.body.contains(tempInput)) {
+                            tempInput.remove();
+                        }
+                    }, 200);
+                });
+
+                tempInput.focus();
+
+                try {
+                    tempInput.showPicker();
+                } catch (e) {
+                    tempInput.click();
+                }
+            });
+
+            dateContainer.appendChild(dateInput);
+            dateContainer.appendChild(calendarBtn);
+            tdDate.appendChild(dateContainer);
+            tr.appendChild(tdDate);
+
+            // Time (step 900 = 15 λεπτά)
+            const tdTime = document.createElement('td');
+            const timeInput = document.createElement('input');
+            timeInput.type = 'time';
+            timeInput.value = time;
+            timeInput.required = true;
+            timeInput.setAttribute('step', '900');
+            tdTime.appendChild(timeInput);
+            tr.appendChild(tdTime);
+
+            // Remove button
+            const tdRemove = document.createElement('td');
+            const removeBtn = document.createElement('button');
+            removeBtn.textContent = '❌';
+            removeBtn.classList.add('remove-btn');
+            removeBtn.onclick = () => {
+                tr.remove();
+                saveToLocalStorage();
+            };
+            tdRemove.appendChild(removeBtn);
+            tr.appendChild(tdRemove);
+
+            // Αποθήκευση σε αλλαγές
+            [homeSelect, awaySelect, roundInput, dateInput, timeInput].forEach(field => {
+                field.addEventListener('change', saveToLocalStorage);
+            });
+
+            return tr;
+        }
+
+        function addRow(homeCode = '', awayCode = '', round = '', dateGreek = '', time = '21:00') {
+            const newRow = createRow(homeCode, awayCode, round, dateGreek, time);
+            tbody.appendChild(newRow);
+            saveToLocalStorage();
+        }
+
+        function loadFromLocalStorage() {
+            const stored = localStorage.getItem(STORAGE_KEY);
+            if (stored) {
+                try {
+                    const rowsData = JSON.parse(stored);
+                    tbody.innerHTML = '';
+                    rowsData.forEach(row => {
+                        addRow(row.homeCode, row.awayCode, row.round, row.date, row.time);
+                    });
+                } catch (e) {
+                    createEmptyRows(10);
+                }
+            } else {
+                createEmptyRows(10);
+            }
+        }
+
+        function createEmptyRows(count) {
+            for (let i = 0; i < count; i++) {
+                addRow('', '', '', '', '21:00');
+            }
+        }
+
+        function saveToLocalStorage() {
+            const rows = tbody.querySelectorAll('tr');
+            const rowsData = [];
+            for (const row of rows) {
+                const selects = row.querySelectorAll('select');
+                const homeSelect = selects[0];
+                const awaySelect = selects[1];
+                const roundInput = row.querySelector('input[type="number"]');
+                const dateInput = row.querySelector('.date-container input[type="text"]');
+                const timeInput = row.querySelector('input[type="time"]');
+
+                rowsData.push({
+                    homeCode: homeSelect.value,
+                    awayCode: awaySelect.value,
+                    round: roundInput.value,
+                    date: dateInput.value,
+                    time: timeInput.value
+                });
+            }
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(rowsData));
+        }
+
+        function clearAll() {
+            tbody.innerHTML = '';
+            createEmptyRows(10);
+            saveToLocalStorage();
+        }
+
+        function generateJSON() {
+            const rows = tbody.querySelectorAll('tr');
+            const matches = [];
+
+            for (const row of rows) {
+                const selects = row.querySelectorAll('select');
+                const homeSelect = selects[0];
+                const awaySelect = selects[1];
+                const roundInput = row.querySelector('input[type="number"]');
+                const dateInput = row.querySelector('.date-container input[type="text"]');
+                const timeInput = row.querySelector('input[type="time"]');
+
+                const homeCode = homeSelect.value;
+                const awayCode = awaySelect.value;
+                const round = roundInput.value;
+                const dateGreek = dateInput.value.trim();
+                const time = timeInput.value;
+
+                if (!homeCode || !awayCode || !round || !dateGreek || !time) continue;
+
+                if (!validateGreekDate(dateGreek)) {
+                    alert(`Η ημερομηνία "${dateGreek}" δεν είναι έγκυρη.`);
+                    dateInput.focus();
+                    return;
+                }
+
+                if (homeCode === awayCode) {
+                    alert('Οι δύο ομάδες δεν μπορεί να είναι ίδιες.');
+                    return;
+                }
+
+                const isoDate = greekToIso(dateGreek);
+                const homeDisplay = codeToDisplay[homeCode];
+                const awayDisplay = codeToDisplay[awayCode];
+                const label = `${homeDisplay} vs ${awayDisplay}`;
+                const codes = [homeCode, awayCode];
+                const value = `${isoDate}_round${round}_${homeCode.toLowerCase()}_${awayCode.toLowerCase()}`;
+
+                matches.push({
+                    label,
+                    round: parseInt(round, 10),
+                    date: isoDate,
+                    time_cet: time,
+                    codes,
+                    value
+                });
+            }
+
+            matches.sort((a, b) => {
+                if (a.date !== b.date) return a.date.localeCompare(b.date);
+                if (a.time_cet !== b.time_cet) return a.time_cet.localeCompare(b.time_cet);
+                return a.label.localeCompare(b.label);
+            });
+
+            const jsonString = JSON.stringify(matches, null, 2);
+            document.getElementById('jsonOutput').value = jsonString;
+            navigator.clipboard?.writeText(jsonString).catch(() => {});
+        }
+
+        function downloadJSON() {
+            const jsonText = document.getElementById('jsonOutput').value;
+            if (!jsonText) {
+                alert('Πάτα πρώτα Generate JSON');
+                return;
+            }
+            const blob = new Blob([jsonText], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'upcoming_matches.json';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            URL.revokeObjectURL(url);
+        }
+
+        // Event listeners
+        document.getElementById('addRowBtn').addEventListener('click', () => addRow('', '', '', '', '21:00'));
+        document.getElementById('removeLastBtn').addEventListener('click', () => {
+            if (tbody.children.length > 0) {
+                tbody.removeChild(tbody.lastChild);
+                saveToLocalStorage();
+            }
+        });
+        document.getElementById('clearAllBtn').addEventListener('click', clearAll);
+        document.getElementById('generateBtn').addEventListener('click', generateJSON);
+        document.getElementById('downloadBtn').addEventListener('click', downloadJSON);
+
+        loadFromLocalStorage();
+
+        document.getElementById('jsonOutput').addEventListener('click', function() { this.select(); });
+    </script>
+</body>
+</html>
