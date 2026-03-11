@@ -47,7 +47,7 @@ if _root:
         app.mount("/assets", StaticFiles(directory=assets_dir), name="assets")
         logos_dir = os.path.join(assets_dir, "logos", "euroleague")
         if os.path.isdir(logos_dir):
-            app.mount("/api/logo", StaticFiles(directory=logos_dir), name="logo")
+            app.mount("/logos/euroleague", StaticFiles(directory=logos_dir), name="logo")
 
 # CORS
 _cors_origins = os.getenv("CORS_ORIGINS", "http://localhost:3000,http://1.0.0.127:3000,http://192.168.1.121:3000")
