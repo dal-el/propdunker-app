@@ -11,6 +11,7 @@ import { pickIdForRow, usePicks } from "@/lib/picksStore";
 import { resolveTeamKey } from "@/lib/resolveTeamKey";
 import { TEAM_CANONICAL, TEAM_ALIASES, type TeamKey } from "@/lib/teamData";
 import { CARD_GLASS, PILL, PILL_ACTIVE } from "@/lib/uiTokens";
+import { resolveEuroleagueLogoUrl, isLikelyUrl, isWindowsPath } from "@/lib/teamLogos";
 
 const API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || "http://127.0.0.1:8000";
 
@@ -786,14 +787,33 @@ const BetRowComponent = React.forwardRef<
 ) {
   if (!row) return null;
 
+  // ----- Logo resolution with fallback -----
   const logoSrcRaw =
     (row as any)?.team?.logo ||
     (row as any)?.teamLogo ||
     (row as any)?.logo ||
     ((row as any)?.player)?.teamLogo ||
-    ((row as any)?.player)?.logo;
+    ((row as any)?.player)?.logo ||
+    (row as any)?.player?.team ||
+    (row as any)?.team?.name ||
+    (row as any)?.team;
 
-  const logoSrc = safeLogoUrl(logoSrcRaw);
+  let logoSrc: string | undefined;
+
+  if (logoSrcRaw) {
+    const s = String(logoSrcRaw).trim();
+
+    if (!isWindowsPath(s)) {
+      if (isLikelyUrl(s) || s.startsWith("/")) {
+        logoSrc = safeLogoUrl(s);
+      } else {
+        logoSrc = resolveEuroleagueLogoUrl(s);
+      }
+    }
+  }
+
+  // ----- Player position -----
+  const playerPos = getPlayerPos(row);
 
   const propCategoryFull =
     ((row as any)?.prop)?.label ||
@@ -871,7 +891,7 @@ const BetRowComponent = React.forwardRef<
                     {row.player.name}
                   </span>
                   <span className={clsx(PILL, "px-2 py-[2px] text-[11px] text-white/85")}>
-                    {row.player.pos}
+                    {playerPos || "—"}
                   </span>
                 </div>
               </div>
