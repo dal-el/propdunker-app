@@ -1,0 +1,530 @@
+bookmaker,pre_game_key,match_label,start_time,bet_type,book_category,sheet_key,ui_name,player_name,line,source_display,over_odds,under_odds
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Lonnie Walker IV,14.5,15+,1.47,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Lonnie Walker IV,16.5,17+,1.82,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Lonnie Walker IV,18.5,19+,2.4,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Lonnie Walker IV,20.5,21+,3.25,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Lonnie Walker IV,22.5,23+,4.55,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Lonnie Walker IV,24.5,25+,6.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Lonnie Walker IV,26.5,27+,9.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Lonnie Walker IV,28.5,29+,12.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Lonnie Walker IV,30.5,31+,15.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Roman Sorkin,12.5,13+,1.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Roman Sorkin,13.5,14+,1.7,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Roman Sorkin,14.5,15+,1.93,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Roman Sorkin,15.5,16+,2.25,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Roman Sorkin,16.5,17+,2.67,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Roman Sorkin,17.5,18+,3.2,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Roman Sorkin,18.5,19+,3.85,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Roman Sorkin,19.5,20+,4.65,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Roman Sorkin,20.5,21+,5.7,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Zach LeDay,11.5,12+,1.47,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Zach LeDay,13.5,14+,1.88,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Zach LeDay,15.5,16+,2.57,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Zach LeDay,17.5,18+,3.65,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Zach LeDay,19.5,20+,5.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Zach LeDay,21.5,22+,7.7,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Zach LeDay,23.5,24+,10.75,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Zach LeDay,25.5,26+,14.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Zach LeDay,27.5,28+,16.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Josh Nebo,9.5,10+,1.39,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Josh Nebo,11.5,12+,1.83,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Josh Nebo,13.5,14+,2.62,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Josh Nebo,15.5,16+,4.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Josh Nebo,17.5,18+,6.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Josh Nebo,19.5,20+,9.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Josh Nebo,21.5,22+,13.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Josh Nebo,23.5,24+,16.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Shavon Shields,9.5,10+,1.39,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Shavon Shields,10.5,11+,1.55,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Shavon Shields,11.5,12+,1.78,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Shavon Shields,12.5,13+,2.02,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Shavon Shields,13.5,14+,2.37,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Shavon Shields,14.5,15+,2.8,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Shavon Shields,15.5,16+,3.35,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Shavon Shields,16.5,17+,4.05,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Shavon Shields,17.5,18+,4.9,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Armoni Brooks,8.5,9+,1.22,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Armoni Brooks,9.5,10+,1.32,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Armoni Brooks,10.5,11+,1.45,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Armoni Brooks,11.5,12+,1.62,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Armoni Brooks,12.5,13+,1.85,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Armoni Brooks,13.5,14+,2.12,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Armoni Brooks,14.5,15+,2.47,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Armoni Brooks,15.5,16+,2.9,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Armoni Brooks,16.5,17+,3.45,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Leandro Bolmaro,8.5,9+,1.45,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Leandro Bolmaro,9.5,10+,1.65,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Leandro Bolmaro,10.5,11+,1.91,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Leandro Bolmaro,11.5,12+,2.27,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Leandro Bolmaro,12.5,13+,2.7,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Leandro Bolmaro,13.5,14+,3.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Leandro Bolmaro,14.5,15+,4.05,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Leandro Bolmaro,15.5,16+,5.1,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Leandro Bolmaro,16.5,17+,6.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Jimmy Clark III,8.5,9+,1.65,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Jimmy Clark III,9.5,10+,1.93,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Jimmy Clark III,10.5,11+,2.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Jimmy Clark III,11.5,12+,2.8,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Jimmy Clark III,12.5,13+,3.4,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Jimmy Clark III,13.5,14+,4.25,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Jimmy Clark III,14.5,15+,5.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Jimmy Clark III,15.5,16+,6.6,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Oshae Brissett,7.5,8+,1.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Oshae Brissett,8.5,9+,1.72,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Oshae Brissett,9.5,10+,2.05,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Oshae Brissett,10.5,11+,2.47,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Oshae Brissett,11.5,12+,3.05,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Oshae Brissett,12.5,13+,3.8,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Oshae Brissett,13.5,14+,4.75,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Oshae Brissett,14.5,15+,5.9,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Marko Guduric,7.5,8+,1.57,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Marko Guduric,8.5,9+,1.82,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Marko Guduric,9.5,10+,2.15,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Marko Guduric,10.5,11+,2.65,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Marko Guduric,11.5,12+,3.25,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Marko Guduric,12.5,13+,4.05,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Marko Guduric,13.5,14+,5.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Marko Guduric,14.5,15+,6.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Marcio Santos,5.5,6+,1.52,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Marcio Santos,6.5,7+,1.85,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Marcio Santos,7.5,8+,2.25,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Marcio Santos,8.5,9+,2.87,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Marcio Santos,9.5,10+,3.75,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Marcio Santos,10.5,11+,4.9,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Marcio Santos,11.5,12+,6.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Marcio Santos,12.5,13+,8.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Quinn Ellis,5.5,6+,1.52,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Quinn Ellis,6.5,7+,1.85,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Quinn Ellis,7.5,8+,2.25,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Quinn Ellis,8.5,9+,2.85,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Quinn Ellis,9.5,10+,3.6,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Quinn Ellis,10.5,11+,4.7,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Quinn Ellis,11.5,12+,6.2,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Quinn Ellis,12.5,13+,8.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Tamir Blatt,4.5,5+,1.42,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Tamir Blatt,5.5,6+,1.6,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Tamir Blatt,6.5,7+,2.15,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Tamir Blatt,7.5,8+,2.35,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Tamir Blatt,8.5,9+,2.82,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,Tamir Blatt,9.5,10+,4.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,John DiBartolomeo,2.5,3+,1.38,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,John DiBartolomeo,3.5,4+,2.22,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,John DiBartolomeo,4.5,5+,2.42,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,John DiBartolomeo,5.5,6+,2.82,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,John DiBartolomeo,6.5,7+,4.85,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points,POINTS,Points,John DiBartolomeo,7.5,8+,5.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Lonnie Walker IV,16.5,,1.82,1.93
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Roman Sorkin,14.5,,1.93,1.8
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Zach LeDay,13.5,,1.88,1.87
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Armoni Brooks,12.5,,1.85,1.9
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Shavon Shields,11.5,,1.78,1.98
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Josh Nebo,11.5,,1.83,1.91
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Leandro Bolmaro,10.5,,1.91,1.82
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Jimmy Clark III,9.5,,1.93,1.8
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Oshae Brissett,8.5,,1.72,2.05
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Marko Guduric,8.5,,1.82,1.93
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Quinn Ellis,6.5,,1.85,1.88
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Marcio Santos,6.5,,1.85,1.9
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Tamir Blatt,6.5,,2.12,1.67
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points O/U,POINTS,Points,John DiBartolomeo,3.5,,2.22,1.62
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Quinn Ellis,3.5,4+,1.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Quinn Ellis,4.5,5+,1.72,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Quinn Ellis,5.5,6+,2.55,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Quinn Ellis,6.5,7+,4.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Quinn Ellis,7.5,8+,6.6,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Quinn Ellis,8.5,9+,10.25,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Tamir Blatt,3.5,4+,1.39,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Tamir Blatt,4.5,5+,1.91,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Tamir Blatt,5.5,6+,2.9,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Tamir Blatt,6.5,7+,4.7,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Tamir Blatt,7.5,8+,7.7,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Tamir Blatt,8.5,9+,12.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Jimmy Clark III,2.5,3+,1.28,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Jimmy Clark III,3.5,4+,1.75,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Jimmy Clark III,4.5,5+,2.67,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Jimmy Clark III,5.5,6+,4.55,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Jimmy Clark III,6.5,7+,7.8,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Jimmy Clark III,7.5,8+,12.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Leandro Bolmaro,2.5,3+,1.31,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Leandro Bolmaro,3.5,4+,1.82,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Leandro Bolmaro,4.5,5+,2.87,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Leandro Bolmaro,5.5,6+,4.9,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Leandro Bolmaro,6.5,7+,8.25,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Leandro Bolmaro,7.5,8+,13.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Marko Guduric,2.5,3+,1.42,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Marko Guduric,3.5,4+,2.07,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Marko Guduric,4.5,5+,3.45,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Marko Guduric,5.5,6+,6.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Marko Guduric,6.5,7+,10.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Marko Guduric,7.5,8+,14.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Lonnie Walker IV,1.5,2+,1.18,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Lonnie Walker IV,2.5,3+,1.62,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Lonnie Walker IV,3.5,4+,2.6,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Lonnie Walker IV,4.5,5+,4.6,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Shavon Shields,1.5,2+,1.26,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Shavon Shields,2.5,3+,1.85,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Shavon Shields,3.5,4+,3.2,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Shavon Shields,4.5,5+,5.9,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Roman Sorkin,0.5,1+,1.12,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Roman Sorkin,1.5,2+,1.7,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Roman Sorkin,2.5,3+,3.15,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Assists,AS,Assists,Roman Sorkin,3.5,4+,6.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Quinn Ellis,4.5,,1.75,2.0
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Tamir Blatt,4.5,,1.93,1.82
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Jimmy Clark III,3.5,,1.75,2.0
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Leandro Bolmaro,3.5,,1.83,1.91
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Marko Guduric,3.5,,2.07,1.7
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Lonnie Walker IV,2.5,,1.65,2.15
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Shavon Shields,2.5,,1.87,1.88
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Roman Sorkin,1.5,,1.72,2.05
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Josh Nebo,4.5,5+,1.33,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Josh Nebo,5.5,6+,1.7,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Josh Nebo,6.5,7+,2.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Josh Nebo,7.5,8+,3.35,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Josh Nebo,8.5,9+,5.2,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Josh Nebo,9.5,10+,7.8,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Oshae Brissett,4.5,5+,1.4,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Oshae Brissett,5.5,6+,1.87,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Oshae Brissett,6.5,7+,2.67,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Oshae Brissett,7.5,8+,4.1,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Oshae Brissett,8.5,9+,6.4,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Oshae Brissett,9.5,10+,9.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Roman Sorkin,3.5,4+,1.29,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Roman Sorkin,4.5,5+,1.67,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Roman Sorkin,5.5,6+,2.37,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Roman Sorkin,6.5,7+,3.65,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Roman Sorkin,7.5,8+,5.8,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Roman Sorkin,8.5,9+,9.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Zach LeDay,3.5,4+,1.47,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Zach LeDay,4.5,5+,2.07,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Zach LeDay,5.5,6+,3.25,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Zach LeDay,6.5,7+,5.4,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Zach LeDay,7.5,8+,9.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Zach LeDay,8.5,9+,13.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Armoni Brooks,2.5,3+,1.32,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Armoni Brooks,3.5,4+,1.83,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Armoni Brooks,4.5,5+,2.85,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Armoni Brooks,5.5,6+,4.75,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Armoni Brooks,6.5,7+,8.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Armoni Brooks,7.5,8+,12.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Leandro Bolmaro,1.5,2+,1.16,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Leandro Bolmaro,2.5,3+,1.57,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Leandro Bolmaro,3.5,4+,2.45,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Leandro Bolmaro,4.5,5+,4.25,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Quinn Ellis,1.5,2+,1.19,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Quinn Ellis,2.5,3+,1.65,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Quinn Ellis,3.5,4+,2.57,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Quinn Ellis,4.5,5+,4.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Lonnie Walker IV,1.5,2+,1.27,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Lonnie Walker IV,2.5,3+,1.87,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Lonnie Walker IV,3.5,4+,3.2,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Lonnie Walker IV,4.5,5+,6.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jimmy Clark III,0.5,1+,1.08,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jimmy Clark III,1.5,2+,1.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jimmy Clark III,2.5,3+,2.55,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jimmy Clark III,3.5,4+,4.85,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tamir Blatt,0.5,1+,1.1,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tamir Blatt,1.5,2+,1.6,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tamir Blatt,2.5,3+,2.82,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tamir Blatt,3.5,4+,5.6,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Josh Nebo,5.5,,1.7,2.07
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Oshae Brissett,5.5,,1.88,1.85
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Roman Sorkin,4.5,,1.7,2.07
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Zach LeDay,4.5,,2.07,1.7
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Armoni Brooks,3.5,,1.85,1.9
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Leandro Bolmaro,2.5,,1.6,2.25
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Quinn Ellis,2.5,,1.67,2.12
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Lonnie Walker IV,2.5,,1.88,1.85
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Jimmy Clark III,1.5,,1.53,2.4
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Tamir Blatt,1.5,,1.62,2.22
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Josh Nebo,2.5,,1.78,1.88
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Roman Sorkin,1.5,,1.6,2.15
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Oshae Brissett,1.5,,1.62,2.12
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Armoni Brooks,1.5,,2.57,1.42
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Quinn Ellis,0.5,,1.4,2.65
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Jimmy Clark III,0.5,,2.5,1.45
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Oshae Brissett,3.5,,1.82,1.85
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Josh Nebo,3.5,,2.2,1.57
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Roman Sorkin,2.5,,1.62,2.12
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Leandro Bolmaro,2.5,,1.93,1.75
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Armoni Brooks,2.5,,1.98,1.7
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Lonnie Walker IV,2.5,,2.02,1.67
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Quinn Ellis,1.5,,1.7,2.0
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Jimmy Clark III,1.5,,1.83,1.85
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Lonnie Walker IV,1.5,2+,1.31,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Lonnie Walker IV,2.5,3+,2.02,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Lonnie Walker IV,3.5,4+,3.65,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Lonnie Walker IV,4.5,5+,7.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Armoni Brooks,1.5,2+,1.33,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Armoni Brooks,2.5,3+,2.07,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Armoni Brooks,3.5,4+,3.75,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Armoni Brooks,4.5,5+,7.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Shavon Shields,0.5,1+,1.09,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Shavon Shields,1.5,2+,1.57,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Shavon Shields,2.5,3+,2.75,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Shavon Shields,3.5,4+,5.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Tamir Blatt,0.5,1+,1.13,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Tamir Blatt,1.5,2+,1.7,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Tamir Blatt,2.5,3+,3.2,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Tamir Blatt,3.5,4+,6.7,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jimmy Clark III,0.5,1+,1.42,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jimmy Clark III,1.5,2+,3.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jimmy Clark III,2.5,3+,7.4,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jimmy Clark III,3.5,4+,14.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Leandro Bolmaro,0.5,1+,1.42,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Leandro Bolmaro,1.5,2+,3.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Leandro Bolmaro,2.5,3+,7.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Leandro Bolmaro,3.5,4+,14.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Marko Guduric,0.5,1+,1.44,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Marko Guduric,1.5,2+,3.05,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Marko Guduric,2.5,3+,7.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Marko Guduric,3.5,4+,14.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Roman Sorkin,0.5,1+,1.44,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Roman Sorkin,1.5,2+,3.2,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Roman Sorkin,2.5,3+,7.7,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Roman Sorkin,3.5,4+,15.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Oshae Brissett,0.5,1+,1.62,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Oshae Brissett,1.5,2+,4.05,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Oshae Brissett,2.5,3+,10.25,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Oshae Brissett,3.5,4+,17.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Quinn Ellis,0.5,1+,2.37,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Quinn Ellis,1.5,2+,8.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Quinn Ellis,2.5,3+,16.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Lonnie Walker IV,2.5,,2.02,1.75
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Armoni Brooks,2.5,,2.07,1.7
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Shavon Shields,1.5,,1.57,2.3
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Tamir Blatt,1.5,,1.72,2.05
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Leandro Bolmaro,0.5,,1.44,2.67
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Jimmy Clark III,0.5,,1.44,2.67
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Marko Guduric,0.5,,1.45,2.62
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Roman Sorkin,0.5,,1.45,2.6
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Oshae Brissett,0.5,,1.65,2.15
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Quinn Ellis,0.5,,2.35,1.55
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Josh Nebo,4.5,,1.93,1.78
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Roman Sorkin,4.5,,2.05,1.7
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Lonnie Walker IV,2.5,,1.55,2.3
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Zach LeDay,2.5,,1.72,2.0
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Jimmy Clark III,2.5,,1.78,1.93
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Leandro Bolmaro,2.5,,1.85,1.87
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Oshae Brissett,2.5,,2.27,1.57
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Quinn Ellis,1.5,,1.52,2.37
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Roman Sorkin,6.5,,2.55,1.45
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Lonnie Walker IV,5.5,,1.9,1.8
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Armoni Brooks,4.5,,1.65,2.1
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Shavon Shields,4.5,,2.55,1.45
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Lonnie Walker IV,2.5,,1.65,2.12
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Zach LeDay,2.5,,1.75,1.98
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Josh Nebo,2.5,,1.91,1.8
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Roman Sorkin,2.5,,2.0,1.72
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Shavon Shields,2.5,,2.18,1.6
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Oshae Brissett,1.5,,1.57,2.25
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Leandro Bolmaro,1.5,,1.67,2.07
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Marcio Santos,1.5,,1.7,2.05
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Roman Sorkin,0.5,YES/NO,9.5,1.015
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Quinn Ellis,0.5,YES/NO,17.0,1.002
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Tamir Blatt,0.5,YES/NO,20.0,1.001
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Leandro Bolmaro,0.5,YES/NO,21.0,1.001
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Jimmy Clark III,0.5,YES/NO,21.0,1.001
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Lonnie Walker IV,0.5,YES/NO,29.0,1.001
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Steals,ST,Steals,Leandro Bolmaro,0.5,1+,1.42,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Steals,ST,Steals,Leandro Bolmaro,1.5,2+,3.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Steals,ST,Steals,Leandro Bolmaro,2.5,3+,7.2,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Steals,ST,Steals,Leandro Bolmaro,3.5,4+,14.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Steals,ST,Steals,Oshae Brissett,0.5,1+,1.42,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Steals,ST,Steals,Oshae Brissett,1.5,2+,2.95,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Steals,ST,Steals,Oshae Brissett,2.5,3+,7.2,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Steals,ST,Steals,Oshae Brissett,3.5,4+,14.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Steals,ST,Steals,Lonnie Walker IV,0.5,1+,1.44,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Steals,ST,Steals,Lonnie Walker IV,1.5,2+,3.05,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Steals,ST,Steals,Lonnie Walker IV,2.5,3+,7.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Steals,ST,Steals,Lonnie Walker IV,3.5,4+,14.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Steals,ST,Steals,Quinn Ellis,0.5,1+,1.57,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Steals,ST,Steals,Quinn Ellis,1.5,2+,3.8,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Steals,ST,Steals,Quinn Ellis,2.5,3+,9.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Steals,ST,Steals,Quinn Ellis,3.5,4+,16.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Leandro Bolmaro,0.5,,1.44,2.52
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Oshae Brissett,0.5,,1.44,2.55
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Lonnie Walker IV,0.5,,1.45,2.5
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Quinn Ellis,0.5,,1.6,2.15
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Blocks,BL,Blocks,Josh Nebo,0.5,1+,1.55,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Blocks,BL,Blocks,Josh Nebo,1.5,2+,3.65,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Blocks,BL,Blocks,Josh Nebo,2.5,3+,9.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Blocks,BL,Blocks,Josh Nebo,3.5,4+,16.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Blocks,BL,Blocks,Roman Sorkin,0.5,1+,1.8,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Blocks,BL,Blocks,Roman Sorkin,1.5,2+,4.85,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Blocks,BL,Blocks,Roman Sorkin,2.5,3+,12.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Blocks,BL,Blocks,Roman Sorkin,3.5,4+,18.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Blocks,BL,Blocks,Marcio Santos,0.5,1+,2.02,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Blocks,BL,Blocks,Marcio Santos,1.5,2+,5.9,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Blocks,BL,Blocks,Marcio Santos,2.5,3+,14.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Blocks,BL,Blocks,Zach LeDay,0.5,1+,2.65,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Blocks,BL,Blocks,Zach LeDay,1.5,2+,9.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Blocks,BL,Blocks,Zach LeDay,2.5,3+,17.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Josh Nebo,0.5,,1.55,2.25
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Roman Sorkin,0.5,,1.8,1.87
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Marcio Santos,0.5,,2.0,1.7
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Zach LeDay,0.5,,2.6,1.42
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Tamir Blatt,2.5,,2.18,1.62
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Jimmy Clark III,1.5,,1.52,2.37
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Marko Guduric,1.5,,1.72,2.0
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Quinn Ellis,1.5,,1.95,1.75
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Zach LeDay,0.5,,1.5,2.42
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Roman Sorkin,0.5,,1.5,2.42
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Lonnie Walker IV,20.5,21+,1.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Lonnie Walker IV,22.5,23+,1.85,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Lonnie Walker IV,24.5,25+,2.42,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Lonnie Walker IV,26.5,27+,3.25,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Lonnie Walker IV,28.5,29+,4.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Lonnie Walker IV,30.5,31+,6.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Lonnie Walker IV,32.5,33+,8.75,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Lonnie Walker IV,34.5,35+,11.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Lonnie Walker IV,36.5,37+,14.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Roman Sorkin,18.5,19+,1.39,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Roman Sorkin,19.5,20+,1.53,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Roman Sorkin,20.5,21+,1.7,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Roman Sorkin,21.5,22+,1.93,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Roman Sorkin,22.5,23+,2.22,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Roman Sorkin,23.5,24+,2.57,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Roman Sorkin,24.5,25+,3.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Roman Sorkin,25.5,26+,3.6,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Roman Sorkin,26.5,27+,4.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Leandro Bolmaro,15.5,16+,1.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Leandro Bolmaro,16.5,17+,1.67,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Leandro Bolmaro,17.5,18+,1.91,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Leandro Bolmaro,18.5,19+,2.22,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Leandro Bolmaro,19.5,20+,2.62,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Leandro Bolmaro,20.5,21+,3.15,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Leandro Bolmaro,21.5,22+,3.8,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Leandro Bolmaro,22.5,23+,4.65,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Leandro Bolmaro,23.5,24+,5.6,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jimmy Clark III,13.5,14+,1.45,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jimmy Clark III,15.5,16+,1.88,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jimmy Clark III,17.5,18+,2.62,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jimmy Clark III,19.5,20+,3.85,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jimmy Clark III,21.5,22+,5.8,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jimmy Clark III,23.5,24+,8.75,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jimmy Clark III,25.5,26+,12.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jimmy Clark III,27.5,28+,15.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jimmy Clark III,29.5,30+,17.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Quinn Ellis,12.5,13+,1.39,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Quinn Ellis,14.5,15+,1.85,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Quinn Ellis,16.5,17+,2.62,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Quinn Ellis,18.5,19+,4.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Quinn Ellis,20.5,21+,6.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Quinn Ellis,22.5,23+,9.75,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Quinn Ellis,24.5,25+,13.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Quinn Ellis,26.5,27+,16.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tamir Blatt,10.5,11+,1.36,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tamir Blatt,12.5,13+,1.75,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tamir Blatt,14.5,15+,2.45,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tamir Blatt,16.5,17+,3.55,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tamir Blatt,18.5,19+,5.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tamir Blatt,20.5,21+,8.25,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tamir Blatt,22.5,23+,11.75,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tamir Blatt,24.5,25+,15.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tamir Blatt,26.5,27+,17.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Lonnie Walker IV,22.5,,1.9,1.85
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Roman Sorkin,21.5,,1.95,1.8
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Leandro Bolmaro,17.5,,1.95,1.8
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Jimmy Clark III,15.5,,1.91,1.82
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Quinn Ellis,14.5,,1.88,1.87
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Tamir Blatt,12.5,,1.78,1.95
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Quinn Ellis,6.5,7+,1.4,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Quinn Ellis,7.5,8+,1.75,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Quinn Ellis,8.5,9+,2.35,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Quinn Ellis,9.5,10+,3.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Quinn Ellis,10.5,11+,4.8,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Quinn Ellis,11.5,12+,7.1,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Quinn Ellis,12.5,13+,10.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Quinn Ellis,13.5,14+,13.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Roman Sorkin,5.5,6+,1.38,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Roman Sorkin,6.5,7+,1.75,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Roman Sorkin,7.5,8+,2.4,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Roman Sorkin,8.5,9+,3.45,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Roman Sorkin,9.5,10+,5.1,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Roman Sorkin,10.5,11+,7.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Roman Sorkin,11.5,12+,10.75,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Roman Sorkin,12.5,13+,14.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Leandro Bolmaro,5.5,6+,1.39,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Leandro Bolmaro,6.5,7+,1.78,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Leandro Bolmaro,7.5,8+,2.45,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Leandro Bolmaro,8.5,9+,3.6,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Leandro Bolmaro,9.5,10+,5.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Leandro Bolmaro,10.5,11+,7.9,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Leandro Bolmaro,11.5,12+,11.25,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Leandro Bolmaro,12.5,13+,14.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tamir Blatt,5.5,6+,1.45,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tamir Blatt,6.5,7+,1.9,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tamir Blatt,7.5,8+,2.7,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tamir Blatt,8.5,9+,3.95,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tamir Blatt,9.5,10+,6.1,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tamir Blatt,10.5,11+,9.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tamir Blatt,11.5,12+,12.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tamir Blatt,12.5,13+,16.0,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jimmy Clark III,4.5,5+,1.32,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jimmy Clark III,5.5,6+,1.7,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jimmy Clark III,6.5,7+,2.35,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jimmy Clark III,7.5,8+,3.5,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jimmy Clark III,8.5,9+,5.3,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jimmy Clark III,9.5,10+,8.25,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Lonnie Walker IV,4.5,5+,1.4,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Lonnie Walker IV,5.5,6+,1.87,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Lonnie Walker IV,6.5,7+,2.67,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Lonnie Walker IV,7.5,8+,4.05,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Lonnie Walker IV,8.5,9+,6.4,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Lonnie Walker IV,9.5,10+,9.75,
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Quinn Ellis,7.5,,1.78,1.93
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Roman Sorkin,6.5,,1.78,1.93
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Leandro Bolmaro,6.5,,1.8,1.91
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Tamir Blatt,6.5,,1.91,1.8
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Jimmy Clark III,5.5,,1.72,2.02
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Lonnie Walker IV,5.5,,1.88,1.83
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Lonnie Walker IV,19.5,,1.88,1.82
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Roman Sorkin,19.5,,1.91,1.8
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Zach LeDay,17.5,,1.78,1.93
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Josh Nebo,17.5,,1.85,1.87
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Armoni Brooks,16.5,,1.9,1.8
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Oshae Brissett,14.5,,1.8,1.9
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Leandro Bolmaro,13.5,,1.85,1.85
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Jimmy Clark III,11.5,,1.87,1.85
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Quinn Ellis,9.5,,1.83,1.88
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Tamir Blatt,8.5,,1.95,1.75
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Lonnie Walker IV,19.5,,1.8,1.9
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Roman Sorkin,16.5,,1.93,1.78
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Shavon Shields,14.5,,1.82,1.88
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Leandro Bolmaro,14.5,,1.95,1.75
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Jimmy Clark III,13.5,,1.93,1.78
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Marko Guduric,12.5,,1.98,1.75
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Quinn Ellis,11.5,,1.85,1.85
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Tamir Blatt,10.5,,1.78,1.93
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Roman Sorkin,14.5,,1.75,1.93
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Zach LeDay,13.5,,1.75,1.93
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Josh Nebo,12.5,,1.85,1.82
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Marcio Santos,7.5,,1.93,1.75
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Roman Sorkin,19.5,,1.75,1.93
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Josh Nebo,18.5,,1.85,1.82
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Zach LeDay,18.5,,1.9,1.78
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Zach LeDay,3.5,,1.55,2.3
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Lonnie Walker IV,3.5,,1.86,1.86
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Roman Sorkin,3.5,,2.0,1.72
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Leandro Bolmaro,2.5,,1.75,1.95
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Fouls Committed,F,Fouls Committed,Oshae Brissett,2.5,,1.88,1.83
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Fouls Committed,F,Fouls Committed,Armoni Brooks,2.5,,1.9,1.8
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Fouls Committed,F,Fouls Committed,Leandro Bolmaro,2.5,,1.95,1.75
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Fouls Committed,F,Fouls Committed,Jimmy Clark III,2.5,,2.4,1.5
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,3 Point Shots Attempted O/U,3P_A,3P Attempted,Armoni Brooks,7.5,,2.4,1.5
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,3 Point Shots Attempted O/U,3P_A,3P Attempted,Lonnie Walker IV,6.5,,1.55,2.3
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,3 Point Shots Attempted O/U,3P_A,3P Attempted,Shavon Shields,5.5,,2.35,1.53
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,3 Point Shots Attempted O/U,3P_A,3P Attempted,Roman Sorkin,2.5,,1.6,2.2
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Two Point Shots Attempted O/U,2P_A,2P Attempted,Roman Sorkin,8.5,,1.95,1.75
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Two Point Shots Attempted O/U,2P_A,2P Attempted,Lonnie Walker IV,5.5,,1.55,2.3
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Two Point Shots Attempted O/U,2P_A,2P Attempted,Leandro Bolmaro,5.5,,1.72,2.0
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Two Point Shots Attempted O/U,2P_A,2P Attempted,Zach LeDay,4.5,,1.95,1.75
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Field Goals Attempted O/U,SH_AT,FG Attempted,Lonnie Walker IV,12.5,,1.55,2.3
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Field Goals Attempted O/U,SH_AT,FG Attempted,Roman Sorkin,11.5,,2.05,1.7
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Field Goals Attempted O/U,SH_AT,FG Attempted,Armoni Brooks,10.5,,1.95,1.75
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Field Goals Attempted O/U,SH_AT,FG Attempted,Shavon Shields,9.5,,2.25,1.57
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Free Throws Attempted O/U,FT_A,Free Throws Attempted,Lonnie Walker IV,4.5,,2.2,1.6
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Free Throws Attempted O/U,FT_A,Free Throws Attempted,Josh Nebo,4.5,,2.4,1.5
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Free Throws Attempted O/U,FT_A,Free Throws Attempted,Zach LeDay,3.5,,1.65,2.1
+STOIXIMAN,2026-03-13_olimpia_milano_maccabi_tel_aviv,Olimpia Milano vs Maccabi Tel Aviv,2026-03-13T19:30:00Z,MAIN_PROPS,Free Throws Attempted O/U,FT_A,Free Throws Attempted,Oshae Brissett,3.5,,2.35,1.53

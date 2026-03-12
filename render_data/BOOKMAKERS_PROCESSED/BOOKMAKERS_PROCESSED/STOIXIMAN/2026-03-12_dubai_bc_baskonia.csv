@@ -1,0 +1,518 @@
+bookmaker,pre_game_key,match_label,start_time,bet_type,book_category,sheet_key,ui_name,player_name,line,source_display,over_odds,under_odds
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Timothe Luwawu-Cabarrot,13.5,14+,1.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Timothe Luwawu-Cabarrot,15.5,16+,1.87,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Timothe Luwawu-Cabarrot,17.5,18+,2.45,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Timothe Luwawu-Cabarrot,19.5,20+,3.3,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Timothe Luwawu-Cabarrot,21.5,22+,4.65,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Timothe Luwawu-Cabarrot,23.5,24+,6.6,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Timothe Luwawu-Cabarrot,25.5,26+,9.25,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Timothe Luwawu-Cabarrot,27.5,28+,12.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Timothe Luwawu-Cabarrot,29.5,30+,15.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Dwayne Bacon,11.5,12+,1.39,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Dwayne Bacon,12.5,13+,1.55,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Dwayne Bacon,13.5,14+,1.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Dwayne Bacon,14.5,15+,2.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Dwayne Bacon,15.5,16+,2.32,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Dwayne Bacon,16.5,17+,2.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Dwayne Bacon,17.5,18+,3.3,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Dwayne Bacon,18.5,19+,3.95,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Dwayne Bacon,19.5,20+,4.8,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mfiondu Kabengele,11.5,12+,1.45,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mfiondu Kabengele,13.5,14+,1.85,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mfiondu Kabengele,15.5,16+,2.52,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mfiondu Kabengele,17.5,18+,3.65,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mfiondu Kabengele,19.5,20+,5.4,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mfiondu Kabengele,21.5,22+,7.9,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mfiondu Kabengele,23.5,24+,11.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mfiondu Kabengele,25.5,26+,14.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mfiondu Kabengele,27.5,28+,16.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Eugene Omoruyi,11.5,12+,1.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Eugene Omoruyi,13.5,14+,1.91,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Eugene Omoruyi,15.5,16+,2.65,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Eugene Omoruyi,17.5,18+,3.8,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Eugene Omoruyi,19.5,20+,5.7,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Eugene Omoruyi,21.5,22+,8.25,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Eugene Omoruyi,23.5,24+,11.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Eugene Omoruyi,25.5,26+,15.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Eugene Omoruyi,27.5,28+,17.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Dzanan Musa,9.5,10+,1.4,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Dzanan Musa,11.5,12+,1.83,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Dzanan Musa,13.5,14+,2.47,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Dzanan Musa,15.5,16+,3.55,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Dzanan Musa,17.5,18+,5.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Dzanan Musa,19.5,20+,8.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Dzanan Musa,21.5,22+,11.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Dzanan Musa,23.5,24+,14.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Dzanan Musa,25.5,26+,17.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,McKinley Wright IV,9.5,10+,1.42,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,McKinley Wright IV,11.5,12+,1.85,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,McKinley Wright IV,13.5,14+,2.55,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,McKinley Wright IV,15.5,16+,3.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,McKinley Wright IV,17.5,18+,5.6,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,McKinley Wright IV,19.5,20+,8.25,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,McKinley Wright IV,21.5,22+,11.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,McKinley Wright IV,23.5,24+,15.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,McKinley Wright IV,25.5,26+,17.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Filip Petrusev,8.5,9+,1.44,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Filip Petrusev,10.5,11+,1.93,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Filip Petrusev,12.5,13+,2.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Filip Petrusev,14.5,15+,4.15,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Filip Petrusev,16.5,17+,6.4,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Filip Petrusev,18.5,19+,9.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Filip Petrusev,20.5,21+,13.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Filip Petrusev,22.5,23+,17.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Kobi Simmons,8.5,9+,1.62,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Kobi Simmons,9.5,10+,1.88,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Kobi Simmons,10.5,11+,2.22,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Kobi Simmons,11.5,12+,2.67,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Kobi Simmons,12.5,13+,3.3,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Kobi Simmons,13.5,14+,4.1,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Kobi Simmons,14.5,15+,5.2,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Kobi Simmons,15.5,16+,6.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mamadi Diakite,8.5,9+,1.62,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mamadi Diakite,9.5,10+,1.88,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mamadi Diakite,10.5,11+,2.25,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mamadi Diakite,11.5,12+,2.72,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mamadi Diakite,12.5,13+,3.35,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mamadi Diakite,13.5,14+,4.15,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mamadi Diakite,14.5,15+,5.2,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mamadi Diakite,15.5,16+,6.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Markus Howard,7.5,8+,1.52,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Markus Howard,8.5,9+,1.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Markus Howard,9.5,10+,2.05,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Markus Howard,10.5,11+,2.4,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Markus Howard,11.5,12+,2.92,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Markus Howard,12.5,13+,3.55,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Markus Howard,13.5,14+,4.35,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Markus Howard,14.5,15+,5.4,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Trent Forrest,7.5,8+,1.57,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Trent Forrest,8.5,9+,1.87,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Trent Forrest,9.5,10+,2.22,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Trent Forrest,10.5,11+,2.77,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Trent Forrest,11.5,12+,3.45,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Trent Forrest,12.5,13+,4.4,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Trent Forrest,13.5,14+,5.6,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Trent Forrest,14.5,15+,7.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Aleksa Avramovic,6.5,7+,1.47,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Aleksa Avramovic,7.5,8+,1.72,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Aleksa Avramovic,8.5,9+,2.05,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Aleksa Avramovic,9.5,10+,2.47,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Aleksa Avramovic,10.5,11+,3.05,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Aleksa Avramovic,11.5,12+,3.8,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Aleksa Avramovic,12.5,13+,4.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Aleksa Avramovic,13.5,14+,5.9,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Gytis Radzevicius,3.5,4+,1.57,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Gytis Radzevicius,4.5,5+,2.05,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Gytis Radzevicius,5.5,6+,2.62,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Gytis Radzevicius,6.5,7+,3.55,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Gytis Radzevicius,7.5,8+,4.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Gytis Radzevicius,8.5,9+,6.4,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Justin Anderson,2.5,3+,1.23,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Justin Anderson,3.5,4+,1.47,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Justin Anderson,4.5,5+,1.67,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Justin Anderson,5.5,6+,2.1,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Justin Anderson,6.5,7+,2.65,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Justin Anderson,7.5,8+,3.3,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Timothe Luwawu-Cabarrot,15.5,,1.87,1.88
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Dwayne Bacon,14.5,,2.0,1.75
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Mfiondu Kabengele,13.5,,1.85,1.88
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Eugene Omoruyi,13.5,,1.91,1.82
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,McKinley Wright IV,11.5,,1.85,1.88
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Dzanan Musa,11.5,,1.87,1.87
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Filip Petrusev,10.5,,1.91,1.82
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Kobi Simmons,9.5,,1.88,1.85
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Mamadi Diakite,9.5,,1.88,1.85
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Markus Howard,8.5,,1.78,1.98
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Trent Forrest,8.5,,1.87,1.87
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Aleksa Avramovic,8.5,,2.05,1.72
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Justin Anderson,5.5,,2.07,1.7
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Gytis Radzevicius,4.5,,2.05,1.72
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,McKinley Wright IV,3.5,4+,1.25,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,McKinley Wright IV,4.5,5+,1.6,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,McKinley Wright IV,5.5,6+,2.27,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,McKinley Wright IV,6.5,7+,3.55,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,McKinley Wright IV,7.5,8+,5.8,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,McKinley Wright IV,8.5,9+,9.25,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Trent Forrest,2.5,3+,1.17,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Trent Forrest,3.5,4+,1.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Trent Forrest,4.5,5+,2.15,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Trent Forrest,5.5,6+,3.4,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Trent Forrest,6.5,7+,5.7,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Trent Forrest,7.5,8+,9.25,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Kobi Simmons,1.5,2+,1.22,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Kobi Simmons,2.5,3+,1.72,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Kobi Simmons,3.5,4+,2.85,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Kobi Simmons,4.5,5+,5.2,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Aleksa Avramovic,1.5,2+,1.23,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Aleksa Avramovic,2.5,3+,1.78,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Aleksa Avramovic,3.5,4+,2.87,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Aleksa Avramovic,4.5,5+,5.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Dzanan Musa,1.5,2+,1.25,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Dzanan Musa,2.5,3+,1.82,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Dzanan Musa,3.5,4+,3.1,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Dzanan Musa,4.5,5+,5.8,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Markus Howard,0.5,1+,1.13,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Markus Howard,1.5,2+,1.7,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Markus Howard,2.5,3+,3.15,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Markus Howard,3.5,4+,6.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Timothe Luwawu-Cabarrot,0.5,1+,1.24,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Timothe Luwawu-Cabarrot,1.5,2+,2.2,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Timothe Luwawu-Cabarrot,2.5,3+,4.7,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Timothe Luwawu-Cabarrot,3.5,4+,10.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Filip Petrusev,0.5,1+,1.65,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Filip Petrusev,1.5,2+,4.15,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Filip Petrusev,2.5,3+,10.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Filip Petrusev,3.5,4+,17.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,McKinley Wright IV,4.5,,1.62,2.2
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Trent Forrest,4.5,,2.15,1.65
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Kobi Simmons,2.5,,1.75,2.0
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Aleksa Avramovic,2.5,,1.8,1.95
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Dzanan Musa,2.5,,1.83,1.9
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Markus Howard,1.5,,1.72,2.05
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Timothe Luwawu-Cabarrot,1.5,,2.2,1.62
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Filip Petrusev,0.5,,1.67,2.12
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Mfiondu Kabengele,4.5,5+,1.29,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Mfiondu Kabengele,5.5,6+,1.65,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Mfiondu Kabengele,6.5,7+,2.27,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Mfiondu Kabengele,7.5,8+,3.25,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Mfiondu Kabengele,8.5,9+,4.9,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Mfiondu Kabengele,9.5,10+,7.6,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Eugene Omoruyi,3.5,4+,1.28,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Eugene Omoruyi,4.5,5+,1.65,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Eugene Omoruyi,5.5,6+,2.32,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Eugene Omoruyi,6.5,7+,3.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Eugene Omoruyi,7.5,8+,5.6,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Eugene Omoruyi,8.5,9+,8.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Filip Petrusev,3.5,4+,1.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Filip Petrusev,4.5,5+,2.15,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Filip Petrusev,5.5,6+,3.35,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Filip Petrusev,6.5,7+,5.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Filip Petrusev,7.5,8+,8.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Filip Petrusev,8.5,9+,13.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Dwayne Bacon,2.5,3+,1.21,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Dwayne Bacon,3.5,4+,1.6,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Dwayne Bacon,4.5,5+,2.35,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Dwayne Bacon,5.5,6+,3.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Dwayne Bacon,6.5,7+,6.2,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Dwayne Bacon,7.5,8+,10.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Trent Forrest,1.5,2+,1.16,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Trent Forrest,2.5,3+,1.57,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Trent Forrest,3.5,4+,2.47,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Trent Forrest,4.5,5+,4.3,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Dzanan Musa,1.5,2+,1.17,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Dzanan Musa,2.5,3+,1.57,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Dzanan Musa,3.5,4+,2.45,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Dzanan Musa,4.5,5+,4.25,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Gytis Radzevicius,1.5,2+,1.22,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Gytis Radzevicius,2.5,3+,1.72,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Gytis Radzevicius,3.5,4+,2.8,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Gytis Radzevicius,4.5,5+,5.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Timothe Luwawu-Cabarrot,1.5,2+,1.22,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Timothe Luwawu-Cabarrot,2.5,3+,1.78,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Timothe Luwawu-Cabarrot,3.5,4+,2.92,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Timothe Luwawu-Cabarrot,4.5,5+,5.4,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,McKinley Wright IV,1.5,2+,1.36,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,McKinley Wright IV,2.5,3+,2.15,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,McKinley Wright IV,3.5,4+,3.8,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,McKinley Wright IV,4.5,5+,7.2,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Markus Howard,0.5,1+,1.1,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Markus Howard,1.5,2+,1.62,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Markus Howard,2.5,3+,2.85,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Markus Howard,3.5,4+,5.8,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Mfiondu Kabengele,5.5,,1.67,2.12
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Eugene Omoruyi,4.5,,1.67,2.12
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Filip Petrusev,4.5,,2.15,1.65
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Dwayne Bacon,3.5,,1.62,2.22
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Dzanan Musa,2.5,,1.6,2.25
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Trent Forrest,2.5,,1.6,2.27
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Gytis Radzevicius,2.5,,1.75,2.0
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Timothe Luwawu-Cabarrot,2.5,,1.78,1.95
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,McKinley Wright IV,2.5,,2.15,1.65
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Markus Howard,1.5,,1.65,2.15
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Mfiondu Kabengele,1.5,,1.53,2.27
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Gytis Radzevicius,0.5,,1.45,2.5
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Filip Petrusev,0.5,,1.47,2.47
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Dwayne Bacon,0.5,,1.75,1.91
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Timothe Luwawu-Cabarrot,0.5,,2.2,1.57
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Trent Forrest,0.5,,2.35,1.5
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Mfiondu Kabengele,3.5,,1.65,2.07
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Mamadi Diakite,3.5,,1.98,1.7
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Dwayne Bacon,3.5,,2.1,1.62
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Filip Petrusev,3.5,,2.15,1.6
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Trent Forrest,2.5,,1.9,1.78
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Timothe Luwawu-Cabarrot,2.5,,2.27,1.55
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Dzanan Musa,1.5,,1.55,2.25
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Gytis Radzevicius,1.5,,1.75,1.93
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Timothe Luwawu-Cabarrot,1.5,2+,1.36,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Timothe Luwawu-Cabarrot,2.5,3+,2.15,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Timothe Luwawu-Cabarrot,3.5,4+,4.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Timothe Luwawu-Cabarrot,4.5,5+,7.8,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Markus Howard,0.5,1+,1.09,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Markus Howard,1.5,2+,1.57,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Markus Howard,2.5,3+,2.8,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Markus Howard,3.5,4+,5.7,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Dzanan Musa,0.5,1+,1.34,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Dzanan Musa,1.5,2+,2.32,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Dzanan Musa,2.5,3+,4.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Dzanan Musa,3.5,4+,12.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Dwayne Bacon,0.5,1+,1.45,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Dwayne Bacon,1.5,2+,2.77,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Dwayne Bacon,2.5,3+,5.8,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Dwayne Bacon,3.5,4+,15.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Justin Anderson,0.5,1+,1.47,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Justin Anderson,1.5,2+,3.4,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Justin Anderson,2.5,3+,8.25,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Justin Anderson,3.5,4+,15.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,McKinley Wright IV,0.5,1+,1.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,McKinley Wright IV,1.5,2+,3.45,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,McKinley Wright IV,2.5,3+,8.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,McKinley Wright IV,3.5,4+,16.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Mfiondu Kabengele,0.5,1+,1.6,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Mfiondu Kabengele,1.5,2+,3.85,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Mfiondu Kabengele,2.5,3+,9.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Mfiondu Kabengele,3.5,4+,16.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Eugene Omoruyi,0.5,1+,1.62,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Eugene Omoruyi,1.5,2+,4.1,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Eugene Omoruyi,2.5,3+,10.25,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Eugene Omoruyi,3.5,4+,17.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Mamadi Diakite,0.5,1+,1.7,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Mamadi Diakite,1.5,2+,4.35,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Mamadi Diakite,2.5,3+,11.25,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Mamadi Diakite,3.5,4+,17.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Kobi Simmons,0.5,1+,1.72,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Kobi Simmons,1.5,2+,4.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Kobi Simmons,2.5,3+,11.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Kobi Simmons,3.5,4+,18.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Timothe Luwawu-Cabarrot,2.5,,2.15,1.65
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Markus Howard,1.5,,1.6,2.27
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Dzanan Musa,1.5,,2.57,1.47
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Dwayne Bacon,0.5,,1.47,2.57
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Justin Anderson,0.5,,1.5,2.5
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,McKinley Wright IV,0.5,,1.52,2.42
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Mfiondu Kabengele,0.5,,1.6,2.25
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Eugene Omoruyi,0.5,,1.65,2.15
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Mamadi Diakite,0.5,,1.7,2.07
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Kobi Simmons,0.5,,1.72,2.05
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Mfiondu Kabengele,4.5,,2.02,1.72
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Dwayne Bacon,3.5,,1.65,2.12
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Eugene Omoruyi,3.5,,1.72,2.0
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,McKinley Wright IV,2.5,,1.6,2.2
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Mamadi Diakite,2.5,,1.62,2.15
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Trent Forrest,2.5,,1.8,1.91
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Dzanan Musa,2.5,,1.85,1.87
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Timothe Luwawu-Cabarrot,2.5,,2.07,1.67
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Dwayne Bacon,4.5,,1.72,2.0
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Timothe Luwawu-Cabarrot,4.5,,1.8,1.9
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Dzanan Musa,4.5,,1.83,1.83
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Eugene Omoruyi,4.5,,1.88,1.83
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Timothe Luwawu-Cabarrot,3.5,,1.83,1.87
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Filip Petrusev,3.5,,1.95,1.75
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Dwayne Bacon,2.5,,1.7,2.02
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,McKinley Wright IV,2.5,,1.83,1.87
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Dzanan Musa,2.5,,1.85,1.85
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Trent Forrest,2.5,,2.02,1.7
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Kobi Simmons,1.5,,1.75,1.95
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Mamadi Diakite,1.5,,2.22,1.6
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,McKinley Wright IV,0.5,YES/NO,10.5,1.009
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Filip Petrusev,0.5,YES/NO,15.0,1.003
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Trent Forrest,0.5,YES/NO,17.5,1.002
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Dzanan Musa,0.5,YES/NO,32.0,1.001
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Timothe Luwawu-Cabarrot,0.5,YES/NO,45.0,1.001
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Trent Forrest,0.5,1+,1.42,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Trent Forrest,1.5,2+,3.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Trent Forrest,2.5,3+,7.3,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Trent Forrest,3.5,4+,14.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Steals,ST,Steals,McKinley Wright IV,0.5,1+,1.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Steals,ST,Steals,McKinley Wright IV,1.5,2+,3.4,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Steals,ST,Steals,McKinley Wright IV,2.5,3+,8.25,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Steals,ST,Steals,McKinley Wright IV,3.5,4+,15.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Kobi Simmons,0.5,1+,1.57,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Kobi Simmons,1.5,2+,3.7,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Kobi Simmons,2.5,3+,9.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Kobi Simmons,3.5,4+,16.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Dzanan Musa,0.5,1+,1.67,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Dzanan Musa,1.5,2+,4.15,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Dzanan Musa,2.5,3+,10.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Dzanan Musa,3.5,4+,17.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Trent Forrest,0.5,,1.44,2.55
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,McKinley Wright IV,0.5,,1.52,2.32
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Kobi Simmons,0.5,,1.6,2.15
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Dzanan Musa,0.5,,1.67,2.02
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Mamadi Diakite,0.5,1+,1.24,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Mamadi Diakite,1.5,2+,2.15,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Mamadi Diakite,2.5,3+,4.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Mamadi Diakite,3.5,4+,9.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Mfiondu Kabengele,0.5,1+,1.37,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Mfiondu Kabengele,1.5,2+,2.77,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Mfiondu Kabengele,2.5,3+,6.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Mfiondu Kabengele,3.5,4+,13.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Justin Anderson,0.5,1+,2.7,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Justin Anderson,1.5,2+,9.25,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Justin Anderson,2.5,3+,17.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Trent Forrest,0.5,1+,4.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Trent Forrest,1.5,2+,15.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Mamadi Diakite,1.5,,2.12,1.62
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Mfiondu Kabengele,0.5,,1.39,2.7
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Justin Anderson,0.5,,2.65,1.4
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Trent Forrest,0.5,,4.4,1.16
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Mamadi Diakite,1.5,,1.53,2.35
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Dwayne Bacon,1.5,,1.62,2.15
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Eugene Omoruyi,1.5,,1.7,2.02
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,McKinley Wright IV,1.5,,2.07,1.67
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Timothe Luwawu-Cabarrot,1.5,,2.18,1.62
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Dzanan Musa,1.5,,2.5,1.47
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Timothe Luwawu-Cabarrot,17.5,18+,1.45,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Timothe Luwawu-Cabarrot,19.5,20+,1.78,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Timothe Luwawu-Cabarrot,21.5,22+,2.27,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Timothe Luwawu-Cabarrot,23.5,24+,3.05,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Timothe Luwawu-Cabarrot,25.5,26+,4.2,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Timothe Luwawu-Cabarrot,27.5,28+,5.8,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Timothe Luwawu-Cabarrot,29.5,30+,8.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Timothe Luwawu-Cabarrot,31.5,32+,10.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Timothe Luwawu-Cabarrot,33.5,34+,13.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,McKinley Wright IV,17.5,18+,1.52,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,McKinley Wright IV,19.5,20+,1.91,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,McKinley Wright IV,21.5,22+,2.62,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,McKinley Wright IV,23.5,24+,3.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,McKinley Wright IV,25.5,26+,5.4,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,McKinley Wright IV,27.5,28+,7.9,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,McKinley Wright IV,29.5,30+,11.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,McKinley Wright IV,31.5,32+,14.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,McKinley Wright IV,33.5,34+,17.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Dzanan Musa,14.5,15+,1.34,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Dzanan Musa,15.5,16+,1.47,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Dzanan Musa,16.5,17+,1.65,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Dzanan Musa,17.5,18+,1.87,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Dzanan Musa,18.5,19+,2.15,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Dzanan Musa,19.5,20+,2.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Dzanan Musa,20.5,21+,2.95,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Dzanan Musa,21.5,22+,3.45,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Dzanan Musa,22.5,23+,4.15,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Trent Forrest,13.5,14+,1.34,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Trent Forrest,15.5,16+,1.72,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Trent Forrest,17.5,18+,2.37,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Trent Forrest,19.5,20+,3.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Trent Forrest,21.5,22+,5.3,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Trent Forrest,23.5,24+,8.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Trent Forrest,25.5,26+,11.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Trent Forrest,27.5,28+,15.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Trent Forrest,29.5,30+,17.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Filip Petrusev,13.5,14+,1.42,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Filip Petrusev,14.5,15+,1.6,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Filip Petrusev,15.5,16+,1.83,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Filip Petrusev,16.5,17+,2.12,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Filip Petrusev,17.5,18+,2.52,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Filip Petrusev,18.5,19+,3.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Filip Petrusev,19.5,20+,3.65,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Filip Petrusev,20.5,21+,4.45,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Filip Petrusev,21.5,22+,5.4,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Markus Howard,10.5,11+,1.39,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Markus Howard,12.5,13+,1.78,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Markus Howard,14.5,15+,2.42,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Markus Howard,16.5,17+,3.45,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Markus Howard,18.5,19+,5.1,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Markus Howard,20.5,21+,7.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Markus Howard,22.5,23+,10.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Markus Howard,24.5,25+,14.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Markus Howard,26.5,27+,16.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Timothe Luwawu-Cabarrot,19.5,,1.82,1.93
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,McKinley Wright IV,19.5,,1.95,1.8
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Dzanan Musa,17.5,,1.9,1.83
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Trent Forrest,15.5,,1.75,2.0
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Filip Petrusev,15.5,,1.87,1.88
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Markus Howard,12.5,,1.82,1.93
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,McKinley Wright IV,6.5,7+,1.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,McKinley Wright IV,7.5,8+,1.91,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,McKinley Wright IV,8.5,9+,2.67,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,McKinley Wright IV,9.5,10+,3.9,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,McKinley Wright IV,10.5,11+,5.8,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,McKinley Wright IV,11.5,12+,8.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,McKinley Wright IV,12.5,13+,11.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,McKinley Wright IV,13.5,14+,15.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Trent Forrest,5.5,6+,1.26,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Trent Forrest,6.5,7+,1.53,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Trent Forrest,7.5,8+,2.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Trent Forrest,8.5,9+,2.8,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Trent Forrest,9.5,10+,4.05,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Trent Forrest,10.5,11+,6.1,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Trent Forrest,11.5,12+,9.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Trent Forrest,12.5,13+,12.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Dzanan Musa,4.5,5+,1.36,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Dzanan Musa,5.5,6+,1.78,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Dzanan Musa,6.5,7+,2.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Dzanan Musa,7.5,8+,3.8,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Dzanan Musa,8.5,9+,5.8,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Dzanan Musa,9.5,10+,8.75,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Filip Petrusev,4.5,5+,1.6,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Filip Petrusev,5.5,6+,2.25,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Filip Petrusev,6.5,7+,3.4,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Filip Petrusev,7.5,8+,5.3,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Filip Petrusev,8.5,9+,8.25,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Filip Petrusev,9.5,10+,12.0,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Timothe Luwawu-Cabarrot,2.5,3+,1.19,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Timothe Luwawu-Cabarrot,3.5,4+,1.53,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Timothe Luwawu-Cabarrot,4.5,5+,2.2,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Timothe Luwawu-Cabarrot,5.5,6+,3.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Timothe Luwawu-Cabarrot,6.5,7+,5.7,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Timothe Luwawu-Cabarrot,7.5,8+,9.25,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Markus Howard,2.5,3+,1.29,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Markus Howard,3.5,4+,1.78,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Markus Howard,4.5,5+,2.7,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Markus Howard,5.5,6+,4.45,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Markus Howard,6.5,7+,7.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Markus Howard,7.5,8+,11.5,
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,McKinley Wright IV,7.5,,1.93,1.78
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Trent Forrest,7.5,,2.02,1.72
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Dzanan Musa,5.5,,1.8,1.91
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Filip Petrusev,4.5,,1.62,2.18
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Timothe Luwawu-Cabarrot,4.5,,2.2,1.6
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Markus Howard,3.5,,1.78,1.93
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Mfiondu Kabengele,19.5,,1.82,1.88
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Timothe Luwawu-Cabarrot,18.5,,1.88,1.82
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Eugene Omoruyi,18.5,,1.88,1.82
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Dwayne Bacon,18.5,,1.93,1.78
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Filip Petrusev,14.5,,1.8,1.91
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Dzanan Musa,14.5,,1.83,1.88
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,McKinley Wright IV,13.5,,1.75,1.98
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Trent Forrest,11.5,,1.82,1.88
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Markus Howard,10.5,,1.75,1.95
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Gytis Radzevicius,7.5,,2.02,1.7
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Timothe Luwawu-Cabarrot,16.5,,1.75,1.95
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,McKinley Wright IV,16.5,,1.8,1.91
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Dzanan Musa,14.5,,1.91,1.8
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Trent Forrest,12.5,,1.75,1.95
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Kobi Simmons,12.5,,1.9,1.82
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Filip Petrusev,11.5,,1.93,1.78
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Aleksa Avramovic,10.5,,1.78,1.93
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Markus Howard,10.5,,1.78,1.93
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Mfiondu Kabengele,14.5,,1.8,1.87
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Mamadi Diakite,10.5,,1.75,1.93
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Trent Forrest,8.5,,1.78,1.9
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Justin Anderson,5.5,,1.88,1.8
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Steals+Blocks O/U,SB,Steals + Blocks,Trent Forrest,1.5,,2.45,1.47
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Mfiondu Kabengele,20.5,,1.78,1.9
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Trent Forrest,11.5,,1.75,1.93
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Filip Petrusev,3.5,,1.88,1.83
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Timothe Luwawu-Cabarrot,3.5,,1.9,1.8
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,McKinley Wright IV,3.5,,2.55,1.45
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Trent Forrest,3.5,,2.8,1.3
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Fouls Committed,F,Fouls Committed,McKinley Wright IV,2.5,,1.65,2.1
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Fouls Committed,F,Fouls Committed,Eugene Omoruyi,2.5,,1.88,1.83
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Fouls Committed,F,Fouls Committed,Mfiondu Kabengele,2.5,,2.1,1.65
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Fouls Committed,F,Fouls Committed,Gytis Radzevicius,2.5,,2.15,1.63
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,3 Point Shots Attempted O/U,3P_A,3P Attempted,Timothe Luwawu-Cabarrot,4.5,,1.75,1.95
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,3 Point Shots Attempted O/U,3P_A,3P Attempted,Dzanan Musa,3.5,,1.95,1.75
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,3 Point Shots Attempted O/U,3P_A,3P Attempted,Dwayne Bacon,3.5,,2.2,1.6
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,3 Point Shots Attempted O/U,3P_A,3P Attempted,Eugene Omoruyi,2.5,,1.9,1.8
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Two Point Shots Attempted O/U,2P_A,2P Attempted,McKinley Wright IV,5.5,,1.88,1.83
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Two Point Shots Attempted O/U,2P_A,2P Attempted,Timothe Luwawu-Cabarrot,5.5,,2.4,1.5
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Two Point Shots Attempted O/U,2P_A,2P Attempted,Mamadi Diakite,4.5,,1.55,2.3
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Two Point Shots Attempted O/U,2P_A,2P Attempted,Dzanan Musa,4.5,,1.86,1.86
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Field Goals Attempted O/U,SH_AT,FG Attempted,Dwayne Bacon,11.5,,1.95,1.75
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Field Goals Attempted O/U,SH_AT,FG Attempted,Eugene Omoruyi,10.5,,2.35,1.53
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Field Goals Attempted O/U,SH_AT,FG Attempted,Timothe Luwawu-Cabarrot,9.5,,1.72,2.0
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Field Goals Attempted O/U,SH_AT,FG Attempted,Dzanan Musa,8.5,,2.25,1.57
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Free Throws Attempted O/U,FT_A,Free Throws Attempted,Timothe Luwawu-Cabarrot,5.5,,1.8,1.9
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Free Throws Attempted O/U,FT_A,Free Throws Attempted,Eugene Omoruyi,5.5,,2.4,1.5
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Free Throws Attempted O/U,FT_A,Free Throws Attempted,McKinley Wright IV,3.5,,1.88,1.83
+STOIXIMAN,2026-03-12_dubai_bc_baskonia,Dubai BC vs Baskonia,2026-03-12T19:00:00Z,MAIN_PROPS,Free Throws Attempted O/U,FT_A,Free Throws Attempted,Mfiondu Kabengele,2.5,,1.95,1.75
