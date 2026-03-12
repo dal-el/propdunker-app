@@ -1,0 +1,291 @@
+{
+  "Points": {
+    "sheet_key": "POINTS",
+    "ui_name": "Points",
+    "aliases": [
+      "Total Points",
+      "Player Points",
+      "Points Scored",
+      "Points O/U",
+      "Total Points O/U"
+    ]
+  },
+  "Rebounds": {
+    "sheet_key": "TR",
+    "ui_name": "Rebounds",
+    "aliases": [
+      "Total Rebounds",
+      "Rebounds O/U",
+      "Total Rebounds O/U"
+    ]
+  },
+  "Assists": {
+    "sheet_key": "AS",
+    "ui_name": "Assists",
+    "aliases": [
+      "Total Assists",
+      "Assists O/U",
+      "Total Assists O/U"
+    ]
+  },
+  "Steals": {
+    "sheet_key": "ST",
+    "ui_name": "Steals",
+    "aliases": [
+      "Total Steals",
+      "Steals O/U",
+      "Total Steals O/U"
+    ]
+  },
+  "Blocks": {
+    "sheet_key": "BL",
+    "ui_name": "Blocks",
+    "aliases": [
+      "Total Blocks",
+      "Blocks O/U",
+      "Total Blocks O/U"
+    ]
+  },
+  "Turnovers": {
+    "sheet_key": "TO",
+    "ui_name": "Turnovers",
+    "aliases": [
+      "Total Turnovers",
+      "Turnovers O/U",
+      "Total Turnovers O/U"
+    ]
+  },
+  "2P Made": {
+    "sheet_key": "2P_M",
+    "ui_name": "2P Made",
+    "aliases": [
+      "2 Pointers Made",
+      "2P Scored",
+      "2P Made",
+      "Two Point Shots Scored",
+      "Two Point Shots Made",
+      "Total Two Point Shots Scored"
+    ]
+  },
+  "2P Attempted": {
+    "sheet_key": "2P_A",
+    "ui_name": "2P Attempted",
+    "aliases": [
+      "2 Pointers Att",
+      "2 Pointers Attempted",
+      "2P Attempted",
+      "Two Point Shots Attempted"
+    ]
+  },
+  "3P Made": {
+    "sheet_key": "3P_M",
+    "ui_name": "3P Made",
+    "aliases": [
+      "3 Pointers Made",
+      "3P Scored",
+      "3P Made",
+      "Three Point Shots Scored",
+      "Three Point Shots Made",
+      "Total Three Point Shots Scored",
+      "Total Three Point Shots Made"
+    ]
+  },
+  "3P Attempted": {
+    "sheet_key": "3P_A",
+    "ui_name": "3P Attempted",
+    "aliases": [
+      "3 Pointers Att",
+      "3 Pointers Attempted",
+      "3P Attempted",
+      "Three Point Shots Attempted"
+    ]
+  },
+  "Free Throws Made": {
+    "sheet_key": "FT_M",
+    "ui_name": "Free Throws Made",
+    "aliases": [
+      "Free Throws Scored",
+      "Free Throws Made",
+      "FT Made"
+    ]
+  },
+  "Free Throws Attempted": {
+    "sheet_key": "FT_A",
+    "ui_name": "Free Throws Attempted",
+    "aliases": [
+      "Free Throws Att",
+      "Free Throws Attempted",
+      "FT Attempted"
+    ]
+  },
+  "FG Made": {
+    "sheet_key": "FGM",
+    "ui_name": "FG Made",
+    "aliases": [
+      "Field Goals Scored",
+      "Field Goals Made",
+      "FG Made",
+      "FGM",
+      "FG Scored"
+    ]
+  },
+  "FG Attempted": {
+    "sheet_key": "SH_AT",
+    "ui_name": "FG Attempted",
+    "aliases": [
+      "Field Goals Attempted",
+      "FG Attempted",
+      "FGA",
+      "FG Att",
+      "Shots Attempted"
+    ]
+  },
+  "Fouls Committed": {
+    "sheet_key": "F",
+    "ui_name": "Fouls Committed",
+    "aliases": [
+      "Fouls",
+      "Fouls Committed",
+      "Personal Fouls"
+    ]
+  },
+  "Fouls Earned": {
+    "sheet_key": "FD",
+    "ui_name": "Fouls Earned",
+    "aliases": [
+      "Fouls Earned",
+      "Fouls Received",
+      "Fouls Drawn"
+    ]
+  },
+  "Points + Rebounds": {
+    "sheet_key": "PR",
+    "ui_name": "Points + Rebounds",
+    "aliases": [
+      "Points+Rebounds",
+      "Points + Rebounds",
+      "Points & Rebounds",
+      "Points+Rebounds O/U",
+      "Points + Rebounds O/U"
+    ]
+  },
+  "Points + Assists": {
+    "sheet_key": "PA",
+    "ui_name": "Points + Assists",
+    "aliases": [
+      "Points+Assists",
+      "Points + Assists",
+      "Points & Assists",
+      "Points+Assists O/U",
+      "Points + Assists O/U"
+    ]
+  },
+  "Rebounds + Assists": {
+    "sheet_key": "RA",
+    "ui_name": "Rebounds + Assists",
+    "aliases": [
+      "Rebounds+Assists",
+      "Rebounds + Assists",
+      "Rebounds & Assists",
+      "Rebounds &  Assists",
+      "Rebounds+Assists O/U",
+      "Rebounds + Assists O/U"
+    ]
+  },
+  "Points + Rebounds + Ass": {
+    "sheet_key": "PRA",
+    "ui_name": "Points + Rebounds + Ass",
+    "aliases": [
+      "Points+Rebounds+Assists",
+      "Points + Rebounds + Assists",
+      "Points & Rebounds & Assists",
+      "Points + Reb + Ass",
+      "Points + Reb + Assists",
+      "Points + Reb + Ass",
+      "Points + Rebounds + Ass",
+      "Points & Rebounds & Ass",
+      "Points+Rebounds+Assists O/U"
+    ]
+  },
+  "Points + Blocks": {
+    "sheet_key": "PB",
+    "ui_name": "Points + Blocks",
+    "aliases": [
+      "Points+Blocks",
+      "Points + Blocks",
+      "Points & Blocks",
+      "Points+Blocks O/U",
+      "Points + Blocks O/U"
+    ]
+  },
+  "Points + Rebounds + Blocks": {
+    "sheet_key": "PRB",
+    "ui_name": "Points + Rebounds + Blocks",
+    "aliases": [
+      "Points, Rebounds + Blocks",
+      "Points + Reb + Blocks",
+      "Points + Rebounds + Blocks",
+      "Points & Rebounds & Blocks",
+      "Points, Rebounds + Blocks O/U",
+      "Points + Rebounds + Blocks O/U"
+    ]
+  },
+  "Steals + Blocks": {
+    "sheet_key": "SB",
+    "ui_name": "Steals + Blocks",
+    "aliases": [
+      "Steals&Blocks",
+      "Steals & Blocks",
+      "Steals + Blocks",
+      "Total Steals and Blocks",
+      "Blocks+Steals",
+      "Steals + Blocks O/U"
+    ]
+  },
+  "Double Double": {
+    "sheet_key": "DD",
+    "ui_name": "Double Double",
+    "aliases": [
+      "Double Double",
+      "Double-Double"
+    ]
+  },
+  "Triple Double": {
+    "sheet_key": "TD",
+    "ui_name": "Triple Double",
+    "aliases": [
+      "Triple Double",
+      "Triple-Double"
+    ]
+  },
+  "Q1 Points": {
+    "sheet_key": "Q1_PTS",
+    "ui_name": "Q1 Points",
+    "aliases": [
+      "1Q Points",
+      "First Period - Points",
+      "Q1 Points",
+      "1st Quarter Points"
+    ]
+  },
+  "Q1 Rebounds": {
+    "sheet_key": "Q1_TR",
+    "ui_name": "Q1 Rebounds",
+    "aliases": [
+      "1Q Rebounds",
+      "First Period - Rebounds",
+      "Q1 Rebounds",
+      "1st Quarter Rebounds"
+    ]
+  },
+  "Q1 Assists": {
+    "sheet_key": "Q1_AS",
+    "ui_name": "Q1 Assists",
+    "aliases": [
+      "1Q Assists",
+      "First Period - Assists",
+      "Q1 Assists",
+      "1st Quarter Assists"
+    ]
+  }
+}

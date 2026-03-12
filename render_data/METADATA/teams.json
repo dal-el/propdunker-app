@@ -1,0 +1,321 @@
+{
+  "schema_version": "1.0.0",
+  "generated_from": "games.json",
+  "teams": [
+    {
+      "team_id": "anadolu_efes",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "Anadolu Efes",
+      "short_name": "Efes",
+      "abbrev": "EFS",
+      "slug": "anadolu-efes",
+      "logo": "METADATA/assets/logos/euroleague/anadolu_efes.png",
+      "aliases": [
+        "ANADOLU EFES",
+        "Anadolu Efes",
+        "anadolu efes",
+        "anadolu_efes"
+      ]
+    },
+    {
+      "team_id": "as_monaco",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "AS Monaco",
+      "short_name": "Monaco",
+      "abbrev": "ASM",
+      "slug": "as-monaco",
+      "logo": "METADATA/assets/logos/euroleague/as_monaco.png",
+      "aliases": [
+        "AS MONACO",
+        "AS Monaco",
+        "as monaco",
+        "as_monaco"
+      ]
+    },
+    {
+      "team_id": "asvel",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "LDLC ASVEL Villeurbanne",
+      "short_name": "ASVEL",
+      "abbrev": "ASV",
+      "slug": "ldlc-asvel-villeurbanne",
+      "logo": "METADATA/assets/logos/euroleague/asvel.png",
+      "aliases": [
+        "LDLC ASVEL VILLEURBANNE",
+        "LDLC ASVEL Villeurbanne",
+        "asvel",
+        "ldlc asvel villeurbanne"
+      ]
+    },
+    {
+      "team_id": "baskonia",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "Baskonia",
+      "short_name": "Baskonia",
+      "abbrev": "BAS",
+      "slug": "baskonia",
+      "logo": "METADATA/assets/logos/euroleague/baskonia.png",
+      "aliases": [
+        "BASKONIA",
+        "Baskonia",
+        "baskonia"
+      ]
+    },
+    {
+      "team_id": "crvena_zvezda",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "Crvena Zvezda",
+      "short_name": "Crvena Zvezda",
+      "abbrev": "CRV",
+      "slug": "crvena-zvezda",
+      "logo": "METADATA/assets/logos/euroleague/crvena_zvezda.png",
+      "aliases": [
+        "CRVENA ZVEZDA",
+        "Crvena Zvezda",
+        "crvena zvezda",
+        "crvena_zvezda"
+      ]
+    },
+    {
+      "team_id": "dubai",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "Dubai Basketball",
+      "short_name": "Dubai",
+      "abbrev": "DUB",
+      "slug": "dubai-basketball",
+      "logo": "METADATA/assets/logos/euroleague/dubai.png",
+      "aliases": [
+        "DUBAI BASKETBALL",
+        "Dubai Basketball",
+        "dubai",
+        "dubai basketball"
+      ]
+    },
+    {
+      "team_id": "fc_barcelona",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "FC Barcelona",
+      "short_name": "Barcelona",
+      "abbrev": "BAR",
+      "slug": "fc-barcelona",
+      "logo": "METADATA/assets/logos/euroleague/fc_barcelona.png",
+      "aliases": [
+        "FC BARCELONA",
+        "FC Barcelona",
+        "fc barcelona",
+        "fc_barcelona"
+      ]
+    },
+    {
+      "team_id": "fc_bayern",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "FC Bayern Munich",
+      "short_name": "Bayern",
+      "abbrev": "BAY",
+      "slug": "fc-bayern-munich",
+      "logo": "METADATA/assets/logos/euroleague/fc_bayern.png",
+      "aliases": [
+        "FC BAYERN MUNICH",
+        "FC Bayern Munich",
+        "fc bayern munich",
+        "fc_bayern"
+      ]
+    },
+    {
+      "team_id": "fenerbahce",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "Fenerbahce",
+      "short_name": "Fenerbahce",
+      "abbrev": "FEN",
+      "slug": "fenerbahce",
+      "logo": "METADATA/assets/logos/euroleague/fenerbahce.png",
+      "aliases": [
+        "FENERBAHCE",
+        "Fenerbahce",
+        "fenerbahce"
+      ]
+    },
+    {
+      "team_id": "hapoel_tel_aviv",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "Hapoel Tel Aviv",
+      "short_name": "Hapoel",
+      "abbrev": "HAP",
+      "slug": "hapoel-tel-aviv",
+      "logo": "METADATA/assets/logos/euroleague/hapoel_tel_aviv.png",
+      "aliases": [
+        "HAPOEL TEL AVIV",
+        "Hapoel Tel Aviv",
+        "hapoel tel aviv",
+        "hapoel_tel_aviv"
+      ]
+    },
+    {
+      "team_id": "maccabi_tel_aviv",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "Maccabi Tel Aviv",
+      "short_name": "Maccabi",
+      "abbrev": "MAC",
+      "slug": "maccabi-tel-aviv",
+      "logo": "METADATA/assets/logos/euroleague/maccabi_tel_aviv.png",
+      "aliases": [
+        "MACCABI TEL AVIV",
+        "Maccabi Tel Aviv",
+        "maccabi tel aviv",
+        "maccabi_tel_aviv"
+      ]
+    },
+    {
+      "team_id": "olimpia_milano",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "Olimpia Milano",
+      "short_name": "Milano",
+      "abbrev": "MIL",
+      "slug": "olimpia-milano",
+      "logo": "METADATA/assets/logos/euroleague/olimpia_milano.png",
+      "aliases": [
+        "OLIMPIA MILANO",
+        "Olimpia Milano",
+        "olimpia milano",
+        "olimpia_milano"
+      ]
+    },
+    {
+      "team_id": "olympiacos",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "Olympiacos",
+      "short_name": "Olympiacos",
+      "abbrev": "OLY",
+      "slug": "olympiacos",
+      "logo": "METADATA/assets/logos/euroleague/olympiacos.png",
+      "aliases": [
+        "OLYMPIACOS",
+        "Olympiacos",
+        "olympiacos"
+      ]
+    },
+    {
+      "team_id": "panathinaikos",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "Panathinaikos",
+      "short_name": "Panathinaikos",
+      "abbrev": "PAN",
+      "slug": "panathinaikos",
+      "logo": "METADATA/assets/logos/euroleague/panathinaikos.png",
+      "aliases": [
+        "PANATHINAIKOS",
+        "Panathinaikos",
+        "panathinaikos"
+      ]
+    },
+    {
+      "team_id": "paris",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "Paris Basketball",
+      "short_name": "Paris",
+      "abbrev": "PAR",
+      "slug": "paris-basketball",
+      "logo": "METADATA/assets/logos/euroleague/paris.png",
+      "aliases": [
+        "PARIS BASKETBALL",
+        "Paris Basketball",
+        "paris",
+        "paris basketball"
+      ]
+    },
+    {
+      "team_id": "partizan",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "Partizan",
+      "short_name": "Partizan",
+      "abbrev": "PRT",
+      "slug": "partizan",
+      "logo": "METADATA/assets/logos/euroleague/partizan.png",
+      "aliases": [
+        "PARTIZAN",
+        "Partizan",
+        "partizan"
+      ]
+    },
+    {
+      "team_id": "real_madrid",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "Real Madrid",
+      "short_name": "Real Madrid",
+      "abbrev": "RMA",
+      "slug": "real-madrid",
+      "logo": "METADATA/assets/logos/euroleague/real_madrid.png",
+      "aliases": [
+        "REAL MADRID",
+        "Real Madrid",
+        "real madrid",
+        "real_madrid"
+      ]
+    },
+    {
+      "team_id": "valencia",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "Valencia Basket",
+      "short_name": "Valencia",
+      "abbrev": "VAL",
+      "slug": "valencia-basket",
+      "logo": "METADATA/assets/logos/euroleague/valencia.png",
+      "aliases": [
+        "VALENCIA BASKET",
+        "Valencia Basket",
+        "valencia",
+        "valencia basket"
+      ]
+    },
+    {
+      "team_id": "virtus_bologna",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "Virtus Bologna",
+      "short_name": "Virtus",
+      "abbrev": "VIR",
+      "slug": "virtus-bologna",
+      "logo": "METADATA/assets/logos/euroleague/virtus_bologna.png",
+      "aliases": [
+        "VIRTUS BOLOGNA",
+        "Virtus Bologna",
+        "virtus bologna",
+        "virtus_bologna"
+      ]
+    },
+    {
+      "team_id": "zalgiris",
+      "league": "EUROLEAGUE",
+      "season": "2025_26",
+      "name": "Zalgiris Kaunas",
+      "short_name": "Zalgiris",
+      "abbrev": "ZAL",
+      "slug": "zalgiris-kaunas",
+      "logo": "METADATA/assets/logos/euroleague/zalgiris.png",
+      "aliases": [
+        "ZALGIRIS KAUNAS",
+        "Zalgiris Kaunas",
+        "zalgiris",
+        "zalgiris kaunas"
+      ]
+    }
+  ]
+}

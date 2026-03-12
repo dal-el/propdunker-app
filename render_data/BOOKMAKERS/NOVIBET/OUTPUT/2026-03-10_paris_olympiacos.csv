@@ -1,0 +1,423 @@
+bookmaker,pre_game_key,match_label,start_time,bet_type,book_category,sheet_key,ui_name,player_name,line,source_display,over_odds,under_odds,is_mapped
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points,POINTS,Points,Sebastian Herrera,6.5,,1.96,1.81,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points,POINTS,Points,Lamar Stevens,10.5,,1.85,1.91,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points,POINTS,Points,Justin Robinson,13.5,,1.95,1.82,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points,POINTS,Points,Nadir Hifi,19.5,,1.88,1.89,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points,POINTS,Points,Jared  Rhoden,13.5,,2.08,1.72,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points,POINTS,Points,Mouhamed Faye,4.5,,2.08,1.72,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points,POINTS,Points,Tyler Dorsey,15.5,,1.92,1.84,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points,POINTS,Points,Nikola Milutinov,11.5,,2.0,1.78,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points,POINTS,Points,Tyrique Jones,9.5,,2.01,1.77,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points,POINTS,Points,Tyson Ward,8.5,,1.95,1.82,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points,POINTS,Points,Evan Fournier,13.5,,1.86,1.9,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points,POINTS,Points,Jeremy Morgan,5.5,,2.03,1.75,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points,POINTS,Points,Alec Peters,10.5,,1.93,1.83,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Rebounds,TR,Rebounds,Lamar Stevens,3.5,,1.93,1.77,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Rebounds,TR,Rebounds,Jared  Rhoden,3.5,,2.4,1.5,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Rebounds,TR,Rebounds,Mouhamed Faye,5.5,,1.98,1.73,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Rebounds,TR,Rebounds,Evan Fournier,2.5,,1.99,1.72,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Rebounds,TR,Rebounds,Tyrique Jones,5.5,,2.1,1.65,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Rebounds,TR,Rebounds,Tyson Ward,3.5,,1.95,1.75,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Rebounds,TR,Rebounds,Nikola Milutinov,7.5,,2.15,1.62,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Rebounds,TR,Rebounds,Tyler Dorsey,2.5,,1.63,2.15,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Assists,AS,Assists,Justin Robinson,4.5,,2.06,1.67,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Assists,AS,Assists,Nadir Hifi,3.5,,1.73,1.97,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Assists,AS,Assists,Tyler Dorsey,2.5,,1.94,1.76,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Assists,AS,Assists,Evan Fournier,3.5,,2.25,1.58,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Assists,AS,Assists,Tyson Ward,2.5,,1.85,1.85,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,3P Made,3P_M,3P Made,Lamar Stevens,0.5,,1.46,2.55,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,3P Made,3P_M,3P Made,Sebastian Herrera,1.5,,2.04,1.69,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,3P Made,3P_M,3P Made,Jeremy Morgan,1.5,,2.4,1.5,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,3P Made,3P_M,3P Made,Justin Robinson,1.5,,1.78,1.92,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,3P Made,3P_M,3P Made,Nadir Hifi,2.5,,1.76,1.94,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,3P Made,3P_M,3P Made,Jared  Rhoden,1.5,,1.68,2.05,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,3P Made,3P_M,3P Made,Tyler Dorsey,2.5,,2.08,1.66,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,3P Made,3P_M,3P Made,Kostas Papanikolaou,0.5,,1.65,2.1,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,3P Made,3P_M,3P Made,Evan Fournier,2.5,,2.1,1.65,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,3P Made,3P_M,3P Made,Tyson Ward,0.5,,2.0,1.7,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,3P Made,3P_M,3P Made,Alec Peters,1.5,,1.77,1.93,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Blocks,BL,Blocks,Nikola Milutinov,0.5,,1.89,1.8,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Blocks,BL,Blocks,Tyrique Jones,0.5,,1.77,1.93,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Blocks,BL,Blocks,Mouhamed Faye,0.5,,1.43,2.6,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Turnovers,TO,Turnovers,Jared  Rhoden,1.5,,1.52,2.35,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Turnovers,TO,Turnovers,Tyler Dorsey,1.5,,1.53,2.35,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Turnovers,TO,Turnovers,Justin Robinson,1.5,,1.6,2.2,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Turnovers,TO,Turnovers,Nadir Hifi,2.5,,2.15,1.61,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Turnovers,TO,Turnovers,Evan Fournier,1.5,,1.62,2.15,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Turnovers,TO,Turnovers,Tyson Ward,1.5,,2.4,1.5,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,2P Made,2P_M,2P Made,Tyson Ward,2.5,,2.3,1.55,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,2P Made,2P_M,2P Made,Evan Fournier,1.5,,1.55,2.3,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,2P Made,2P_M,2P Made,Tyler Dorsey,2.5,,2.1,1.65,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,2P Made,2P_M,2P Made,Tyrique Jones,3.5,,2.1,1.65,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,2P Made,2P_M,2P Made,Jared  Rhoden,2.5,,1.88,1.82,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,2P Made,2P_M,2P Made,Justin Robinson,2.5,,1.95,1.75,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,2P Made,2P_M,2P Made,Lamar Stevens,2.5,,1.75,1.95,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,2P Made,2P_M,2P Made,Nadir Hifi,3.5,,1.9,1.8,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Free Throws Scored,FT_M,Free Throws Made,Nikola Milutinov,2.5,,1.75,1.95,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Free Throws Scored,FT_M,Free Throws Made,Lamar Stevens,1.5,,1.8,1.9,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Free Throws Scored,FT_M,Free Throws Made,Justin Robinson,3.5,,2.0,1.7,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Free Throws Scored,FT_M,Free Throws Made,Nadir Hifi,4.5,,1.8,1.9,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Free Throws Scored,FT_M,Free Throws Made,Evan Fournier,1.5,,1.55,2.3,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Free Throws Scored,FT_M,Free Throws Made,Jared  Rhoden,1.5,,2.15,1.6,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Free Throws Scored,FT_M,Free Throws Made,Tyrique Jones,2.5,,2.0,1.7,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Free Throws Scored,FT_M,Free Throws Made,Tyler Dorsey,2.5,,1.75,1.95,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Tyler Dorsey,21.5,,1.99,1.72,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Evan Fournier,19.5,,1.9,1.79,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Tyson Ward,14.5,,1.82,1.87,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points & Rebounds,PR,Points + Rebounds,Nikola Milutinov,18.5,,1.89,1.81,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points & Rebounds,PR,Points + Rebounds,Lamar Stevens,14.5,,1.92,1.78,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points & Rebounds,PR,Points + Rebounds,Jared  Rhoden,16.5,,2.01,1.71,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points & Rebounds,PR,Points + Rebounds,Mouhamed Faye,10.5,,2.15,1.62,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points & Rebounds,PR,Points + Rebounds,Tyler Dorsey,18.5,,1.89,1.81,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points & Rebounds,PR,Points + Rebounds,Tyson Ward,12.5,,2.06,1.67,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points & Rebounds,PR,Points + Rebounds,Evan Fournier,16.5,,1.96,1.75,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points & Rebounds,PR,Points + Rebounds,Tyrique Jones,14.5,,1.88,1.82,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points & Assists,PA,Points + Assists,Justin Robinson,17.5,,1.81,1.89,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points & Assists,PA,Points + Assists,Nadir Hifi,23.5,,1.88,1.82,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points & Assists,PA,Points + Assists,Tyson Ward,11.5,,2.0,1.72,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points & Assists,PA,Points + Assists,Evan Fournier,17.5,,2.03,1.7,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Points & Assists,PA,Points + Assists,Tyler Dorsey,18.5,,1.99,1.73,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Rebounds &  Assists,RA,Rebounds + Assists,Tyler Dorsey,5.5,,1.95,1.75,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Rebounds &  Assists,RA,Rebounds + Assists,Evan Fournier,5.5,,1.81,1.88,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,MAIN_PROPS,Rebounds &  Assists,RA,Rebounds + Assists,Tyson Ward,6.5,,2.15,1.63,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Sebastian Herrera,4.5,4.5,1.37,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Sebastian Herrera,5.5,5.5,1.55,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Sebastian Herrera,6.5,6.5,1.89,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Sebastian Herrera,7.5,7.5,2.25,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Sebastian Herrera,8.5,8.5,2.75,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Sebastian Herrera,9.5,9.5,3.45,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Sebastian Herrera,10.5,10.5,4.3,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Sebastian Herrera,11.5,11.5,5.35,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Sebastian Herrera,12.5,12.5,6.6,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Jeremy Morgan,4.5,4.5,1.65,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Jeremy Morgan,5.5,5.5,1.95,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Jeremy Morgan,6.5,6.5,2.6,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Jeremy Morgan,7.5,7.5,3.1,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Jeremy Morgan,8.5,8.5,3.9,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Jeremy Morgan,9.5,9.5,5.15,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Jeremy Morgan,10.5,10.5,6.3,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Lamar Stevens,8.5,8.5,1.37,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Lamar Stevens,9.5,9.5,1.55,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Lamar Stevens,10.5,10.5,1.79,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Lamar Stevens,11.5,11.5,2.09,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Lamar Stevens,12.5,12.5,2.5,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Lamar Stevens,13.5,13.5,3.0,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Lamar Stevens,14.5,14.5,3.6,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Lamar Stevens,16.5,16.5,5.45,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Justin Robinson,10.5,10.5,1.33,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Justin Robinson,11.5,11.5,1.47,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Justin Robinson,12.5,12.5,1.66,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Justin Robinson,13.5,13.5,1.87,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Justin Robinson,14.5,14.5,2.15,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Justin Robinson,16.5,16.5,3.0,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Justin Robinson,18.5,18.5,4.2,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Justin Robinson,20.5,20.5,6.0,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Nadir Hifi,16.5,16.5,1.36,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Nadir Hifi,18.5,18.5,1.63,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Nadir Hifi,20.5,20.5,2.02,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Nadir Hifi,22.5,22.5,2.65,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Nadir Hifi,24.5,24.5,3.5,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Nadir Hifi,26.5,26.5,4.8,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Nadir Hifi,28.5,28.5,6.6,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Jared  Rhoden,9.5,9.5,1.26,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Jared  Rhoden,10.5,10.5,1.39,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Jared  Rhoden,11.5,11.5,1.55,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Jared  Rhoden,12.5,12.5,1.75,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Jared  Rhoden,13.5,13.5,1.99,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Jared  Rhoden,14.5,14.5,2.3,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Jared  Rhoden,16.5,16.5,3.2,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Jared  Rhoden,18.5,18.5,4.6,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Jared  Rhoden,20.5,20.5,6.5,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Mouhamed Faye,4.5,4.5,1.99,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Mouhamed Faye,5.5,5.5,2.5,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Mouhamed Faye,6.5,6.5,3.45,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Mouhamed Faye,7.5,7.5,4.65,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Mouhamed Faye,8.5,8.5,6.4,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyler Dorsey,12.5,12.5,1.35,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyler Dorsey,13.5,13.5,1.48,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyler Dorsey,14.5,14.5,1.64,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyler Dorsey,16.5,16.5,2.1,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyler Dorsey,18.5,18.5,2.8,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyler Dorsey,20.5,20.5,3.9,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyler Dorsey,22.5,22.5,5.45,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Milutinov,8.5,8.5,1.29,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Milutinov,9.5,9.5,1.43,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Milutinov,10.5,10.5,1.64,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Milutinov,11.5,11.5,1.92,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Milutinov,12.5,12.5,2.3,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Milutinov,13.5,13.5,2.8,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Milutinov,14.5,14.5,3.4,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Milutinov,16.5,16.5,5.1,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Kostas Papanikolaou,4.5,4.5,1.86,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Kostas Papanikolaou,5.5,5.5,2.3,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Kostas Papanikolaou,6.5,6.5,3.05,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Kostas Papanikolaou,7.5,7.5,3.9,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Kostas Papanikolaou,8.5,8.5,5.15,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Kostas Papanikolaou,9.5,9.5,6.5,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Frank Ntilikina,4.5,4.5,1.79,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Frank Ntilikina,5.5,5.5,2.25,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Frank Ntilikina,6.5,6.5,2.85,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Frank Ntilikina,7.5,7.5,3.65,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Frank Ntilikina,8.5,8.5,4.8,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Frank Ntilikina,9.5,9.5,6.1,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Evan Fournier,10.5,10.5,1.32,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Evan Fournier,11.5,11.5,1.44,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Evan Fournier,12.5,12.5,1.59,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Evan Fournier,13.5,13.5,1.8,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Evan Fournier,14.5,14.5,2.05,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Evan Fournier,16.5,16.5,2.8,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Evan Fournier,18.5,18.5,3.9,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Evan Fournier,20.5,20.5,5.5,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Cory Joseph,5.5,5.5,1.64,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Cory Joseph,6.5,6.5,1.97,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Cory Joseph,7.5,7.5,2.45,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Cory Joseph,8.5,8.5,3.05,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Cory Joseph,9.5,9.5,3.95,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Cory Joseph,10.5,10.5,5.15,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Cory Joseph,11.5,11.5,6.3,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Shaquielle McKissic,4.5,4.5,1.6,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Shaquielle McKissic,5.5,5.5,1.97,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Shaquielle McKissic,6.5,6.5,2.45,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Shaquielle McKissic,7.5,7.5,3.15,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Shaquielle McKissic,8.5,8.5,4.05,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Shaquielle McKissic,9.5,9.5,5.25,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Shaquielle McKissic,10.5,10.5,6.8,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Donta Hall,4.5,4.5,1.34,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Donta Hall,5.5,5.5,1.5,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Donta Hall,6.5,6.5,1.89,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Donta Hall,7.5,7.5,2.3,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Donta Hall,8.5,8.5,3.05,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Donta Hall,9.5,9.5,3.8,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Donta Hall,10.5,10.5,5.05,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Donta Hall,11.5,11.5,6.4,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyrique Jones,6.5,6.5,1.28,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyrique Jones,7.5,7.5,1.41,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyrique Jones,8.5,8.5,1.68,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyrique Jones,9.5,9.5,1.93,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyrique Jones,10.5,10.5,2.4,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyrique Jones,11.5,11.5,2.9,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyrique Jones,12.5,12.5,3.7,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyrique Jones,13.5,13.5,4.55,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyrique Jones,14.5,14.5,5.7,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyson Ward,6.5,6.5,1.4,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyson Ward,7.5,7.5,1.61,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyson Ward,8.5,8.5,1.88,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyson Ward,9.5,9.5,2.25,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyson Ward,10.5,10.5,2.75,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyson Ward,11.5,11.5,3.45,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyson Ward,12.5,12.5,4.3,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyson Ward,13.5,13.5,5.3,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Tyson Ward,14.5,14.5,6.6,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Alec Peters,7.5,7.5,1.3,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Alec Peters,8.5,8.5,1.44,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Alec Peters,9.5,9.5,1.63,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Alec Peters,10.5,10.5,1.86,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Alec Peters,11.5,11.5,2.2,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Alec Peters,12.5,12.5,2.6,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Alec Peters,13.5,13.5,3.1,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Alec Peters,14.5,14.5,3.75,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points,POINTS,Points,Alec Peters,16.5,16.5,5.45,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Lamar Stevens,2.5,2.5,1.36,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Lamar Stevens,3.5,3.5,1.89,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Lamar Stevens,4.5,4.5,2.95,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Lamar Stevens,5.5,5.5,4.9,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jared  Rhoden,2.5,2.5,1.54,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jared  Rhoden,3.5,3.5,2.35,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jared  Rhoden,4.5,4.5,3.95,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jared  Rhoden,5.5,5.5,6.7,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Mouhamed Faye,4.5,4.5,1.45,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Mouhamed Faye,5.5,5.5,1.94,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Mouhamed Faye,6.5,6.5,2.75,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Mouhamed Faye,7.5,7.5,4.15,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Mouhamed Faye,8.5,8.5,6.2,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyler Dorsey,2.5,2.5,1.61,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyler Dorsey,3.5,3.5,2.55,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyler Dorsey,4.5,4.5,4.3,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nikola Milutinov,5.5,5.5,1.29,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nikola Milutinov,6.5,6.5,1.59,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nikola Milutinov,7.5,7.5,2.1,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nikola Milutinov,8.5,8.5,3.0,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nikola Milutinov,10.5,10.5,6.3,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Evan Fournier,2.5,2.5,1.95,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Evan Fournier,3.5,3.5,3.35,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Evan Fournier,4.5,4.5,6.0,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Donta Hall,4.5,4.5,1.36,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Donta Hall,5.5,5.5,1.75,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Donta Hall,6.5,6.5,2.45,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Donta Hall,7.5,7.5,3.7,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Donta Hall,8.5,8.5,5.6,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyrique Jones,4.5,4.5,1.52,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyrique Jones,5.5,5.5,2.05,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyrique Jones,6.5,6.5,3.05,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyrique Jones,7.5,7.5,4.7,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyson Ward,2.5,2.5,1.35,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyson Ward,3.5,3.5,1.91,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyson Ward,4.5,4.5,3.0,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyson Ward,5.5,5.5,4.9,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Nadir Hifi,2.5,2.5,1.26,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Nadir Hifi,3.5,3.5,1.71,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Nadir Hifi,4.5,4.5,2.6,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Nadir Hifi,5.5,5.5,4.25,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Nadir Hifi,6.5,6.5,6.8,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Justin Robinson,3.5,3.5,1.44,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Justin Robinson,4.5,4.5,2.02,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Justin Robinson,5.5,5.5,3.1,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Justin Robinson,6.5,6.5,4.85,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Tyler Dorsey,1.5,1.5,1.29,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Tyler Dorsey,2.5,2.5,1.91,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Tyler Dorsey,3.5,3.5,3.25,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Tyler Dorsey,4.5,4.5,5.7,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Kostas Papanikolaou,1.5,1.5,1.53,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Kostas Papanikolaou,2.5,2.5,2.6,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Kostas Papanikolaou,3.5,3.5,4.95,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Evan Fournier,2.5,2.5,1.47,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Evan Fournier,3.5,3.5,2.2,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Evan Fournier,4.5,4.5,3.6,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Evan Fournier,5.5,5.5,6.2,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Tyson Ward,2.5,2.5,1.81,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Tyson Ward,3.5,3.5,3.0,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Assists,AS,Assists,Tyson Ward,4.5,4.5,5.3,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Sebastian Herrera,1.5,1.5,2.0,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Sebastian Herrera,2.5,2.5,4.0,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Jeremy Morgan,0.5,0.5,1.28,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Jeremy Morgan,1.5,1.5,2.35,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Jeremy Morgan,2.5,2.5,5.05,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Lamar Stevens,0.5,0.5,1.44,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Lamar Stevens,1.5,1.5,3.05,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Lamar Stevens,2.5,2.5,6.9,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Justin Robinson,1.5,1.5,1.75,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Justin Robinson,2.5,2.5,3.25,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Justin Robinson,3.5,3.5,6.3,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Nadir Hifi,2.5,2.5,1.73,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Nadir Hifi,3.5,3.5,2.9,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Nadir Hifi,4.5,4.5,5.05,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Jared  Rhoden,1.5,1.5,1.65,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Jared  Rhoden,2.5,2.5,3.0,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Jared  Rhoden,3.5,3.5,5.8,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Tyler Dorsey,1.5,1.5,1.33,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Tyler Dorsey,2.5,2.5,2.04,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Tyler Dorsey,3.5,3.5,3.55,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Tyler Dorsey,4.5,4.5,6.6,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Kostas Papanikolaou,0.5,0.5,1.62,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Kostas Papanikolaou,1.5,1.5,3.85,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Frank Ntilikina,0.5,0.5,1.6,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Frank Ntilikina,1.5,1.5,3.8,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Evan Fournier,1.5,1.5,1.33,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Evan Fournier,2.5,2.5,2.06,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Evan Fournier,3.5,3.5,3.6,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Evan Fournier,4.5,4.5,6.7,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Cory Joseph,0.5,0.5,1.73,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Cory Joseph,1.5,1.5,4.4,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Shaquielle McKissic,0.5,0.5,1.86,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Shaquielle McKissic,1.5,1.5,4.95,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Tyson Ward,1.5,1.5,4.65,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Alec Peters,1.5,1.5,1.74,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Alec Peters,2.5,2.5,3.25,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,3P Made,3P_M,3P Made,Alec Peters,3.5,3.5,6.4,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Steals,ST,Steals,Jeremy Morgan,0.5,0.5,1.38,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Steals,ST,Steals,Jeremy Morgan,1.5,1.5,2.85,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Steals,ST,Steals,Jeremy Morgan,2.5,2.5,6.3,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Steals,ST,Steals,Nadir Hifi,0.5,0.5,1.44,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Steals,ST,Steals,Nadir Hifi,1.5,1.5,3.1,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Steals,ST,Steals,Nadir Hifi,2.5,2.5,6.9,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Steals,ST,Steals,Jared  Rhoden,0.5,0.5,1.47,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Steals,ST,Steals,Jared  Rhoden,1.5,1.5,3.25,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Steals,ST,Steals,Tyler Dorsey,0.5,0.5,1.45,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Steals,ST,Steals,Tyler Dorsey,1.5,1.5,3.1,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Steals,ST,Steals,Tyler Dorsey,2.5,2.5,7.0,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Steals,ST,Steals,Tyson Ward,0.5,0.5,1.37,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Steals,ST,Steals,Tyson Ward,1.5,1.5,2.75,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Steals,ST,Steals,Tyson Ward,2.5,2.5,6.0,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Blocks,BL,Blocks,Mouhamed Faye,0.5,0.5,1.41,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Blocks,BL,Blocks,Mouhamed Faye,1.5,1.5,2.9,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Blocks,BL,Blocks,Mouhamed Faye,2.5,2.5,6.4,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Blocks,BL,Blocks,Nikola Milutinov,0.5,0.5,1.86,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Blocks,BL,Blocks,Nikola Milutinov,1.5,1.5,4.9,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Blocks,BL,Blocks,Donta Hall,0.5,0.5,1.58,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Blocks,BL,Blocks,Donta Hall,1.5,1.5,3.65,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Blocks,BL,Blocks,Tyrique Jones,0.5,0.5,1.74,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Blocks,BL,Blocks,Tyrique Jones,1.5,1.5,4.3,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Justin Robinson,1.5,1.5,1.58,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Justin Robinson,2.5,2.5,2.75,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Justin Robinson,3.5,3.5,5.2,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Nadir Hifi,1.5,1.5,1.36,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Nadir Hifi,2.5,2.5,2.1,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Nadir Hifi,3.5,3.5,3.75,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Nadir Hifi,4.5,4.5,6.7,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Jared  Rhoden,1.5,1.5,1.5,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Jared  Rhoden,2.5,2.5,2.55,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Jared  Rhoden,3.5,3.5,4.65,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Tyler Dorsey,1.5,1.5,1.5,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Tyler Dorsey,2.5,2.5,2.5,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Tyler Dorsey,3.5,3.5,4.7,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Evan Fournier,1.5,1.5,1.6,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Evan Fournier,2.5,2.5,2.8,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Evan Fournier,3.5,3.5,5.25,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Tyson Ward,0.5,0.5,1.28,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Tyson Ward,1.5,1.5,2.35,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Turnovers,TO,Turnovers,Tyson Ward,2.5,2.5,5.0,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Tyler Dorsey,18.5,18.5,1.43,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Tyler Dorsey,20.5,20.5,1.75,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Tyler Dorsey,22.5,22.5,2.25,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Tyler Dorsey,24.5,24.5,2.95,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Tyler Dorsey,26.5,26.5,4.0,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Tyler Dorsey,28.5,28.5,5.45,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Tyler Dorsey,30.5,30.5,7.4,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Evan Fournier,16.5,16.5,1.36,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Evan Fournier,18.5,18.5,1.65,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Evan Fournier,20.5,20.5,2.15,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Evan Fournier,22.5,22.5,2.8,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Evan Fournier,24.5,24.5,3.9,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Evan Fournier,26.5,26.5,5.4,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Evan Fournier,28.5,28.5,7.4,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Tyson Ward,12.5,12.5,1.39,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Tyson Ward,14.5,14.5,1.79,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Tyson Ward,16.5,16.5,2.5,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Tyson Ward,18.5,18.5,3.7,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Tyson Ward,20.5,20.5,5.5,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds & Assists,PRA,Points + Rebounds + Ass,Tyson Ward,22.5,22.5,8.0,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Lamar Stevens,12.5,12.5,1.47,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Lamar Stevens,15.5,15.5,2.2,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Lamar Stevens,18.5,18.5,3.8,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Jared  Rhoden,15.5,15.5,1.72,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Jared  Rhoden,18.5,18.5,2.65,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Jared  Rhoden,21.5,21.5,4.3,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Mouhamed Faye,12.5,12.5,3.4,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Tyler Dorsey,15.5,15.5,1.37,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Tyler Dorsey,18.5,18.5,1.85,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Tyler Dorsey,21.5,21.5,2.8,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Nikola Milutinov,18.5,18.5,1.85,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Nikola Milutinov,21.5,21.5,3.05,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Evan Fournier,15.5,15.5,1.7,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Evan Fournier,18.5,18.5,2.55,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Evan Fournier,21.5,21.5,4.1,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Donta Hall,12.5,12.5,1.91,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Donta Hall,15.5,15.5,3.55,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Tyrique Jones,12.5,12.5,1.42,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Tyrique Jones,15.5,15.5,2.15,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Tyrique Jones,18.5,18.5,3.9,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Tyson Ward,12.5,12.5,2.02,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Rebounds,PR,Points + Rebounds,Tyson Ward,15.5,15.5,3.6,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Assists,PA,Points + Assists,Evan Fournier,15.5,15.5,1.56,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Assists,PA,Points + Assists,Evan Fournier,18.5,18.5,2.3,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Assists,PA,Points + Assists,Evan Fournier,21.5,21.5,3.7,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Assists,PA,Points + Assists,Tyson Ward,12.5,12.5,2.35,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Assists,PA,Points + Assists,Tyson Ward,15.5,15.5,4.45,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Assists,PA,Points + Assists,Justin Robinson,15.5,15.5,1.42,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Assists,PA,Points + Assists,Justin Robinson,18.5,18.5,2.03,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Assists,PA,Points + Assists,Justin Robinson,21.5,21.5,3.25,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Assists,PA,Points + Assists,Nadir Hifi,21.5,21.5,1.5,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Assists,PA,Points + Assists,Nadir Hifi,24.5,24.5,2.07,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Assists,PA,Points + Assists,Nadir Hifi,27.5,27.5,3.1,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Assists,PA,Points + Assists,Tyler Dorsey,15.5,15.5,1.41,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Assists,PA,Points + Assists,Tyler Dorsey,18.5,18.5,1.95,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Points & Assists,PA,Points + Assists,Tyler Dorsey,21.5,21.5,3.0,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds & Assists,RA,Rebounds + Assists,Tyler Dorsey,4.5,4.5,1.43,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds & Assists,RA,Rebounds + Assists,Tyler Dorsey,5.5,5.5,1.91,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds & Assists,RA,Rebounds + Assists,Tyler Dorsey,6.5,6.5,2.75,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds & Assists,RA,Rebounds + Assists,Evan Fournier,4.5,4.5,1.37,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds & Assists,RA,Rebounds + Assists,Evan Fournier,5.5,5.5,1.78,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds & Assists,RA,Rebounds + Assists,Evan Fournier,6.5,6.5,2.5,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds & Assists,RA,Rebounds + Assists,Tyson Ward,5.5,5.5,1.56,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds & Assists,RA,Rebounds + Assists,Tyson Ward,6.5,6.5,2.09,,True
+NOVIBET,2026-03-10_paris_olympiacos,Paris vs Olympiacos,2026-03-10T19:45:00Z,ALT_PROPS,Rebounds & Assists,RA,Rebounds + Assists,Tyson Ward,7.5,7.5,3.0,,True

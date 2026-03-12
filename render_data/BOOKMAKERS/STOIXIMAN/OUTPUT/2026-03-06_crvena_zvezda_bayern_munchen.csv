@@ -1,0 +1,580 @@
+bookmaker,pre_game_key,match_label,start_time,bet_type,book_category,sheet_key,ui_name,player_name,line,source_display,over_odds,under_odds
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jordan Nwora,16.5,17+,1.53,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jordan Nwora,18.5,19+,1.93,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jordan Nwora,20.5,21+,2.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jordan Nwora,22.5,23+,3.4,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jordan Nwora,24.5,25+,4.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jordan Nwora,26.5,27+,6.7,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jordan Nwora,28.5,29+,9.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jordan Nwora,30.5,31+,12.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jordan Nwora,32.5,33+,15.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Andreas Obst,13.5,14+,1.47,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Andreas Obst,15.5,16+,1.85,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Andreas Obst,17.5,18+,2.42,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Andreas Obst,19.5,20+,3.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Andreas Obst,21.5,22+,4.7,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Andreas Obst,23.5,24+,6.6,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Andreas Obst,25.5,26+,9.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Andreas Obst,27.5,28+,12.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Andreas Obst,29.5,30+,15.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jared Butler,11.5,12+,1.44,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jared Butler,12.5,13+,1.6,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jared Butler,13.5,14+,1.82,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jared Butler,14.5,15+,2.07,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jared Butler,15.5,16+,2.4,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jared Butler,16.5,17+,2.82,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jared Butler,17.5,18+,3.35,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jared Butler,18.5,19+,4.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jared Butler,19.5,20+,4.8,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Chima Moneke,9.5,10+,1.37,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Chima Moneke,11.5,12+,1.78,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Chima Moneke,13.5,14+,2.47,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Chima Moneke,15.5,16+,3.7,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Chima Moneke,17.5,18+,5.6,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Chima Moneke,19.5,20+,8.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Chima Moneke,21.5,22+,12.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Chima Moneke,23.5,24+,15.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Chima Moneke,25.5,26+,17.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Codi Miller-McIntyre,9.5,10+,1.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Codi Miller-McIntyre,11.5,12+,1.98,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Codi Miller-McIntyre,13.5,14+,2.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Codi Miller-McIntyre,15.5,16+,4.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Codi Miller-McIntyre,17.5,18+,6.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Codi Miller-McIntyre,19.5,20+,8.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Codi Miller-McIntyre,21.5,22+,12.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Codi Miller-McIntyre,23.5,24+,15.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Codi Miller-McIntyre,25.5,26+,17.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nenad Dimitrijevic,8.5,9+,1.47,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nenad Dimitrijevic,10.5,11+,1.98,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nenad Dimitrijevic,12.5,13+,2.87,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nenad Dimitrijevic,14.5,15+,4.35,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nenad Dimitrijevic,16.5,17+,6.7,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nenad Dimitrijevic,18.5,19+,10.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nenad Dimitrijevic,20.5,21+,14.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nenad Dimitrijevic,22.5,23+,17.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nenad Dimitrijevic,24.5,25+,18.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Isiaha Mike,8.5,9+,1.65,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Isiaha Mike,9.5,10+,1.91,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Isiaha Mike,10.5,11+,2.27,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Isiaha Mike,11.5,12+,2.72,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Isiaha Mike,12.5,13+,3.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Isiaha Mike,13.5,14+,4.05,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Isiaha Mike,14.5,15+,5.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Isiaha Mike,15.5,16+,6.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Vladimir Lucic,7.5,8+,1.47,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Vladimir Lucic,8.5,9+,1.7,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Vladimir Lucic,9.5,10+,2.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Vladimir Lucic,10.5,11+,2.42,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Vladimir Lucic,11.5,12+,3.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Vladimir Lucic,12.5,13+,3.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Vladimir Lucic,13.5,14+,4.65,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Vladimir Lucic,14.5,15+,5.8,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Justinian Jessup,6.5,7+,1.53,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Justinian Jessup,7.5,8+,1.82,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Justinian Jessup,8.5,9+,2.18,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Justinian Jessup,9.5,10+,2.67,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Justinian Jessup,10.5,11+,3.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Justinian Jessup,11.5,12+,4.15,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Justinian Jessup,12.5,13+,5.2,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Justinian Jessup,13.5,14+,6.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Joel Bolomboy,5.5,6+,1.36,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Joel Bolomboy,6.5,7+,1.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Joel Bolomboy,7.5,8+,1.95,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Joel Bolomboy,8.5,9+,2.62,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Joel Bolomboy,9.5,10+,3.1,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Joel Bolomboy,10.5,11+,4.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Joel Bolomboy,11.5,12+,5.2,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Joel Bolomboy,12.5,13+,7.1,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Kalinic,4.5,5+,1.52,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Kalinic,5.5,6+,1.87,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Kalinic,6.5,7+,2.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Kalinic,7.5,8+,2.87,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Kalinic,8.5,9+,3.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Kalinic,9.5,10+,4.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Wenyen Gabriel,4.5,5+,1.57,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Wenyen Gabriel,5.5,6+,1.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Wenyen Gabriel,6.5,7+,2.42,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Wenyen Gabriel,7.5,8+,2.9,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Wenyen Gabriel,8.5,9+,4.1,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Wenyen Gabriel,9.5,10+,5.2,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Oscar Da Silva,4.5,5+,1.6,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Oscar Da Silva,5.5,6+,1.83,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Oscar Da Silva,6.5,7+,2.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Oscar Da Silva,7.5,8+,3.1,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Oscar Da Silva,8.5,9+,4.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Oscar Da Silva,9.5,10+,5.6,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Ebuka Izundu,3.5,4+,1.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Ebuka Izundu,4.5,5+,2.2,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Ebuka Izundu,5.5,6+,2.52,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Ebuka Izundu,6.5,7+,4.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Ebuka Izundu,7.5,8+,4.85,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Ebuka Izundu,8.5,9+,7.6,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Jordan Nwora,18.5,,1.91,1.82
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Andreas Obst,15.5,,1.85,1.88
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Jared Butler,13.5,,1.82,1.93
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Chima Moneke,11.5,,1.78,1.98
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Codi Miller-McIntyre,11.5,,1.98,1.78
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Nenad Dimitrijevic,10.5,,1.98,1.78
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Isiaha Mike,9.5,,1.91,1.83
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Vladimir Lucic,9.5,,2.0,1.75
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Justinian Jessup,7.5,,1.82,1.93
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Joel Bolomboy,7.5,,1.95,1.8
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Wenyen Gabriel,5.5,,1.75,2.0
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Oscar Da Silva,5.5,,1.83,1.9
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Nikola Kalinic,5.5,,1.87,1.87
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Ebuka Izundu,4.5,,2.15,1.65
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Codi Miller-McIntyre,5.5,6+,1.35,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Codi Miller-McIntyre,6.5,7+,1.72,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Codi Miller-McIntyre,7.5,8+,2.37,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Codi Miller-McIntyre,8.5,9+,3.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Codi Miller-McIntyre,9.5,10+,5.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Codi Miller-McIntyre,10.5,11+,8.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Codi Miller-McIntyre,11.5,12+,12.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Codi Miller-McIntyre,12.5,13+,15.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jared Butler,2.5,3+,1.24,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jared Butler,3.5,4+,1.67,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jared Butler,4.5,5+,2.52,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jared Butler,5.5,6+,4.15,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jared Butler,6.5,7+,7.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jared Butler,7.5,8+,11.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Nenad Dimitrijevic,2.5,3+,1.29,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Nenad Dimitrijevic,3.5,4+,1.8,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Nenad Dimitrijevic,4.5,5+,2.82,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Nenad Dimitrijevic,5.5,6+,4.8,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Nenad Dimitrijevic,6.5,7+,8.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Nenad Dimitrijevic,7.5,8+,12.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Stefan Jovic,2.5,3+,1.34,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Stefan Jovic,3.5,4+,1.91,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Stefan Jovic,4.5,5+,3.1,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Stefan Jovic,5.5,6+,5.4,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Stefan Jovic,6.5,7+,9.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Stefan Jovic,7.5,8+,14.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Andreas Obst,0.5,1+,1.08,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Andreas Obst,1.5,2+,1.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Andreas Obst,2.5,3+,2.57,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Andreas Obst,3.5,4+,5.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Chima Moneke,0.5,1+,1.08,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Chima Moneke,1.5,2+,1.52,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Chima Moneke,2.5,3+,2.62,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Chima Moneke,3.5,4+,5.2,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jordan Nwora,0.5,1+,1.09,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jordan Nwora,1.5,2+,1.57,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jordan Nwora,2.5,3+,2.77,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jordan Nwora,3.5,4+,5.6,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Vladimir Lucic,0.5,1+,1.33,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Vladimir Lucic,1.5,2+,2.6,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Vladimir Lucic,2.5,3+,6.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Vladimir Lucic,3.5,4+,12.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Joel Bolomboy,0.5,1+,1.44,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Joel Bolomboy,1.5,2+,3.15,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Joel Bolomboy,2.5,3+,7.7,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Joel Bolomboy,3.5,4+,14.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Wenyen Gabriel,0.5,1+,1.55,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Wenyen Gabriel,1.5,2+,3.6,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Wenyen Gabriel,2.5,3+,8.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Wenyen Gabriel,3.5,4+,16.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Codi Miller-McIntyre,6.5,,1.75,2.02
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Jared Butler,3.5,,1.7,2.07
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Nenad Dimitrijevic,3.5,,1.82,1.93
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Stefan Jovic,3.5,,1.93,1.82
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Chima Moneke,1.5,,1.53,2.4
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Andreas Obst,1.5,,1.53,2.4
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Jordan Nwora,1.5,,1.6,2.27
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Vladimir Lucic,1.5,,2.57,1.47
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Joel Bolomboy,0.5,,1.47,2.57
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Wenyen Gabriel,0.5,,1.57,2.3
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Joel Bolomboy,4.5,5+,1.29,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Joel Bolomboy,5.5,6+,1.62,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Joel Bolomboy,6.5,7+,2.2,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Joel Bolomboy,7.5,8+,3.2,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Joel Bolomboy,8.5,9+,4.8,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Joel Bolomboy,9.5,10+,7.4,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Chima Moneke,4.5,5+,1.31,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Chima Moneke,5.5,6+,1.67,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Chima Moneke,6.5,7+,2.32,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Chima Moneke,7.5,8+,3.45,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Chima Moneke,8.5,9+,5.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Chima Moneke,9.5,10+,8.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Isiaha Mike,3.5,4+,1.44,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Isiaha Mike,4.5,5+,2.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Isiaha Mike,5.5,6+,3.1,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Isiaha Mike,6.5,7+,5.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Isiaha Mike,7.5,8+,8.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Isiaha Mike,8.5,9+,12.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Oscar Da Silva,2.5,3+,1.28,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Oscar Da Silva,3.5,4+,1.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Oscar Da Silva,4.5,5+,2.65,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Oscar Da Silva,5.5,6+,4.35,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Oscar Da Silva,6.5,7+,7.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Oscar Da Silva,7.5,8+,11.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jordan Nwora,2.5,3+,1.29,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jordan Nwora,3.5,4+,1.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jordan Nwora,4.5,5+,2.72,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jordan Nwora,5.5,6+,4.55,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jordan Nwora,6.5,7+,7.8,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jordan Nwora,7.5,8+,12.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Codi Miller-McIntyre,2.5,3+,1.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Codi Miller-McIntyre,3.5,4+,1.78,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Codi Miller-McIntyre,4.5,5+,2.77,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Codi Miller-McIntyre,5.5,6+,4.65,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Codi Miller-McIntyre,6.5,7+,8.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Codi Miller-McIntyre,7.5,8+,12.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Vladimir Lucic,2.5,3+,1.36,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Vladimir Lucic,3.5,4+,1.91,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Vladimir Lucic,4.5,5+,3.05,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Vladimir Lucic,5.5,6+,5.2,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Vladimir Lucic,6.5,7+,8.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Vladimir Lucic,7.5,8+,13.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jared Butler,1.5,2+,1.4,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jared Butler,2.5,3+,2.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jared Butler,3.5,4+,4.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jared Butler,4.5,5+,8.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Andreas Obst,0.5,1+,1.08,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Andreas Obst,1.5,2+,1.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Andreas Obst,2.5,3+,2.55,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Andreas Obst,3.5,4+,4.9,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nenad Dimitrijevic,0.5,1+,1.09,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nenad Dimitrijevic,1.5,2+,1.55,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nenad Dimitrijevic,2.5,3+,2.7,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nenad Dimitrijevic,3.5,4+,5.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Joel Bolomboy,5.5,,1.65,2.15
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Chima Moneke,5.5,,1.7,2.07
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Isiaha Mike,4.5,,2.02,1.75
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Oscar Da Silva,3.5,,1.75,2.0
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Jordan Nwora,3.5,,1.78,1.95
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Codi Miller-McIntyre,3.5,,1.8,1.93
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Vladimir Lucic,3.5,,1.93,1.8
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Jared Butler,2.5,,2.3,1.57
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Andreas Obst,1.5,,1.52,2.42
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Nenad Dimitrijevic,1.5,,1.57,2.3
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Joel Bolomboy,2.5,,2.27,1.53
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Oscar Da Silva,1.5,,1.72,1.95
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Chima Moneke,0.5,,1.42,2.6
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Isiaha Mike,0.5,,1.44,2.52
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Vladimir Lucic,0.5,,1.65,2.05
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Codi Miller-McIntyre,0.5,,1.8,1.88
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Chima Moneke,4.5,,1.7,1.98
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Jordan Nwora,3.5,,2.0,1.7
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Isiaha Mike,3.5,,2.07,1.65
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Codi Miller-McIntyre,2.5,,1.6,2.15
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Vladimir Lucic,2.5,,1.78,1.9
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Oscar Da Silva,1.5,,1.55,2.25
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Jared Butler,1.5,,1.8,1.87
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Nenad Dimitrijevic,1.5,,1.82,1.85
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Andreas Obst,1.5,2+,1.2,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Andreas Obst,2.5,3+,1.67,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Andreas Obst,3.5,4+,2.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Andreas Obst,4.5,5+,5.1,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jared Butler,1.5,2+,1.36,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jared Butler,2.5,3+,2.15,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jared Butler,3.5,4+,3.95,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jared Butler,4.5,5+,7.6,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jordan Nwora,1.5,2+,1.45,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jordan Nwora,2.5,3+,2.4,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jordan Nwora,3.5,4+,4.65,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jordan Nwora,4.5,5+,8.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Codi Miller-McIntyre,0.5,1+,1.14,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Codi Miller-McIntyre,1.5,2+,1.78,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Codi Miller-McIntyre,2.5,3+,3.45,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Codi Miller-McIntyre,3.5,4+,7.2,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Isiaha Mike,0.5,1+,1.18,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Isiaha Mike,1.5,2+,1.93,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Isiaha Mike,2.5,3+,3.95,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Isiaha Mike,3.5,4+,8.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Justinian Jessup,0.5,1+,1.35,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Justinian Jessup,1.5,2+,2.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Justinian Jessup,2.5,3+,6.6,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Justinian Jessup,3.5,4+,13.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nikola Kalinic,0.5,1+,1.44,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nikola Kalinic,1.5,2+,3.15,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nikola Kalinic,2.5,3+,7.7,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nikola Kalinic,3.5,4+,15.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Vladimir Lucic,0.5,1+,1.44,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Vladimir Lucic,1.5,2+,3.2,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Vladimir Lucic,2.5,3+,7.9,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Vladimir Lucic,3.5,4+,15.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nenad Dimitrijevic,0.5,1+,1.6,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nenad Dimitrijevic,1.5,2+,3.95,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nenad Dimitrijevic,2.5,3+,10.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nenad Dimitrijevic,3.5,4+,17.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Chima Moneke,0.5,1+,2.27,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Chima Moneke,1.5,2+,8.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Chima Moneke,2.5,3+,17.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Andreas Obst,2.5,,1.7,2.07
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Jared Butler,2.5,,2.15,1.65
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Jordan Nwora,2.5,,2.4,1.53
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Codi Miller-McIntyre,1.5,,1.78,1.98
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Isiaha Mike,1.5,,1.91,1.82
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Justinian Jessup,1.5,,2.7,1.42
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Nikola Kalinic,0.5,,1.45,2.6
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Vladimir Lucic,0.5,,1.45,2.6
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Nenad Dimitrijevic,0.5,,1.62,2.22
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Chima Moneke,0.5,,2.5,1.5
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Jordan Nwora,4.5,,2.0,1.72
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Chima Moneke,3.5,,1.8,1.91
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Nenad Dimitrijevic,2.5,,1.65,2.1
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Codi Miller-McIntyre,2.5,,2.0,1.72
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Jared Butler,2.5,,2.05,1.7
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Wenyen Gabriel,2.5,,2.07,1.67
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Andreas Obst,2.5,,2.32,1.55
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Isiaha Mike,1.5,,1.57,2.25
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Jordan Nwora,6.5,,1.9,1.8
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Andreas Obst,5.5,,1.9,1.8
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Codi Miller-McIntyre,4.5,,2.2,1.6
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Vladimir Lucic,2.5,,1.88,1.83
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Jordan Nwora,2.5,,1.7,2.02
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Andreas Obst,2.5,,1.87,1.83
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Vladimir Lucic,2.5,,2.07,1.67
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Jared Butler,1.5,,1.7,2.05
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Nenad Dimitrijevic,1.5,,1.72,2.0
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Codi Miller-McIntyre,0.5,,1.67,2.07
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Oscar Da Silva,0.5,,1.67,2.07
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Nikola Kalinic,0.5,,2.18,1.62
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Codi Miller-McIntyre,0.5,YES/NO,6.5,1.07
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Chima Moneke,0.5,YES/NO,7.8,1.04
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Joel Bolomboy,0.5,YES/NO,9.25,1.015
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Jordan Nwora,0.5,YES/NO,16.0,1.003
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Jared Butler,0.5,YES/NO,17.0,1.002
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Nenad Dimitrijevic,0.5,YES/NO,23.0,1.001
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Vladimir Lucic,0.5,YES/NO,24.0,1.001
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Andreas Obst,0.5,YES/NO,55.0,1.001
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Triple Double,TD,Triple Double,Codi Miller-McIntyre,0.5,YES/NO,50.0,1.001
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Chima Moneke,0.5,1+,1.39,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Chima Moneke,1.5,2+,2.9,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Chima Moneke,2.5,3+,6.9,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Chima Moneke,3.5,4+,13.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Isiaha Mike,0.5,1+,1.45,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Isiaha Mike,1.5,2+,3.15,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Isiaha Mike,2.5,3+,7.6,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Isiaha Mike,3.5,4+,14.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Codi Miller-McIntyre,0.5,1+,1.47,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Codi Miller-McIntyre,1.5,2+,3.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Codi Miller-McIntyre,2.5,3+,8.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Codi Miller-McIntyre,3.5,4+,15.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Justinian Jessup,0.5,1+,1.47,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Justinian Jessup,1.5,2+,3.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Justinian Jessup,2.5,3+,8.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Justinian Jessup,3.5,4+,15.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Nenad Dimitrijevic,0.5,1+,1.47,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Nenad Dimitrijevic,1.5,2+,3.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Nenad Dimitrijevic,2.5,3+,8.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Nenad Dimitrijevic,3.5,4+,15.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Chima Moneke,0.5,,1.4,2.65
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Isiaha Mike,0.5,,1.47,2.45
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Codi Miller-McIntyre,0.5,,1.5,2.37
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Nenad Dimitrijevic,0.5,,1.5,2.37
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Justinian Jessup,0.5,,1.5,2.37
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Wenyen Gabriel,0.5,1+,1.35,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Wenyen Gabriel,1.5,2+,2.65,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Wenyen Gabriel,2.5,3+,6.2,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Wenyen Gabriel,3.5,4+,12.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Chima Moneke,0.5,1+,2.57,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Chima Moneke,1.5,2+,9.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Chima Moneke,2.5,3+,17.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Oscar Da Silva,0.5,1+,3.1,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Oscar Da Silva,1.5,2+,11.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Jordan Nwora,0.5,1+,3.55,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Jordan Nwora,1.5,2+,13.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Wenyen Gabriel,1.5,,2.6,1.42
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Chima Moneke,0.5,,2.52,1.44
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Oscar Da Silva,0.5,,3.0,1.32
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Jordan Nwora,0.5,,3.4,1.25
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Nenad Dimitrijevic,2.5,,2.0,1.72
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Codi Miller-McIntyre,1.5,,1.5,2.4
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Jordan Nwora,1.5,,1.53,2.35
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Jared Butler,1.5,,1.57,2.25
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Andreas Obst,1.5,,1.82,1.9
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Wenyen Gabriel,0.5,,1.42,2.65
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jordan Nwora,22.5,23+,1.57,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jordan Nwora,24.5,25+,1.91,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jordan Nwora,26.5,27+,2.45,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jordan Nwora,28.5,29+,3.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jordan Nwora,30.5,31+,4.55,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jordan Nwora,32.5,33+,6.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jordan Nwora,34.5,35+,8.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jordan Nwora,36.5,37+,11.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jordan Nwora,38.5,39+,14.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,19.5,20+,1.42,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,21.5,22+,1.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,23.5,24+,2.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,25.5,26+,3.2,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,27.5,28+,4.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,29.5,30+,6.6,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,31.5,32+,9.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,33.5,34+,12.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,35.5,36+,15.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Chima Moneke,17.5,18+,1.39,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Chima Moneke,19.5,20+,1.72,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Chima Moneke,21.5,22+,2.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Chima Moneke,23.5,24+,3.2,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Chima Moneke,25.5,26+,4.7,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Chima Moneke,27.5,28+,7.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Chima Moneke,29.5,30+,9.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Chima Moneke,31.5,32+,13.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Chima Moneke,33.5,34+,16.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jared Butler,17.5,18+,1.4,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jared Butler,18.5,19+,1.55,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jared Butler,19.5,20+,1.72,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jared Butler,20.5,21+,1.93,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jared Butler,21.5,22+,2.22,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jared Butler,22.5,23+,2.57,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jared Butler,23.5,24+,3.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jared Butler,24.5,25+,3.55,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jared Butler,25.5,26+,4.2,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Andreas Obst,17.5,18+,1.44,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Andreas Obst,19.5,20+,1.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Andreas Obst,21.5,22+,2.27,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Andreas Obst,23.5,24+,3.05,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Andreas Obst,25.5,26+,4.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Andreas Obst,27.5,28+,5.9,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Andreas Obst,29.5,30+,8.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Andreas Obst,31.5,32+,11.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Andreas Obst,33.5,34+,14.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nenad Dimitrijevic,13.5,14+,1.36,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nenad Dimitrijevic,14.5,15+,1.52,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nenad Dimitrijevic,15.5,16+,1.72,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nenad Dimitrijevic,16.5,17+,2.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nenad Dimitrijevic,17.5,18+,2.32,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nenad Dimitrijevic,18.5,19+,2.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nenad Dimitrijevic,19.5,20+,3.35,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nenad Dimitrijevic,20.5,21+,4.05,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nenad Dimitrijevic,21.5,22+,5.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Joel Bolomboy,12.5,13+,1.42,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Joel Bolomboy,13.5,14+,1.62,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Joel Bolomboy,14.5,15+,1.88,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Joel Bolomboy,15.5,16+,2.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Joel Bolomboy,16.5,17+,2.7,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Joel Bolomboy,17.5,18+,3.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Joel Bolomboy,18.5,19+,4.1,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Joel Bolomboy,19.5,20+,5.2,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Joel Bolomboy,20.5,21+,6.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Vladimir Lucic,11.5,12+,1.35,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Vladimir Lucic,13.5,14+,1.72,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Vladimir Lucic,15.5,16+,2.37,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Vladimir Lucic,17.5,18+,3.45,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Vladimir Lucic,19.5,20+,5.2,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Vladimir Lucic,21.5,22+,7.9,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Vladimir Lucic,23.5,24+,11.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Vladimir Lucic,25.5,26+,15.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Vladimir Lucic,27.5,28+,17.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Jordan Nwora,24.5,,1.95,1.8
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,21.5,,1.8,1.95
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Jared Butler,20.5,,1.98,1.78
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Chima Moneke,19.5,,1.78,1.98
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Andreas Obst,19.5,,1.8,1.95
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Nenad Dimitrijevic,15.5,,1.75,2.0
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Joel Bolomboy,14.5,,1.91,1.82
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Vladimir Lucic,13.5,,1.75,2.0
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Codi Miller-McIntyre,8.5,9+,1.26,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Codi Miller-McIntyre,10.5,11+,1.83,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Codi Miller-McIntyre,12.5,13+,3.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Codi Miller-McIntyre,14.5,15+,6.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Codi Miller-McIntyre,16.5,17+,12.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Codi Miller-McIntyre,18.5,19+,17.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Chima Moneke,6.5,7+,1.34,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Chima Moneke,7.5,8+,1.65,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Chima Moneke,8.5,9+,2.18,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Chima Moneke,9.5,10+,3.05,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Chima Moneke,10.5,11+,4.4,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Chima Moneke,11.5,12+,6.4,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Chima Moneke,12.5,13+,9.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Chima Moneke,13.5,14+,12.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Joel Bolomboy,6.5,7+,1.62,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Joel Bolomboy,7.5,8+,2.12,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Joel Bolomboy,8.5,9+,2.95,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Joel Bolomboy,9.5,10+,4.3,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Joel Bolomboy,10.5,11+,6.4,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Joel Bolomboy,11.5,12+,9.25,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Joel Bolomboy,12.5,13+,12.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Joel Bolomboy,13.5,14+,15.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jared Butler,5.5,6+,1.57,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jared Butler,6.5,7+,2.12,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jared Butler,7.5,8+,3.05,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jared Butler,8.5,9+,4.6,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jared Butler,9.5,10+,7.1,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jared Butler,10.5,11+,10.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jared Butler,11.5,12+,14.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jared Butler,12.5,13+,17.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jordan Nwora,4.5,5+,1.36,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jordan Nwora,5.5,6+,1.78,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jordan Nwora,6.5,7+,2.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jordan Nwora,7.5,8+,3.8,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jordan Nwora,8.5,9+,5.8,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jordan Nwora,9.5,10+,8.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Nenad Dimitrijevic,4.5,5+,1.36,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Nenad Dimitrijevic,5.5,6+,1.8,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Nenad Dimitrijevic,6.5,7+,2.52,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Nenad Dimitrijevic,7.5,8+,3.85,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Nenad Dimitrijevic,8.5,9+,5.9,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Nenad Dimitrijevic,9.5,10+,9.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Vladimir Lucic,3.5,4+,1.32,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Vladimir Lucic,4.5,5+,1.75,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Vladimir Lucic,5.5,6+,2.55,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Vladimir Lucic,6.5,7+,3.9,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Vladimir Lucic,7.5,8+,6.4,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Vladimir Lucic,8.5,9+,10.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Andreas Obst,3.5,4+,1.52,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Andreas Obst,4.5,5+,2.18,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Andreas Obst,5.5,6+,3.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Andreas Obst,6.5,7+,5.8,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Andreas Obst,7.5,8+,9.5,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Andreas Obst,8.5,9+,14.0,
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Codi Miller-McIntyre,10.5,,1.85,1.85
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Chima Moneke,7.5,,1.67,2.07
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Joel Bolomboy,7.5,,2.12,1.65
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Jared Butler,6.5,,2.12,1.65
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Jordan Nwora,5.5,,1.78,1.93
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Nenad Dimitrijevic,5.5,,1.8,1.9
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Vladimir Lucic,4.5,,1.78,1.93
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Andreas Obst,4.5,,2.18,1.6
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Jordan Nwora,22.5,,1.93,1.78
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Chima Moneke,17.5,,1.78,1.93
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Andreas Obst,17.5,,1.8,1.9
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Jared Butler,16.5,,1.95,1.75
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Codi Miller-McIntyre,14.5,,1.75,1.95
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Isiaha Mike,13.5,,1.78,1.93
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Joel Bolomboy,13.5,,1.93,1.78
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Vladimir Lucic,12.5,,1.8,1.9
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Nenad Dimitrijevic,12.5,,1.93,1.78
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Oscar Da Silva,9.5,,1.93,1.78
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Jordan Nwora,20.5,,1.9,1.82
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Codi Miller-McIntyre,18.5,,1.95,1.75
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Andreas Obst,17.5,,1.8,1.9
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Jared Butler,17.5,,1.8,1.91
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Chima Moneke,13.5,,1.75,1.98
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Nenad Dimitrijevic,13.5,,1.75,1.98
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Vladimir Lucic,10.5,,1.9,1.8
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Joel Bolomboy,8.5,,1.98,1.75
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Wenyen Gabriel,6.5,,1.83,1.87
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Jordan Nwora,18.5,,1.83,1.85
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Chima Moneke,12.5,,1.91,1.78
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Wenyen Gabriel,6.5,,1.75,1.93
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Oscar Da Silva,5.5,,1.72,1.98
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Steals+Blocks O/U,SB,Steals + Blocks,Chima Moneke,1.5,,2.0,1.7
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Jordan Nwora,22.5,,1.87,1.8
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Chima Moneke,18.5,,1.9,1.78
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Oscar Da Silva,9.5,,1.8,1.87
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Chima Moneke,4.5,,2.4,1.5
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Andreas Obst,3.5,,1.86,1.86
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Jordan Nwora,3.5,,2.0,1.72
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Vladimir Lucic,2.5,,1.55,2.3
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Fouls Committed,F,Fouls Committed,Chima Moneke,2.5,,1.8,1.9
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Fouls Committed,F,Fouls Committed,Wenyen Gabriel,2.5,,1.95,1.75
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Fouls Committed,F,Fouls Committed,Codi Miller-McIntyre,2.5,,2.25,1.57
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Fouls Committed,F,Fouls Committed,Vladimir Lucic,2.5,,2.7,1.4
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,3 Point Shots Attempted O/U,3P_A,3P Attempted,Andreas Obst,9.5,,2.4,1.5
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,3 Point Shots Attempted O/U,3P_A,3P Attempted,Jordan Nwora,5.5,,1.86,1.86
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,3 Point Shots Attempted O/U,3P_A,3P Attempted,Codi Miller-McIntyre,4.5,,1.9,1.8
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,3 Point Shots Attempted O/U,3P_A,3P Attempted,Justinian Jessup,3.5,,1.6,2.2
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Two Point Shots Attempted O/U,2P_A,2P Attempted,Jordan Nwora,7.5,,1.8,1.9
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Two Point Shots Attempted O/U,2P_A,2P Attempted,Nenad Dimitrijevic,5.5,,2.3,1.55
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Two Point Shots Attempted O/U,2P_A,2P Attempted,Codi Miller-McIntyre,4.5,,1.88,1.83
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Two Point Shots Attempted O/U,2P_A,2P Attempted,Andreas Obst,4.5,,1.9,1.8
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Field Goals Attempted O/U,SH_AT,FG Attempted,Andreas Obst,13.5,,1.9,1.8
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Field Goals Attempted O/U,SH_AT,FG Attempted,Jordan Nwora,13.5,,2.1,1.65
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Field Goals Attempted O/U,SH_AT,FG Attempted,Codi Miller-McIntyre,9.5,,2.3,1.55
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Field Goals Attempted O/U,SH_AT,FG Attempted,Isiaha Mike,8.5,,2.35,1.53
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Free Throws Attempted O/U,FT_A,Free Throws Attempted,Jordan Nwora,3.5,,1.55,2.3
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Free Throws Attempted O/U,FT_A,Free Throws Attempted,Andreas Obst,3.5,,2.1,1.65
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Free Throws Attempted O/U,FT_A,Free Throws Attempted,Vladimir Lucic,3.5,,2.4,1.5
+STOIXIMAN,2026-03-06_crvena_zvezda_bayern_munchen,Crvena Zvezda vs Bayern Munchen,2026-03-06T19:00:00Z,MAIN_PROPS,Free Throws Attempted O/U,FT_A,Free Throws Attempted,Jared Butler,2.5,,2.3,1.55

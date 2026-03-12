@@ -1,0 +1,766 @@
+bookmaker,pre_game_key,match_label,start_time,bet_type,book_category,sheet_key,ui_name,player_name,line,source_display,over_odds,under_odds
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Mike James,15.5,16+,1.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Mike James,16.5,17+,1.65,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Mike James,17.5,18+,1.85,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Mike James,18.5,19+,2.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Mike James,19.5,20+,2.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Mike James,20.5,21+,2.8,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Mike James,21.5,22+,3.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Mike James,22.5,23+,3.85,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Mike James,23.5,24+,4.6,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyler Dorsey,14.5,15+,1.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyler Dorsey,16.5,17+,1.83,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyler Dorsey,18.5,19+,2.37,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyler Dorsey,20.5,21+,3.2,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyler Dorsey,22.5,23+,4.45,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyler Dorsey,24.5,25+,6.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyler Dorsey,26.5,27+,8.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyler Dorsey,28.5,29+,11.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyler Dorsey,30.5,31+,14.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Evan Fournier,11.5,12+,1.47,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Evan Fournier,13.5,14+,1.88,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Evan Fournier,15.5,16+,2.52,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Evan Fournier,17.5,18+,3.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Evan Fournier,19.5,20+,5.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Evan Fournier,21.5,22+,7.2,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Evan Fournier,23.5,24+,10.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Evan Fournier,25.5,26+,13.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Evan Fournier,27.5,28+,15.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Alpha Diallo,10.5,11+,1.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Alpha Diallo,12.5,13+,1.95,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Alpha Diallo,14.5,15+,2.7,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Alpha Diallo,16.5,17+,3.85,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Alpha Diallo,18.5,19+,5.7,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Alpha Diallo,20.5,21+,8.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Alpha Diallo,22.5,23+,11.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Alpha Diallo,24.5,25+,15.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Alpha Diallo,26.5,27+,17.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Elie Okobo,8.5,9+,1.26,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Elie Okobo,10.5,11+,1.57,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Elie Okobo,12.5,13+,2.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Elie Okobo,14.5,15+,2.87,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Elie Okobo,16.5,17+,4.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Elie Okobo,18.5,19+,5.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Elie Okobo,20.5,21+,6.9,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Elie Okobo,22.5,23+,8.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Elie Okobo,24.5,25+,8.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Alec Peters,8.5,9+,1.39,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Alec Peters,10.5,11+,1.78,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Alec Peters,12.5,13+,2.45,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Alec Peters,14.5,15+,3.55,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Alec Peters,16.5,17+,5.2,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Alec Peters,18.5,19+,7.7,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Alec Peters,20.5,21+,11.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Alec Peters,22.5,23+,14.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Alec Peters,24.5,25+,17.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Milutinov,8.5,9+,1.45,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Milutinov,10.5,11+,1.95,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Milutinov,12.5,13+,2.82,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Milutinov,14.5,15+,4.35,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Milutinov,16.5,17+,6.8,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Milutinov,18.5,19+,10.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Milutinov,20.5,21+,14.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Milutinov,22.5,23+,17.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Jaron Blossomgame,8.5,9+,1.6,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Jaron Blossomgame,9.5,10+,1.87,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Jaron Blossomgame,10.5,11+,2.2,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Jaron Blossomgame,11.5,12+,2.37,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Jaron Blossomgame,12.5,13+,2.82,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Jaron Blossomgame,13.5,14+,3.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Jaron Blossomgame,14.5,15+,4.05,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Jaron Blossomgame,15.5,16+,4.8,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Matthew Strazel,7.5,8+,1.52,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Matthew Strazel,8.5,9+,1.78,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Matthew Strazel,9.5,10+,2.07,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Matthew Strazel,10.5,11+,2.45,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Matthew Strazel,11.5,12+,3.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Matthew Strazel,12.5,13+,3.7,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Matthew Strazel,13.5,14+,4.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Matthew Strazel,14.5,15+,5.6,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Nemanja Nedovic,7.5,8+,1.62,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Nemanja Nedovic,8.5,9+,1.91,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Nemanja Nedovic,9.5,10+,2.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Nemanja Nedovic,10.5,11+,2.67,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Nemanja Nedovic,11.5,12+,3.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Nemanja Nedovic,12.5,13+,4.05,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Nemanja Nedovic,13.5,14+,5.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Nemanja Nedovic,14.5,15+,6.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyrique Jones,6.5,7+,1.52,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyrique Jones,7.5,8+,1.7,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyrique Jones,8.5,9+,2.15,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyrique Jones,9.5,10+,2.55,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyrique Jones,10.5,11+,3.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyrique Jones,11.5,12+,4.15,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyrique Jones,12.5,13+,5.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyrique Jones,13.5,14+,7.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyson Ward,6.5,7+,1.52,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyson Ward,7.5,8+,1.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyson Ward,8.5,9+,2.12,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyson Ward,9.5,10+,2.57,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyson Ward,10.5,11+,3.2,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyson Ward,11.5,12+,4.05,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyson Ward,12.5,13+,5.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Tyson Ward,13.5,14+,6.6,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Cory Joseph,4.5,5+,1.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Cory Joseph,5.5,6+,1.83,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Cory Joseph,6.5,7+,2.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Cory Joseph,7.5,8+,2.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Cory Joseph,8.5,9+,3.55,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Cory Joseph,9.5,10+,4.55,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Kevarrius Hayes,4.5,5+,1.52,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Kevarrius Hayes,5.5,6+,1.67,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Kevarrius Hayes,6.5,7+,2.12,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Kevarrius Hayes,7.5,8+,2.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Kevarrius Hayes,8.5,9+,3.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Kevarrius Hayes,9.5,10+,4.15,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Juhann Begarin,3.5,4+,1.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Juhann Begarin,4.5,5+,1.82,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Juhann Begarin,5.5,6+,2.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Juhann Begarin,6.5,7+,2.95,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Juhann Begarin,7.5,8+,3.9,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Juhann Begarin,8.5,9+,5.2,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Kostas Papanikolaou,1.5,2+,1.33,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Kostas Papanikolaou,2.5,3+,1.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Kostas Papanikolaou,3.5,4+,2.47,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points,POINTS,Points,Kostas Papanikolaou,4.5,5+,2.7,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Mike James,17.5,,1.85,1.88
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Tyler Dorsey,16.5,,1.83,1.91
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Evan Fournier,13.5,,1.88,1.85
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Alpha Diallo,12.5,,1.95,1.8
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Elie Okobo,10.5,,1.75,2.0
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Alec Peters,10.5,,1.8,1.95
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Nikola Milutinov,10.5,,1.95,1.8
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Jaron Blossomgame,9.5,,1.87,1.88
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Matthew Strazel,8.5,,1.78,1.98
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Nemanja Nedovic,8.5,,1.91,1.83
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Tyrique Jones,7.5,,1.72,2.05
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Tyson Ward,7.5,,1.75,2.0
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Kevarrius Hayes,5.5,,1.67,2.1
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Cory Joseph,5.5,,1.83,1.9
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Juhann Begarin,4.5,,1.82,1.93
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Kostas Papanikolaou,2.5,,1.52,2.45
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Mike James,5.5,6+,1.44,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Mike James,6.5,7+,1.9,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Mike James,7.5,8+,2.67,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Mike James,8.5,9+,4.05,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Mike James,9.5,10+,6.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Mike James,10.5,11+,9.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Mike James,11.5,12+,13.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Mike James,12.5,13+,16.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Elie Okobo,2.5,3+,1.22,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Elie Okobo,3.5,4+,1.6,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Elie Okobo,4.5,5+,2.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Elie Okobo,5.5,6+,3.85,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Elie Okobo,6.5,7+,6.6,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Elie Okobo,7.5,8+,10.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Matthew Strazel,1.5,2+,1.16,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Matthew Strazel,2.5,3+,1.57,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Matthew Strazel,3.5,4+,2.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Matthew Strazel,4.5,5+,4.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Tyson Ward,1.5,2+,1.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Tyson Ward,2.5,3+,1.83,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Tyson Ward,3.5,4+,3.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Tyson Ward,4.5,5+,5.8,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Evan Fournier,1.5,2+,1.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Evan Fournier,2.5,3+,1.98,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Evan Fournier,3.5,4+,3.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Evan Fournier,4.5,5+,6.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Tyler Dorsey,1.5,2+,1.33,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Tyler Dorsey,2.5,3+,2.07,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Tyler Dorsey,3.5,4+,3.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Tyler Dorsey,4.5,5+,7.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Tyrique Jones,0.5,1+,1.11,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Tyrique Jones,1.5,2+,1.65,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Tyrique Jones,2.5,3+,2.95,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Tyrique Jones,3.5,4+,6.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Alec Peters,0.5,1+,1.17,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Alec Peters,1.5,2+,1.9,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Alec Peters,2.5,3+,3.8,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Alec Peters,3.5,4+,7.9,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Nemanja Nedovic,0.5,1+,1.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Nemanja Nedovic,1.5,2+,2.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Nemanja Nedovic,2.5,3+,4.8,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Nemanja Nedovic,3.5,4+,10.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Nikola Milutinov,0.5,1+,1.26,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Nikola Milutinov,1.5,2+,2.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Nikola Milutinov,2.5,3+,5.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Nikola Milutinov,3.5,4+,10.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Alpha Diallo,0.5,1+,1.28,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Alpha Diallo,1.5,2+,2.32,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Alpha Diallo,2.5,3+,5.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Alpha Diallo,3.5,4+,10.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Jaron Blossomgame,0.5,1+,1.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Jaron Blossomgame,1.5,2+,4.65,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Jaron Blossomgame,2.5,3+,11.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Assists,AS,Assists,Jaron Blossomgame,3.5,4+,18.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Mike James,6.5,,1.91,1.83
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Elie Okobo,3.5,,1.62,2.2
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Matthew Strazel,2.5,,1.6,2.25
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Tyson Ward,2.5,,1.85,1.9
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Evan Fournier,2.5,,1.98,1.78
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Tyler Dorsey,2.5,,2.07,1.7
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Tyrique Jones,1.5,,1.67,2.12
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Alec Peters,1.5,,1.91,1.83
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Nemanja Nedovic,1.5,,2.25,1.6
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Nikola Milutinov,1.5,,2.3,1.57
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Alpha Diallo,1.5,,2.32,1.57
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Jaron Blossomgame,0.5,,1.75,2.0
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nikola Milutinov,5.5,6+,1.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nikola Milutinov,6.5,7+,1.8,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nikola Milutinov,7.5,8+,2.47,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nikola Milutinov,8.5,9+,3.6,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nikola Milutinov,9.5,10+,5.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nikola Milutinov,10.5,11+,8.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nikola Milutinov,11.5,12+,11.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nikola Milutinov,12.5,13+,15.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jaron Blossomgame,3.5,4+,1.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jaron Blossomgame,4.5,5+,1.62,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jaron Blossomgame,5.5,6+,2.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jaron Blossomgame,6.5,7+,3.05,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jaron Blossomgame,7.5,8+,4.65,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jaron Blossomgame,8.5,9+,8.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyrique Jones,3.5,4+,1.26,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyrique Jones,4.5,5+,1.62,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyrique Jones,5.5,6+,2.27,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyrique Jones,6.5,7+,3.45,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyrique Jones,7.5,8+,5.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyrique Jones,8.5,9+,8.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Alpha Diallo,3.5,4+,1.35,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Alpha Diallo,4.5,5+,1.8,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Alpha Diallo,5.5,6+,2.65,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Alpha Diallo,6.5,7+,4.15,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Alpha Diallo,7.5,8+,6.6,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Alpha Diallo,8.5,9+,10.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Kevarrius Hayes,3.5,4+,1.45,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Kevarrius Hayes,4.5,5+,2.02,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Kevarrius Hayes,5.5,6+,3.05,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Kevarrius Hayes,6.5,7+,4.9,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Kevarrius Hayes,7.5,8+,7.8,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Kevarrius Hayes,8.5,9+,11.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Alec Peters,3.5,4+,1.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Alec Peters,4.5,5+,2.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Alec Peters,5.5,6+,3.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Alec Peters,6.5,7+,5.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Alec Peters,7.5,8+,8.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Alec Peters,8.5,9+,13.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyson Ward,2.5,3+,1.35,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyson Ward,3.5,4+,1.9,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyson Ward,4.5,5+,3.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyson Ward,5.5,6+,5.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyson Ward,6.5,7+,8.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyson Ward,7.5,8+,13.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Mike James,1.5,2+,1.17,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Mike James,2.5,3+,1.6,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Mike James,3.5,4+,2.47,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Mike James,4.5,5+,4.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyler Dorsey,1.5,2+,1.39,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyler Dorsey,2.5,3+,2.22,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyler Dorsey,3.5,4+,4.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tyler Dorsey,4.5,5+,7.8,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Kostas Papanikolaou,1.5,2+,1.44,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Kostas Papanikolaou,2.5,3+,2.37,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Kostas Papanikolaou,3.5,4+,4.45,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Kostas Papanikolaou,4.5,5+,8.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Elie Okobo,0.5,1+,1.07,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Elie Okobo,1.5,2+,1.47,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Elie Okobo,2.5,3+,2.47,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Elie Okobo,3.5,4+,4.8,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Evan Fournier,0.5,1+,1.09,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Evan Fournier,1.5,2+,1.53,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Evan Fournier,2.5,3+,2.62,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Evan Fournier,3.5,4+,5.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Matthew Strazel,0.5,1+,1.09,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Matthew Strazel,1.5,2+,1.55,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Matthew Strazel,2.5,3+,2.67,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Matthew Strazel,3.5,4+,5.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nemanja Nedovic,0.5,1+,1.09,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nemanja Nedovic,1.5,2+,1.55,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nemanja Nedovic,2.5,3+,2.67,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nemanja Nedovic,3.5,4+,5.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Nikola Milutinov,6.5,,1.83,1.91
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Tyrique Jones,4.5,,1.65,2.15
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Jaron Blossomgame,4.5,,1.65,2.15
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Alpha Diallo,4.5,,1.8,1.93
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Kevarrius Hayes,4.5,,2.05,1.72
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Alec Peters,4.5,,2.12,1.67
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Tyson Ward,3.5,,1.91,1.82
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Mike James,2.5,,1.62,2.22
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Tyler Dorsey,2.5,,2.22,1.62
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Kostas Papanikolaou,2.5,,2.37,1.55
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Elie Okobo,2.5,,2.47,1.5
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Evan Fournier,1.5,,1.55,2.35
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Matthew Strazel,1.5,,1.57,2.32
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Nemanja Nedovic,1.5,,1.57,2.32
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Nikola Milutinov,2.5,,2.02,1.67
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Jaron Blossomgame,1.5,,1.75,1.93
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Alpha Diallo,1.5,,2.05,1.67
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Tyson Ward,0.5,,1.5,2.37
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Alec Peters,0.5,,2.32,1.52
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Mike James,0.5,,2.42,1.47
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Nikola Milutinov,4.5,,2.12,1.62
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Alec Peters,3.5,,1.72,1.98
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Jaron Blossomgame,3.5,,2.07,1.65
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Alpha Diallo,3.5,,2.15,1.6
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Tyson Ward,2.5,,1.88,1.78
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Mike James,2.5,,1.9,1.78
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Tyler Dorsey,1.5,,1.57,2.2
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Elie Okobo,1.5,,1.6,2.15
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Tyler Dorsey,1.5,2+,1.22,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Tyler Dorsey,2.5,3+,1.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Tyler Dorsey,3.5,4+,2.95,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Tyler Dorsey,4.5,5+,5.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Evan Fournier,1.5,2+,1.33,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Evan Fournier,2.5,3+,2.07,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Evan Fournier,3.5,4+,3.8,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Evan Fournier,4.5,5+,7.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nemanja Nedovic,0.5,1+,1.13,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nemanja Nedovic,1.5,2+,1.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nemanja Nedovic,2.5,3+,3.35,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nemanja Nedovic,3.5,4+,7.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Mike James,0.5,1+,1.14,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Mike James,1.5,2+,1.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Mike James,2.5,3+,3.35,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Mike James,3.5,4+,7.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Alec Peters,0.5,1+,1.15,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Alec Peters,1.5,2+,1.83,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Alec Peters,2.5,3+,3.65,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Alec Peters,3.5,4+,7.7,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Matthew Strazel,0.5,1+,1.22,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Matthew Strazel,1.5,2+,2.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Matthew Strazel,2.5,3+,4.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Matthew Strazel,3.5,4+,9.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Alpha Diallo,0.5,1+,1.31,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Alpha Diallo,1.5,2+,2.47,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Alpha Diallo,2.5,3+,5.7,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Alpha Diallo,3.5,4+,11.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Elie Okobo,0.5,1+,1.35,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Elie Okobo,1.5,2+,2.72,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Elie Okobo,2.5,3+,6.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Elie Okobo,3.5,4+,13.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Cory Joseph,0.5,1+,1.47,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Cory Joseph,1.5,2+,3.35,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Cory Joseph,2.5,3+,8.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Cory Joseph,3.5,4+,15.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Kostas Papanikolaou,0.5,1+,1.55,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Kostas Papanikolaou,1.5,2+,3.65,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Kostas Papanikolaou,2.5,3+,9.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Kostas Papanikolaou,3.5,4+,16.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jaron Blossomgame,0.5,1+,1.65,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jaron Blossomgame,1.5,2+,4.2,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jaron Blossomgame,2.5,3+,10.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jaron Blossomgame,3.5,4+,17.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Tyson Ward,0.5,1+,2.27,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Tyson Ward,1.5,2+,7.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Tyson Ward,2.5,3+,16.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Tyler Dorsey,2.5,,1.75,2.0
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Evan Fournier,2.5,,2.07,1.7
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Mike James,1.5,,1.75,2.0
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Nemanja Nedovic,1.5,,1.75,2.0
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Alec Peters,1.5,,1.83,1.9
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Matthew Strazel,1.5,,2.07,1.7
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Alpha Diallo,1.5,,2.45,1.52
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Elie Okobo,1.5,,2.67,1.44
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Cory Joseph,0.5,,1.5,2.5
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Kostas Papanikolaou,0.5,,1.57,2.32
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Jaron Blossomgame,0.5,,1.67,2.12
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Tyson Ward,0.5,,2.25,1.6
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Mike James,3.5,,1.62,2.15
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Nikola Milutinov,3.5,,1.7,2.05
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Alpha Diallo,3.5,,2.1,1.65
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Jaron Blossomgame,2.5,,1.62,2.15
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Tyler Dorsey,2.5,,1.65,2.12
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Tyrique Jones,2.5,,1.65,2.1
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Elie Okobo,2.5,,1.78,1.93
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Tyson Ward,2.5,,1.91,1.8
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Evan Fournier,2.5,,2.3,1.55
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Nemanja Nedovic,1.5,,2.12,1.65
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Mike James,6.5,,2.55,1.45
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Tyler Dorsey,5.5,,1.86,1.86
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Evan Fournier,4.5,,1.86,1.86
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Jaron Blossomgame,3.5,,1.55,2.3
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Elie Okobo,3.5,,1.72,2.0
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Alec Peters,3.5,,1.9,1.8
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Mike James,4.5,,2.02,1.7
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Nikola Milutinov,2.5,,1.9,1.8
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Tyler Dorsey,2.5,,1.93,1.78
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Tyrique Jones,1.5,,1.57,2.25
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Matthew Strazel,1.5,,1.6,2.2
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Elie Okobo,1.5,,1.62,2.15
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Alec Peters,1.5,,1.62,2.15
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Alpha Diallo,1.5,,1.75,1.98
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Tyson Ward,1.5,,2.18,1.62
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Jaron Blossomgame,1.5,,2.2,1.6
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Mike James,0.5,YES/NO,5.9,1.09
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Nikola Milutinov,0.5,YES/NO,6.6,1.07
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Jaron Blossomgame,0.5,YES/NO,10.25,1.01
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Alpha Diallo,0.5,YES/NO,10.5,1.009
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Tyrique Jones,0.5,YES/NO,10.75,1.008
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Alec Peters,0.5,YES/NO,13.5,1.004
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Elie Okobo,0.5,YES/NO,18.0,1.002
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Tyson Ward,0.5,YES/NO,27.0,1.001
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Matthew Strazel,0.5,YES/NO,45.0,1.001
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Tyler Dorsey,0.5,YES/NO,45.0,1.001
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Evan Fournier,0.5,YES/NO,50.0,1.001
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Triple Double,TD,Triple Double,Mike James,0.5,YES/NO,50.0,1.001
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Alpha Diallo,0.5,1+,1.29,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Alpha Diallo,1.5,2+,2.42,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Alpha Diallo,2.5,3+,5.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Alpha Diallo,3.5,4+,11.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Elie Okobo,0.5,1+,1.45,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Elie Okobo,1.5,2+,3.15,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Elie Okobo,2.5,3+,7.8,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Elie Okobo,3.5,4+,14.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Mike James,0.5,1+,1.47,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Mike James,1.5,2+,3.15,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Mike James,2.5,3+,7.7,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Mike James,3.5,4+,14.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Evan Fournier,0.5,1+,1.57,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Evan Fournier,1.5,2+,3.7,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Evan Fournier,2.5,3+,9.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Evan Fournier,3.5,4+,16.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Tyler Dorsey,0.5,1+,1.8,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Tyler Dorsey,1.5,2+,4.85,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Tyler Dorsey,2.5,3+,11.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Tyler Dorsey,3.5,4+,18.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Tyson Ward,0.5,1+,2.22,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Tyson Ward,1.5,2+,7.2,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Steals,ST,Steals,Tyson Ward,2.5,3+,16.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Alpha Diallo,1.5,,2.37,1.5
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Mike James,0.5,,1.47,2.42
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Elie Okobo,0.5,,1.47,2.42
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Evan Fournier,0.5,,1.57,2.2
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Tyler Dorsey,0.5,,1.8,1.87
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Tyson Ward,0.5,,2.2,1.57
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Kevarrius Hayes,0.5,1+,1.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Kevarrius Hayes,1.5,2+,3.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Kevarrius Hayes,2.5,3+,8.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Kevarrius Hayes,3.5,4+,15.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Nikola Milutinov,0.5,1+,1.55,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Nikola Milutinov,1.5,2+,3.55,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Nikola Milutinov,2.5,3+,8.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Nikola Milutinov,3.5,4+,15.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Tyrique Jones,0.5,1+,2.37,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Tyrique Jones,1.5,2+,7.6,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Tyrique Jones,2.5,3+,16.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Alpha Diallo,0.5,1+,3.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Alpha Diallo,1.5,2+,12.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Tyson Ward,0.5,1+,5.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Tyson Ward,1.5,2+,17.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Mike James,0.5,1+,7.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Kevarrius Hayes,0.5,,1.5,2.35
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Nikola Milutinov,0.5,,1.55,2.25
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Tyrique Jones,0.5,,2.32,1.52
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Alpha Diallo,0.5,,3.15,1.29
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Tyson Ward,0.5,,4.85,1.13
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Mike James,0.5,,6.3,1.07
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Mike James,2.5,,1.57,2.25
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Elie Okobo,1.5,,1.57,2.25
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Matthew Strazel,1.5,,1.72,2.0
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Tyler Dorsey,1.5,,1.72,2.0
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Alec Peters,1.5,,1.83,1.87
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Tyson Ward,1.5,,2.15,1.62
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Evan Fournier,1.5,,2.25,1.57
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Mike James,25.5,26+,1.53,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Mike James,27.5,28+,1.88,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Mike James,29.5,30+,2.42,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Mike James,31.5,32+,3.2,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Mike James,33.5,34+,4.45,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Mike James,35.5,36+,6.2,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Mike James,37.5,38+,8.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Mike James,39.5,40+,11.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Mike James,41.5,42+,14.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyler Dorsey,19.5,20+,1.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyler Dorsey,21.5,22+,1.85,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyler Dorsey,23.5,24+,2.37,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyler Dorsey,25.5,26+,3.15,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyler Dorsey,27.5,28+,4.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyler Dorsey,29.5,30+,5.9,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyler Dorsey,31.5,32+,8.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyler Dorsey,33.5,34+,10.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyler Dorsey,35.5,36+,13.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nikola Milutinov,16.5,17+,1.45,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nikola Milutinov,18.5,19+,1.83,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nikola Milutinov,20.5,21+,2.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nikola Milutinov,22.5,23+,3.6,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nikola Milutinov,24.5,25+,5.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nikola Milutinov,26.5,27+,8.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nikola Milutinov,28.5,29+,11.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nikola Milutinov,30.5,31+,14.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nikola Milutinov,32.5,33+,17.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Evan Fournier,16.5,17+,1.53,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Evan Fournier,18.5,19+,1.93,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Evan Fournier,20.5,21+,2.55,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Evan Fournier,22.5,23+,3.45,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Evan Fournier,24.5,25+,4.85,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Evan Fournier,26.5,27+,6.9,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Evan Fournier,28.5,29+,9.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Evan Fournier,30.5,31+,12.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Evan Fournier,32.5,33+,15.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Alpha Diallo,15.5,16+,1.35,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Alpha Diallo,16.5,17+,1.47,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Alpha Diallo,17.5,18+,1.65,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Alpha Diallo,18.5,19+,1.88,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Alpha Diallo,19.5,20+,2.15,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Alpha Diallo,20.5,21+,2.47,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Alpha Diallo,21.5,22+,2.87,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Alpha Diallo,22.5,23+,3.45,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Alpha Diallo,23.5,24+,4.05,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Elie Okobo,14.5,15+,1.35,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Elie Okobo,15.5,16+,1.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Elie Okobo,16.5,17+,1.67,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Elie Okobo,17.5,18+,1.91,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Elie Okobo,18.5,19+,2.2,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Elie Okobo,19.5,20+,2.6,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Elie Okobo,20.5,21+,3.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Elie Okobo,21.5,22+,3.7,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Elie Okobo,22.5,23+,4.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Alec Peters,14.5,15+,1.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Alec Peters,16.5,17+,1.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Alec Peters,18.5,19+,2.32,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Alec Peters,20.5,21+,3.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Alec Peters,22.5,23+,4.65,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Alec Peters,24.5,25+,6.6,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Alec Peters,26.5,27+,9.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Alec Peters,28.5,29+,12.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Alec Peters,30.5,31+,15.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jaron Blossomgame,13.5,14+,1.44,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jaron Blossomgame,15.5,16+,1.85,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jaron Blossomgame,17.5,18+,2.52,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jaron Blossomgame,19.5,20+,3.65,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jaron Blossomgame,21.5,22+,5.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jaron Blossomgame,23.5,24+,8.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jaron Blossomgame,25.5,26+,11.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jaron Blossomgame,27.5,28+,15.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jaron Blossomgame,29.5,30+,17.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyrique Jones,12.5,13+,1.34,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyrique Jones,13.5,14+,1.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyrique Jones,14.5,15+,1.7,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyrique Jones,15.5,16+,2.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyrique Jones,16.5,17+,2.37,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyrique Jones,17.5,18+,2.87,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyrique Jones,18.5,19+,3.55,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyrique Jones,19.5,20+,4.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyrique Jones,20.5,21+,5.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyson Ward,12.5,13+,1.45,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyson Ward,14.5,15+,1.93,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyson Ward,16.5,17+,2.72,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyson Ward,18.5,19+,4.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyson Ward,20.5,21+,6.2,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyson Ward,22.5,23+,9.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyson Ward,24.5,25+,13.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyson Ward,26.5,27+,16.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tyson Ward,28.5,29+,18.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Matthew Strazel,11.5,12+,1.35,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Matthew Strazel,12.5,13+,1.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Matthew Strazel,13.5,14+,1.7,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Matthew Strazel,14.5,15+,1.95,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Matthew Strazel,15.5,16+,2.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Matthew Strazel,16.5,17+,2.72,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Matthew Strazel,17.5,18+,3.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Matthew Strazel,18.5,19+,4.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Matthew Strazel,19.5,20+,4.85,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nemanja Nedovic,9.5,10+,1.37,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nemanja Nedovic,11.5,12+,1.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nemanja Nedovic,13.5,14+,2.37,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nemanja Nedovic,15.5,16+,3.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nemanja Nedovic,17.5,18+,5.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nemanja Nedovic,19.5,20+,7.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nemanja Nedovic,21.5,22+,10.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nemanja Nedovic,23.5,24+,14.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Nemanja Nedovic,25.5,26+,17.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Mike James,27.5,,1.93,1.82
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Tyler Dorsey,21.5,,1.88,1.87
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Nikola Milutinov,18.5,,1.87,1.87
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Alpha Diallo,18.5,,1.91,1.83
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Evan Fournier,18.5,,1.95,1.78
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Elie Okobo,17.5,,1.95,1.8
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Alec Peters,16.5,,1.8,1.95
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Jaron Blossomgame,15.5,,1.88,1.85
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Tyrique Jones,14.5,,1.75,2.02
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Tyson Ward,14.5,,1.95,1.78
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Matthew Strazel,14.5,,2.0,1.75
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Nemanja Nedovic,11.5,,1.78,1.98
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Mike James,8.5,9+,1.47,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Mike James,9.5,10+,1.87,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Mike James,10.5,11+,2.45,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Mike James,11.5,12+,3.35,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Mike James,12.5,13+,4.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Mike James,13.5,14+,6.9,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Mike James,14.5,15+,9.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Mike James,15.5,16+,12.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Nikola Milutinov,6.5,7+,1.34,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Nikola Milutinov,7.5,8+,1.65,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Nikola Milutinov,8.5,9+,2.15,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Nikola Milutinov,9.5,10+,2.92,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Nikola Milutinov,10.5,11+,4.2,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Nikola Milutinov,11.5,12+,6.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Nikola Milutinov,12.5,13+,8.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Nikola Milutinov,13.5,14+,11.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyrique Jones,5.5,6+,1.34,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyrique Jones,6.5,7+,1.67,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyrique Jones,7.5,8+,2.22,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyrique Jones,8.5,9+,3.15,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyrique Jones,9.5,10+,4.65,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyrique Jones,10.5,11+,6.9,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyrique Jones,11.5,12+,9.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyrique Jones,12.5,13+,13.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyson Ward,5.5,6+,1.55,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyson Ward,6.5,7+,2.05,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyson Ward,7.5,8+,2.92,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyson Ward,8.5,9+,4.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyson Ward,9.5,10+,6.8,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyson Ward,10.5,11+,10.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyson Ward,11.5,12+,13.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyson Ward,12.5,13+,16.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Elie Okobo,4.5,5+,1.26,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Elie Okobo,5.5,6+,1.57,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Elie Okobo,6.5,7+,2.12,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Elie Okobo,7.5,8+,3.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Elie Okobo,8.5,9+,4.7,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Elie Okobo,9.5,10+,7.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Alpha Diallo,4.5,5+,1.29,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Alpha Diallo,5.5,6+,1.62,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Alpha Diallo,6.5,7+,2.2,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Alpha Diallo,7.5,8+,3.15,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Alpha Diallo,8.5,9+,4.85,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Alpha Diallo,9.5,10+,7.3,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Alec Peters,4.5,5+,1.32,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Alec Peters,5.5,6+,1.67,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Alec Peters,6.5,7+,2.32,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Alec Peters,7.5,8+,3.45,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Alec Peters,8.5,9+,5.2,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Alec Peters,9.5,10+,8.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jaron Blossomgame,4.5,5+,1.34,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jaron Blossomgame,5.5,6+,1.72,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jaron Blossomgame,6.5,7+,2.37,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jaron Blossomgame,7.5,8+,3.55,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jaron Blossomgame,8.5,9+,5.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jaron Blossomgame,9.5,10+,8.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Matthew Strazel,3.5,4+,1.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Matthew Strazel,4.5,5+,1.6,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Matthew Strazel,5.5,6+,2.27,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Matthew Strazel,6.5,7+,3.45,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Matthew Strazel,7.5,8+,5.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Matthew Strazel,8.5,9+,8.75,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyler Dorsey,3.5,4+,1.34,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyler Dorsey,4.5,5+,1.78,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyler Dorsey,5.5,6+,2.57,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyler Dorsey,6.5,7+,4.05,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyler Dorsey,7.5,8+,6.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tyler Dorsey,8.5,9+,10.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Evan Fournier,3.5,4+,1.38,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Evan Fournier,4.5,5+,1.87,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Evan Fournier,5.5,6+,2.77,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Evan Fournier,6.5,7+,4.45,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Evan Fournier,7.5,8+,7.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Evan Fournier,8.5,9+,10.5,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Nemanja Nedovic,1.5,2+,1.1,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Nemanja Nedovic,2.5,3+,1.4,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Nemanja Nedovic,3.5,4+,2.0,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Nemanja Nedovic,4.5,5+,3.25,
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Mike James,9.5,,1.88,1.83
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Nikola Milutinov,7.5,,1.67,2.07
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Tyrique Jones,6.5,,1.7,2.05
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Tyson Ward,6.5,,2.07,1.67
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Elie Okobo,6.5,,2.12,1.65
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Alpha Diallo,5.5,,1.62,2.15
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Alec Peters,5.5,,1.7,2.02
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Jaron Blossomgame,5.5,,1.75,1.98
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Matthew Strazel,4.5,,1.62,2.15
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Tyler Dorsey,4.5,,1.8,1.91
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Evan Fournier,4.5,,1.88,1.82
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Nemanja Nedovic,3.5,,2.02,1.72
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Mike James,20.5,,1.83,1.87
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Tyler Dorsey,19.5,,1.95,1.75
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Nikola Milutinov,17.5,,1.95,1.75
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Alpha Diallo,17.5,,1.98,1.75
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Evan Fournier,15.5,,1.83,1.87
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Alec Peters,15.5,,1.93,1.78
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Jaron Blossomgame,14.5,,1.8,1.9
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Elie Okobo,13.5,,1.95,1.75
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Tyrique Jones,13.5,,2.0,1.72
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Tyson Ward,11.5,,1.87,1.85
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Matthew Strazel,10.5,,1.75,1.98
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Nemanja Nedovic,10.5,,1.87,1.85
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Kevarrius Hayes,10.5,,1.93,1.78
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Kostas Papanikolaou,5.5,,1.93,1.78
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Mike James,24.5,,1.91,1.8
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Tyler Dorsey,19.5,,1.93,1.78
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Evan Fournier,16.5,,1.98,1.75
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Elie Okobo,15.5,,1.98,1.75
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Alpha Diallo,13.5,,1.83,1.88
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Alec Peters,12.5,,1.85,1.85
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Matthew Strazel,11.5,,1.72,2.0
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Nikola Milutinov,11.5,,1.8,1.9
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Tyson Ward,10.5,,1.83,1.88
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Jaron Blossomgame,10.5,,1.91,1.8
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Tyrique Jones,9.5,,1.75,1.95
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Nemanja Nedovic,9.5,,1.78,1.93
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Mike James,17.5,,1.8,1.87
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Alpha Diallo,12.5,,1.83,1.83
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Nikola Milutinov,11.5,,1.91,1.75
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Tyrique Jones,8.5,,1.88,1.8
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Tyson Ward,8.5,,2.0,1.7
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Kevarrius Hayes,6.5,,1.72,1.95
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Steals+Blocks O/U,SB,Steals + Blocks,Alpha Diallo,1.5,,1.93,1.75
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Steals+Blocks O/U,SB,Steals + Blocks,Mike James,0.5,,1.42,2.62
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Steals+Blocks O/U,SB,Steals + Blocks,Tyson Ward,0.5,,1.87,1.8
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Mike James,20.5,,1.8,1.88
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Nikola Milutinov,18.5,,1.95,1.72
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Alpha Diallo,17.5,,1.88,1.8
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Tyrique Jones,13.5,,1.83,1.83
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Tyson Ward,11.5,,1.8,1.87
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Kevarrius Hayes,11.5,,1.9,1.78
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Mike James,4.5,,1.65,2.1
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Matthew Strazel,3.5,,1.8,1.9
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Nikola Milutinov,3.5,,1.95,1.75
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Alpha Diallo,3.5,,2.2,1.6
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Tyler Dorsey,3.5,,2.25,1.57
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Tyson Ward,1.5,,1.55,2.3
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Fouls Committed,F,Fouls Committed,Jaron Blossomgame,2.5,,1.86,1.86
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Fouls Committed,F,Fouls Committed,Elie Okobo,2.5,,2.0,1.72
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Fouls Committed,F,Fouls Committed,Tyson Ward,2.5,,2.0,1.72
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Fouls Committed,F,Fouls Committed,Alpha Diallo,2.5,,2.2,1.6
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Fouls Committed,F,Fouls Committed,Evan Fournier,2.5,,2.2,1.6
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Fouls Committed,F,Fouls Committed,Tyler Dorsey,1.5,,1.6,2.2
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Fouled Out,Fouled Out,Fouled Out,Frank Ntilikina,0.0,,7.0,1.06
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Fouled Out,Fouled Out,Fouled Out,Alpha Diallo,0.0,,8.0,1.05
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Fouled Out,Fouled Out,Fouled Out,Elie Okobo,0.0,,9.0,1.04
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Fouled Out,Fouled Out,Fouled Out,Tyson Ward,0.0,,9.0,1.04
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Players Played Time O/U,Players Played Time,Players Played Time,Mike James,31.0,,1.9,1.78
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Players Played Time O/U,Players Played Time,Players Played Time,Tyson Ward,22.0,,1.8,1.88
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,1Q Points,Q1_PTS,Q1 Points,Mike James,5.5,,1.55,2.3
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,1Q Points,Q1_PTS,Q1 Points,Nikola Milutinov,3.5,,1.75,1.95
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,1Q Points,Q1_PTS,Q1 Points,Alpha Diallo,3.5,,1.86,1.86
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,1Q Points,Q1_PTS,Q1 Points,Jaron Blossomgame,2.5,,2.0,1.72
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,1Q Points,Q1_PTS,Q1 Points,Frank Ntilikina,1.5,,2.0,1.72
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,1Q Assists,Q1_AS,Q1 Assists,Mike James,1.5,,1.75,1.95
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,1Q Assists,Q1_AS,Q1 Assists,Tyler Dorsey,1.5,,2.55,1.45
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,1Q Rebounds,Q1_TR,Q1 Rebounds,Nikola Milutinov,2.5,,1.55,2.3
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,1Q Rebounds,Q1_TR,Q1 Rebounds,Jaron Blossomgame,1.5,,1.65,2.1
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,1Q Rebounds,Q1_TR,Q1 Rebounds,Alpha Diallo,1.5,,1.9,1.8
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,1Q Rebounds,Q1_TR,Q1 Rebounds,Tyler Dorsey,0.5,,1.72,2.0
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,3 Point Shots Attempted O/U,3P_A,3P Attempted,Evan Fournier,5.5,,1.9,1.8
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,3 Point Shots Attempted O/U,3P_A,3P Attempted,Alec Peters,5.5,,1.9,1.8
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,3 Point Shots Attempted O/U,3P_A,3P Attempted,Tyler Dorsey,5.5,,2.05,1.7
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,3 Point Shots Attempted O/U,3P_A,3P Attempted,Mike James,5.5,,2.2,1.6
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,3 Point Shots Attempted O/U,3P_A,3P Attempted,Elie Okobo,3.5,,1.8,1.9
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,3 Point Shots Attempted O/U,3P_A,3P Attempted,Jaron Blossomgame,3.5,,2.25,1.57
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Two Point Shots Attempted O/U,2P_A,2P Attempted,Mike James,9.5,,2.3,1.55
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Two Point Shots Attempted O/U,2P_A,2P Attempted,Tyler Dorsey,5.5,,1.8,1.9
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Two Point Shots Attempted O/U,2P_A,2P Attempted,Alpha Diallo,5.5,,2.15,1.63
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Two Point Shots Attempted O/U,2P_A,2P Attempted,Jaron Blossomgame,5.5,,2.55,1.45
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Two Point Shots Attempted O/U,2P_A,2P Attempted,Evan Fournier,4.5,,1.8,1.9
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Two Point Shots Attempted O/U,2P_A,2P Attempted,Alec Peters,3.5,,1.6,2.2
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Field Goals Attempted O/U,SH_AT,FG Attempted,Mike James,14.5,,2.1,1.65
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Field Goals Attempted O/U,SH_AT,FG Attempted,Tyler Dorsey,11.5,,2.3,1.55
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Field Goals Attempted O/U,SH_AT,FG Attempted,Evan Fournier,10.5,,2.15,1.63
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Field Goals Attempted O/U,SH_AT,FG Attempted,Alec Peters,9.5,,2.0,1.72
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Field Goals Attempted O/U,SH_AT,FG Attempted,Elie Okobo,9.5,,2.05,1.7
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Field Goals Attempted O/U,SH_AT,FG Attempted,Jaron Blossomgame,8.5,,2.2,1.6
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Free Throws Attempted O/U,FT_A,Free Throws Attempted,Mike James,6.5,,2.15,1.63
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Free Throws Attempted O/U,FT_A,Free Throws Attempted,Tyler Dorsey,3.5,,2.4,1.5
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Free Throws Attempted O/U,FT_A,Free Throws Attempted,Matthew Strazel,3.5,,2.55,1.45
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Free Throws Attempted O/U,FT_A,Free Throws Attempted,Elie Okobo,2.5,,1.86,1.86
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Free Throws Attempted O/U,FT_A,Free Throws Attempted,Alec Peters,2.5,,1.95,1.75
+STOIXIMAN,2026-03-12_monaco_olympiacos,Monaco vs Olympiacos,2026-03-12T18:00:00Z,MAIN_PROPS,Free Throws Attempted O/U,FT_A,Free Throws Attempted,Evan Fournier,2.5,,2.7,1.4
