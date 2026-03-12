@@ -5,6 +5,29 @@
   "season": "2025_26",
   "games": [
     {
+      "game_id": "18363",
+      "home_away": "away",
+      "opponent": "Paris Basketball",
+      "team_score": 104,
+      "opponent_score": 87,
+      "win": true,
+      "phase": "REGULAR_SEASON",
+      "round": "ROUND_31",
+      "active_codes": [
+        "006591",
+        "012610",
+        "001255",
+        "009849",
+        "008829",
+        "003941",
+        "014316",
+        "011196",
+        "007853",
+        "011981",
+        "013380"
+      ]
+    },
+    {
       "game_id": "18398",
       "home_away": "home",
       "opponent": "Panathinaikos",

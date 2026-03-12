@@ -5,6 +5,30 @@
   "season": "2025_26",
   "games": [
     {
+      "game_id": "18393",
+      "home_away": "home",
+      "opponent": "Partizan",
+      "team_score": 82,
+      "opponent_score": 88,
+      "win": false,
+      "phase": "REGULAR_SEASON",
+      "round": "ROUND_31",
+      "active_codes": [
+        "007947",
+        "013028",
+        "011987",
+        "012687",
+        "011051",
+        "014005",
+        "014219",
+        "012585",
+        "014108",
+        "005422",
+        "013374",
+        "011816"
+      ]
+    },
+    {
       "game_id": "18401",
       "home_away": "away",
       "opponent": "Real Madrid",

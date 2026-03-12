@@ -11690,5 +11690,86 @@
       "008099",
       "005985"
     ]
+  },
+  "18363": {
+    "game_id": "18363",
+    "league": "EUROLEAGUE",
+    "season": "2025_26",
+    "phase": "REGULAR_SEASON",
+    "round": "ROUND_31",
+    "home_team_id": "paris",
+    "home_team": "Paris Basketball",
+    "away_team_id": "olympiacos",
+    "away_team": "Olympiacos",
+    "home_score": 87,
+    "away_score": 104,
+    "winner": "away",
+    "home_active_codes": [
+      "012640",
+      "013373",
+      "014008",
+      "012611",
+      "014178",
+      "014009",
+      "014010",
+      "012403",
+      "010431",
+      "004197",
+      "011949",
+      "009664"
+    ],
+    "away_active_codes": [
+      "006591",
+      "012610",
+      "001255",
+      "009849",
+      "008829",
+      "003941",
+      "014316",
+      "011196",
+      "007853",
+      "011981",
+      "013380"
+    ]
+  },
+  "18393": {
+    "game_id": "18393",
+    "league": "EUROLEAGUE",
+    "season": "2025_26",
+    "phase": "REGULAR_SEASON",
+    "round": "ROUND_31",
+    "home_team_id": "virtus_bologna",
+    "home_team": "Virtus Bologna",
+    "away_team_id": "partizan",
+    "away_team": "Partizan",
+    "home_score": 82,
+    "away_score": 88,
+    "winner": "away",
+    "home_active_codes": [
+      "007947",
+      "013028",
+      "011987",
+      "012687",
+      "011051",
+      "014005",
+      "014219",
+      "012585",
+      "014108",
+      "005422",
+      "013374",
+      "011816"
+    ],
+    "away_active_codes": [
+      "013369",
+      "014007",
+      "010581",
+      "008232",
+      "012720",
+      "006760",
+      "007736",
+      "009733",
+      "013667",
+      "001932"
+    ]
   }
 }

@@ -5,6 +5,28 @@
   "season": "2025_26",
   "games": [
     {
+      "game_id": "18393",
+      "home_away": "away",
+      "opponent": "Virtus Bologna",
+      "team_score": 88,
+      "opponent_score": 82,
+      "win": true,
+      "phase": "REGULAR_SEASON",
+      "round": "ROUND_31",
+      "active_codes": [
+        "013369",
+        "014007",
+        "010581",
+        "008232",
+        "012720",
+        "006760",
+        "007736",
+        "009733",
+        "013667",
+        "001932"
+      ]
+    },
+    {
       "game_id": "18416",
       "home_away": "away",
       "opponent": "Fenerbahce",

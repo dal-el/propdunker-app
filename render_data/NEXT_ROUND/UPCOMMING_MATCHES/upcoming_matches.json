@@ -1,25 +1,14 @@
 [
   {
-    "label": "Paris Basketball vs Olympiacos",
-    "round": 34,
-    "date": "2026-03-10",
+    "label": "AS Monaco vs Olympiacos",
+    "round": 31,
+    "date": "2026-03-12",
     "time_cet": "21:00",
     "codes": [
-      "PBB",
+      "ASM",
       "OLY"
     ],
-    "value": "2026-03-10_round34_pbb_oly"
-  },
-  {
-    "label": "Virtus Bologna vs Partizan",
-    "round": 31,
-    "date": "2026-03-11",
-    "time_cet": "21:00",
-    "codes": [
-      "VIR",
-      "PAR"
-    ],
-    "value": "2026-03-11_round31_vir_par"
+    "value": "2026-03-12_round31_asm_oly"
   },
   {
     "label": "Dubai Basketball vs Baskonia",
@@ -53,6 +42,17 @@
       "ZAL"
     ],
     "value": "2026-03-12_round31_pao_zal"
+  },
+  {
+    "label": "Paris Basketball vs LDLC ASVEL Villeurbanne",
+    "round": 31,
+    "date": "2026-03-12",
+    "time_cet": "21:00",
+    "codes": [
+      "PBB",
+      "ASV"
+    ],
+    "value": "2026-03-12_round31_pbb_asv"
   },
   {
     "label": "Real Madrid vs Valencia Basket",

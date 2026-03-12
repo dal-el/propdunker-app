@@ -5,6 +5,30 @@
   "season": "2025_26",
   "games": [
     {
+      "game_id": "18363",
+      "home_away": "home",
+      "opponent": "Olympiacos",
+      "team_score": 87,
+      "opponent_score": 104,
+      "win": false,
+      "phase": "REGULAR_SEASON",
+      "round": "ROUND_31",
+      "active_codes": [
+        "012640",
+        "013373",
+        "014008",
+        "012611",
+        "014178",
+        "014009",
+        "014010",
+        "012403",
+        "010431",
+        "004197",
+        "011949",
+        "009664"
+      ]
+    },
+    {
       "game_id": "18397",
       "home_away": "away",
       "opponent": "Baskonia",
