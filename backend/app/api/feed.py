@@ -1,4 +1,3 @@
-# app/api/feed.py
 from __future__ import annotations
 
 import json
@@ -10,29 +9,24 @@ from fastapi import APIRouter, Query, Response
 from app.services.evaluator import evaluate_player_prop
 from app.services.json_loader import DataStore
 from app.utils.canonical import canonical_from_legacy_match_id, canonical_match_key
-from app.services.player_positions import resolve_player_position, resolve_player_positions
+from app.services.player_positions import resolve_player_positions
 from app.api.player import player_history
 
-# FastAPI router
 router = APIRouter()
 
 
-# Deterministic mapping from UI/legacy sheet keys to backend evaluator keys (history final fields).
-# This is REQUIRED so that OREB/DREB/FG Made hit-rates are computed correctly in feed rows.
 SHEET_KEY_ALIASES: dict[str, str] = {
-    # Rebounds
     "OFFENSIVE REBOUNDS": "OR",
     "OREB": "OR",
     "DEFENSIVE REBOUNDS": "DR",
     "DREB": "DR",
-    # Field goals
     "FGM": "SH_M",
     "FG MADE": "SH_M",
     "FIELD GOALS SCORED / FG MADE": "SH_M",
-    # Attempts
     "FGA": "SH_AT",
     "SH_AT": "SH_AT",
 }
+
 
 def normalize_sheet_key(k: str | None) -> str | None:
     if k is None:
@@ -58,7 +52,6 @@ def _sanitize_rows(rows):
 
 @lru_cache(maxsize=1)
 def _load_teams_meta() -> list[dict]:
-    """Load METADATA/teams.json from PROPDUNKER data root."""
     ds = DataStore.get()
     fp = os.path.join(ds.data_dir, "METADATA", "teams.json")
     try:
@@ -79,7 +72,6 @@ def _norm(s: str) -> str:
 
 @lru_cache(maxsize=8192)
 def resolve_team_id(team_name: str | None) -> str | None:
-    """Best-effort resolve team display name -> team_id (substring + token match)."""
     if not team_name:
         return None
     key = _norm(team_name)
@@ -107,11 +99,9 @@ def resolve_team_id(team_name: str | None) -> str | None:
                 if isinstance(a, str) and a.strip():
                     cand.append(_norm(a))
 
-        # exact
         if key in cand:
             return tid
 
-        # substring
         for c in cand:
             if not c:
                 continue
@@ -121,7 +111,6 @@ def resolve_team_id(team_name: str | None) -> str | None:
                     best_score = score
                     best_id = tid
 
-        # token overlap (handles "BASKONIA VITORIA" vs "BASKONIA")
         key_toks = set(key.split())
         for c in cand:
             toks = set(c.split())
@@ -140,7 +129,6 @@ def resolve_team_id(team_name: str | None) -> str | None:
 def _logo_path(team_id: str | None) -> str | None:
     if not team_id:
         return None
-    # relative path; frontend prefixes with API_BASE via safeLogoUrl()
     return f"/api/logo/{team_id}.png"
 
 
@@ -148,6 +136,7 @@ def _logo_path(team_id: str | None) -> str | None:
 def resolve_team(team_name: str | None) -> dict | None:
     if not team_name:
         return None
+
     key = _norm(team_name)
     if not key:
         return None
@@ -155,11 +144,13 @@ def resolve_team(team_name: str | None) -> dict | None:
     for t in _load_teams_meta():
         if not isinstance(t, dict):
             continue
+
         cand = set()
         for k in ("team_id", "name", "short_name", "abbrev", "slug"):
             v = t.get(k)
             if isinstance(v, str) and v.strip():
                 cand.add(_norm(v))
+
         aliases = t.get("aliases")
         if isinstance(aliases, list):
             for a in aliases:
@@ -175,6 +166,43 @@ def resolve_team(team_name: str | None) -> dict | None:
                 "abbrev": t.get("abbrev"),
                 "logo": logo_url,
             }
+
+    return None
+
+
+def _teams_from_canon_match(canon_match: str | None) -> list[str]:
+    if not canon_match:
+        return []
+
+    parts = str(canon_match).split("|")
+    if len(parts) != 3:
+        return []
+
+    out: list[str] = []
+    if parts[1]:
+        out.append(parts[1])
+    if parts[2]:
+        out.append(parts[2])
+    return out
+
+
+def resolve_row_team(
+    team_hint: str | None,
+    player_team: str | None,
+    canon_match: str | None,
+) -> dict | None:
+    team_obj = resolve_team(team_hint)
+    if team_obj:
+        return team_obj
+
+    team_obj = resolve_team(player_team)
+    if team_obj:
+        return team_obj
+
+    for t in _teams_from_canon_match(canon_match):
+        team_obj = resolve_team(t)
+        if team_obj:
+            return team_obj
 
     return None
 
@@ -196,26 +224,21 @@ def _norm_book(s: str) -> str:
     return "".join(ch for ch in s if ch.isalnum())
 
 
-def parse_minutes(time_value: any) -> float | None:
-    """Parse minutes from TIME field (HH:MM:SS) or other formats."""
+def parse_minutes(time_value) -> float | None:
     if time_value is None:
         return None
-    
-    # If already number
+
     if isinstance(time_value, (int, float)):
-        if not isinstance(time_value, (int, float)) or not (isinstance(time_value, (int, float)) and time_value == time_value):  # NaN check
+        if time_value != time_value:
             return None
-        # If > 300, probably seconds
         if time_value > 300:
             return time_value / 60
         return float(time_value)
-    
-    # String parsing
+
     s = str(time_value).strip()
     if not s:
         return None
-    
-    # Format HH:MM:SS
+
     if ":" in s:
         parts = s.split(":")
         try:
@@ -224,31 +247,28 @@ def parse_minutes(time_value: any) -> float | None:
                 minutes = int(parts[1])
                 seconds = int(parts[2])
                 return hours * 60 + minutes + seconds / 60
-            elif len(parts) == 2:
+            if len(parts) == 2:
                 minutes = int(parts[0])
                 seconds = int(parts[1])
                 return minutes + seconds / 60
         except (ValueError, IndexError):
             pass
-    
-    # Try as plain number
+
     try:
         num = float(s)
-        if num > 300:  # Probably seconds
+        if num > 300:
             return num / 60
         return num
     except ValueError:
         return None
 
 
-# ========== ΣΥΝΑΡΤΗΣΗ ΓΙΑ JERSEY ==========
 def get_player_jersey(player_id: str) -> str | None:
-    """Παίρνει το νούμερο από το player history API."""
     try:
         result = player_history(player_id, last_n=1)
         if isinstance(result, dict):
             games = result.get("recent_games", [])
-            if games and len(games) > 0:
+            if games:
                 final = games[0].get("final", {})
                 jersey = final.get("#")
                 if jersey is not None:
@@ -256,7 +276,6 @@ def get_player_jersey(player_id: str) -> str | None:
     except Exception as e:
         print(f"Error getting jersey for {player_id}: {e}")
     return None
-# ==========================================
 
 
 @router.get("/feed")
@@ -266,20 +285,10 @@ def feed(
     match: str = Query("upcoming", description="'upcoming' | 'all' | <canonical_match>"),
     scope: str = Query("ALL", description="'MAIN' | 'ALT' | 'ALL'"),
     limit: int = Query(10000, ge=1, le=10000),
-    player_id: str | None = Query(None, description="Filter by player ID"),  # ✅ ΝΕΑ ΠΑΡΑΜΕΤΡΟΣ
+    player_id: str | None = Query(None, description="Filter by player ID"),
 ):
-    """Return a UI-friendly bet-lines feed.
-
-    Key behaviors:
-    - Canonical match identity: filtering is done ONLY with canonical_match.
-    - If a specific bookmaker is requested but has no data / no json outputs, return [] (UI shows NO PROPS).
-    - No silent fallback to "all bookmakers" when bookmaker is unknown or empty.
-    - If player_id is provided, return only rows for that player.
-    """
-
     ds = DataStore.get()
 
-    # --- match selection (canonical) ---
     requested_match_raw = (match or "").strip()
     requested_match_lc = requested_match_raw.lower()
 
@@ -294,7 +303,6 @@ def feed(
     applied_match = requested_match_lc
     applied_canonical = requested_canonical
 
-    # --- bookmaker selection (STRICT) ---
     available = sorted(ds.bookmaker_outputs.keys())
 
     want_book = None
@@ -304,10 +312,11 @@ def feed(
     def resolve_bookmaker_key(want: str) -> str | None:
         if not want:
             return None
+
         amap = {_norm_book(k): k for k in available}
         if want in amap:
             return amap[want]
-        # common aliases
+
         candidates = [
             want,
             {"OPAP": "PAMESTOIXIMA", "PAMESTOIXIMA": "OPAP"}.get(want, ""),
@@ -317,31 +326,30 @@ def feed(
         for cand in candidates:
             if cand and cand in amap:
                 return amap[cand]
+
         for nk, orig in amap.items():
             if not nk:
                 continue
             if want in nk or nk in want:
                 return orig
+
         return None
 
     resolved = resolve_bookmaker_key(want_book) if want_book else None
 
-    # If user asked for a bookmaker but it doesn't exist -> NO PROPS (empty feed)
     if want_book and not resolved:
         response.headers["X-Requested-Bookmaker"] = bookmaker or ""
         response.headers["X-Applied-Bookmaker"] = ""
         response.headers["X-Bookmaker-Found"] = "0"
         response.headers["X-Requested-Match"] = requested_match_raw or ""
-        response.headers["X-Applied-Match"] = (applied_canonical or applied_match_raw or "")
+        response.headers["X-Applied-Match"] = applied_canonical or applied_match_raw or ""
         return []
 
-    # ✅ ΑΝ ο χρήστης ζήτησε "all" bookmakers, χρησιμοποιούμε ΟΛΟΥΣ τους διαθέσιμους
     if bookmaker == "all" or bookmaker.lower() == "all":
         books = available
     else:
         books = [resolved] if resolved else available
 
-    # If user asked for a specific bookmaker but it exists and has no outputs -> NO PROPS
     if resolved:
         game_map = ds.bookmaker_outputs.get(resolved) or {}
         if not game_map:
@@ -350,15 +358,14 @@ def feed(
             response.headers["X-Bookmaker-Found"] = "1"
             response.headers["X-Bookmaker-Has-Data"] = "0"
             response.headers["X-Requested-Match"] = requested_match_raw or ""
-            response.headers["X-Applied-Match"] = (applied_canonical or applied_match_raw or "")
+            response.headers["X-Applied-Match"] = applied_canonical or applied_match_raw or ""
             return []
 
-    # headers for debugging / UI sync
     response.headers["X-Requested-Bookmaker"] = bookmaker or ""
     response.headers["X-Applied-Bookmaker"] = resolved or ""
     response.headers["X-Bookmaker-Found"] = "1" if (not want_book or resolved) else "0"
     response.headers["X-Requested-Match"] = requested_match_raw or ""
-    response.headers["X-Applied-Match"] = (applied_canonical or applied_match_raw or "")
+    response.headers["X-Applied-Match"] = applied_canonical or applied_match_raw or ""
 
     rows = []
     windows = [5, 10, 15, 20]
@@ -366,8 +373,10 @@ def feed(
 
     for book in books:
         game_map = ds.bookmaker_outputs.get(book, {})
+
         for game_key in sorted(game_map.keys()):
             fp = game_map[game_key]
+
             try:
                 with open(fp, "r", encoding="utf-8") as f:
                     payload = json.load(f)
@@ -381,10 +390,8 @@ def feed(
             start_raw = payload.get("start_time") or game.get("date") or payload.get("date")
             canon_match = canonical_match_key(str(start_raw or ""), str(home_raw or ""), str(away_raw or ""))
 
-            # MATCH FILTER (canonical only)
             if applied_match and applied_match not in ("all", "upcoming"):
                 if not applied_canonical:
-                    # if we couldn't convert, don't silently fall back to ALL; return empty (NO PROPS)
                     continue
                 if canon_match.lower() != applied_canonical:
                     continue
@@ -399,7 +406,6 @@ def feed(
                 if not current_player_id:
                     continue
 
-                # ✅ Φίλτρο player_id
                 if player_id and current_player_id != player_id:
                     continue
 
@@ -434,55 +440,52 @@ def feed(
                 games = []
                 for g in (over_eval.get("games_used", []) or [])[-20:]:
                     game_id = g.get("game_id")
-                    
-                    # Πάρε πληροφορίες από το master games.json
-                    master_info = ds.games_master.get(game_id) if hasattr(ds, 'games_master') else None
-                    
-                    # Πάρε όλους τους παίκτες που αγωνίστηκαν (και από τις δύο ομάδες)
+                    master_info = ds.games_master.get(game_id) if hasattr(ds, "games_master") else None
+
                     all_players = []
                     home_players = []
                     away_players = []
                     team_won = None
                     winner = None
-                    
+
                     if master_info:
                         home_players = master_info.get("home_active_codes", [])
                         away_players = master_info.get("away_active_codes", [])
                         all_players = home_players + away_players
-                        
-                        # Πάρε το αποτέλεσμα του αγώνα
+
                         winner = master_info.get("winner")
                         if winner and g.get("team"):
-                            team_won = (winner == "home" and g.get("home_away") == "home") or \
-                                       (winner == "away" and g.get("home_away") == "away")
+                            team_won = (
+                                (winner == "home" and g.get("home_away") == "home")
+                                or (winner == "away" and g.get("home_away") == "away")
+                            )
                     else:
-                        # Fallback σε team_games_index αν δεν υπάρχει master_info
-                        team_info = ds.team_games_index.get(game_id) if hasattr(ds, 'team_games_index') else None
+                        team_info = ds.team_games_index.get(game_id) if hasattr(ds, "team_games_index") else None
                         if team_info:
                             all_players = team_info.get("active_codes", [])
-                            # Δεν μπορούμε να ξέρουμε winner από team_info μόνο
-                    
-                    # Parse minutes από το TIME field
+
                     minutes = parse_minutes(g.get("final", {}).get("TIME"))
-                    
-                    games.append({
-                        "opp": g.get("opponent") or "?",
-                        "ha": (g.get("home_away") or "?").upper()[:1],
-                        "stat": float(g.get("stat") or 0),
-                        "minutes": minutes,
-                        "oppLogo": _logo_path(resolve_team_id(g.get("opponent"))),
-                        "game_id": game_id,
-                        "all_players": all_players,
-                        "home_players": home_players,
-                        "away_players": away_players,
-                        "team_won": team_won,
-                        "winner": winner,
-                        "home_score": master_info.get("home_score") if master_info else None,
-                        "away_score": master_info.get("away_score") if master_info else None,
-                        "home_team": master_info.get("home_team") if master_info else None,
-                        "away_team": master_info.get("away_team") if master_info else None,
-                        "round": g.get("round"),
-                    })
+
+                    games.append(
+                        {
+                            "opp": g.get("opponent") or "?",
+                            "ha": (g.get("home_away") or "?").upper()[:1],
+                            "stat": float(g.get("stat") or 0),
+                            "minutes": minutes,
+                            "oppLogo": _logo_path(resolve_team_id(g.get("opponent"))),
+                            "game_id": game_id,
+                            "all_players": all_players,
+                            "home_players": home_players,
+                            "away_players": away_players,
+                            "team_won": team_won,
+                            "winner": winner,
+                            "home_score": master_info.get("home_score") if master_info else None,
+                            "away_score": master_info.get("away_score") if master_info else None,
+                            "home_team": master_info.get("home_team") if master_info else None,
+                            "away_team": master_info.get("away_team") if master_info else None,
+                            "round": g.get("round"),
+                        }
+                    )
 
                 hit_over = {
                     "L5": _pct(over_eval.get("hit_rate", {}).get("5", {}).get("over")),
@@ -490,6 +493,7 @@ def feed(
                     "L15": _pct(over_eval.get("hit_rate", {}).get("15", {}).get("over")),
                     "L20": _pct(over_eval.get("hit_rate", {}).get("20", {}).get("over")),
                 }
+
                 val_over = {
                     "vL5": _valpct(over_eval.get("value", {}).get("5", {}).get("over")),
                     "vL10": _valpct(over_eval.get("value", {}).get("10", {}).get("over")),
@@ -498,11 +502,19 @@ def feed(
                 }
 
                 player_name = over_eval.get("player_name") or p.get("player_name") or current_player_id
-                team_hint = ((over_eval.get("games_used") or [{}])[0].get("team")) or (p.get("team") if isinstance(p, dict) else None)
-                pos_list = resolve_player_positions(current_player_id, team_hint, player_name)
+
+                games_used = over_eval.get("games_used") or []
+                first_game = games_used[0] if games_used else {}
+
+                team_hint = first_game.get("team") if isinstance(first_game, dict) else None
+                player_team = p.get("team") if isinstance(p, dict) else None
+
+                row_team = resolve_row_team(team_hint, player_team, canon_match)
+
+                pos_source = team_hint or player_team
+                pos_list = resolve_player_positions(current_player_id, pos_source, player_name)
                 pos = pos_list[0] if pos_list else None
-                
-                # ✅ ΠΑΙΡΝΟΥΜΕ ΤΟ ΝΟΥΜΕΡΟ ΑΠΟ ΤΟ PLAYER HISTORY
+
                 jersey_number = get_player_jersey(current_player_id)
 
                 rows.append(
@@ -516,8 +528,13 @@ def feed(
                             "position": pos,
                             "pos": pos,
                         },
-                        "team": resolve_team((over_eval.get("games_used") or [{}])[0].get("team")) or None,
-                        "prop": {"label": ui_name, "tier": tier, "sheet_key": normalize_sheet_key(p.get("sheet_key") or ui_name) or (p.get("sheet_key") or ui_name), "bet_type": bet_type_raw},
+                        "team": row_team,
+                        "prop": {
+                            "label": ui_name,
+                            "tier": tier,
+                            "sheet_key": normalize_sheet_key(p.get('sheet_key') or ui_name) or (p.get('sheet_key') or ui_name),
+                            "bet_type": bet_type_raw,
+                        },
                         "side": "OVER",
                         "line": float(line),
                         "odds": float(odds_over),
@@ -539,12 +556,14 @@ def feed(
                         "L15": _pct(over_eval.get("hit_rate", {}).get("15", {}).get("under")),
                         "L20": _pct(over_eval.get("hit_rate", {}).get("20", {}).get("under")),
                     }
+
                     val_under = {
                         "vL5": _valpct(over_eval.get("value", {}).get("5", {}).get("under")),
                         "vL10": _valpct(over_eval.get("value", {}).get("10", {}).get("under")),
                         "vL15": _valpct(over_eval.get("value", {}).get("15", {}).get("under")),
                         "vL20": _valpct(over_eval.get("value", {}).get("20", {}).get("under")),
                     }
+
                     rows.append(
                         {
                             "id": f"{book}-{game_key}-{current_player_id}-{sheet_key}-{line}-{odds_under}-UNDER",
@@ -556,8 +575,13 @@ def feed(
                                 "position": pos,
                                 "pos": pos,
                             },
-                            "team": resolve_team((over_eval.get("games_used") or [{}])[0].get("team")) or None,
-                            "prop": {"label": ui_name, "tier": tier, "sheet_key": normalize_sheet_key(p.get("sheet_key") or ui_name) or (p.get("sheet_key") or ui_name), "bet_type": bet_type_raw},
+                            "team": row_team,
+                            "prop": {
+                                "label": ui_name,
+                                "tier": tier,
+                                "sheet_key": normalize_sheet_key(p.get('sheet_key') or ui_name) or (p.get('sheet_key') or ui_name),
+                                "bet_type": bet_type_raw,
+                            },
                             "side": "UNDER",
                             "line": float(line),
                             "odds": float(odds_under),
