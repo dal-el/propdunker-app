@@ -167,15 +167,10 @@ def resolve_team(team_name: str | None) -> dict | None:
                     cand.add(_norm(a))
 
         if key in cand:
-            logo = t.get("logo")
-            logo_url = None
-            if isinstance(logo, str):
-                lp = logo.replace("\\", "/")
-                if "METADATA/assets/" in lp:
-                    rel = lp.split("METADATA/assets/", 1)[1]
-                    logo_url = "/assets/" + rel
+            team_id = t.get("team_id")
+            logo_url = f"/logos/euroleague/{team_id}.png" if team_id else None
             return {
-                "id": t.get("team_id"),
+                "id": team_id,
                 "name": t.get("name") or team_name,
                 "abbrev": t.get("abbrev"),
                 "logo": logo_url,

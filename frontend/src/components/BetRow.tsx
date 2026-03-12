@@ -787,30 +787,15 @@ const BetRowComponent = React.forwardRef<
 ) {
   if (!row) return null;
 
-  // ----- Logo resolution with fallback -----
-  const logoSrcRaw =
-    (row as any)?.team?.logo ||
-    (row as any)?.teamLogo ||
-    (row as any)?.logo ||
-    ((row as any)?.player)?.teamLogo ||
-    ((row as any)?.player)?.logo ||
-    (row as any)?.player?.team ||
-    (row as any)?.team?.name ||
-    (row as any)?.team;
-
-  let logoSrc: string | undefined;
-
-  if (logoSrcRaw) {
-    const s = String(logoSrcRaw).trim();
-
-    if (!isWindowsPath(s)) {
-      if (isLikelyUrl(s) || s.startsWith("/")) {
-        logoSrc = safeLogoUrl(s);
-      } else {
-        logoSrc = resolveEuroleagueLogoUrl(s);
-      }
-    }
-  }
+  // ----- Logo resolution (simplified) -----
+  const logoSrc = safeLogoUrl(
+    row?.team?.logo ||
+    resolveEuroleagueLogoUrl(
+      row?.team?.id ||
+      row?.team?.abbrev ||
+      row?.team?.name
+    )
+  );
 
   // ----- Player position -----
   const playerPos = getPlayerPos(row);
