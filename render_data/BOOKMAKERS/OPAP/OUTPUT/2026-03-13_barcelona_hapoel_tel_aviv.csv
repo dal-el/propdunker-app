@@ -1,0 +1,366 @@
+bookmaker,pre_game_key,match_label,start_time,bb_ready,bet_type,book_category,sheet_key,ui_name,player_name,line,source_display,over_odds,under_odds,is_mapped
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,MAIN_PROPS,3P Made,3P_M,3P Made,Elijah Bryant,1.5,,2.3,1.55,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,MAIN_PROPS,3P Made,3P_M,3P Made,Kevin Punter,2.5,,2.25,1.57,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,MAIN_PROPS,3P Made,3P_M,3P Made,William Clyburn,1.5,,2.3,1.55,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,MAIN_PROPS,Points,POINTS,Points,Kevin Punter,18.5,,2.4,1.44,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,MAIN_PROPS,Points,POINTS,Points,Vasilije Micic,14.5,,2.4,1.44,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,MAIN_PROPS,Points,POINTS,Points,William Clyburn,13.5,,2.05,1.65,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,MAIN_PROPS,Points,POINTS,Points,Elijah Bryant,16.5,,2.15,1.61,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,MAIN_PROPS,Points,POINTS,Points,Daniel Oturu,14.5,,2.3,1.54,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,MAIN_PROPS,Points,POINTS,Points,Tornike Shengelia,16.5,,2.35,1.5,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,MAIN_PROPS,Rebounds,TR,Rebounds,Daniel Oturu,6.5,,2.1,1.65,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,MAIN_PROPS,Rebounds,TR,Rebounds,Elijah Bryant,5.5,,2.05,1.65,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,MAIN_PROPS,Rebounds,TR,Rebounds,Tornike Shengelia,5.5,,2.1,1.65,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,MAIN_PROPS,Rebounds,TR,Rebounds,Jan Vesely,3.5,,1.9,1.81,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,MAIN_PROPS,Points,POINTS,Points,Jan Vesely,9.5,,1.95,1.77,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,MAIN_PROPS,Assists,AS,Assists,Vasilije Micic,4.5,,2.12,1.62,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,MAIN_PROPS,Rebounds,TR,Rebounds,William Clyburn,4.5,,2.12,1.65,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Assists,AS,Assists,Vasilije Micic,6.5,7+,4.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Assists,AS,Assists,Vasilije Micic,2.5,3+,1.12,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Assists,AS,Assists,Vasilije Micic,4.5,5+,2.05,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,3P Made,3P_M,3P Made,William Clyburn,0.5,1+,1.28,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,3P Made,3P_M,3P Made,William Clyburn,2.5,3+,2.95,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,3P Made,3P_M,3P Made,William Clyburn,1.5,2+,2.18,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Elijah Bryant,24.5,25+,8.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Elijah Bryant,11.5,12+,1.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Elijah Bryant,17.5,18+,2.35,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Elijah Bryant,19.5,20+,3.1,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Elijah Bryant,14.5,15+,1.67,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Tornike Shengelia,19.5,20+,4.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Tornike Shengelia,11.5,12+,1.34,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Tornike Shengelia,14.5,15+,1.75,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Tornike Shengelia,17.5,18+,2.8,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Tornike Shengelia,9.5,10+,1.15,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,3P Made,3P_M,3P Made,Vasilije Micic,3.5,4+,4.15,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,3P Made,3P_M,3P Made,Vasilije Micic,2.5,3+,2.35,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,3P Made,3P_M,3P Made,Vasilije Micic,1.5,2+,1.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Chris Jones,4.5,5+,1.2,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Chris Jones,11.5,12+,2.87,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Chris Jones,7.5,8+,1.72,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Chris Jones,9.5,10+,2.18,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,William Clyburn,14.5,15+,2.12,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,William Clyburn,9.5,10+,1.31,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,William Clyburn,11.5,12+,1.61,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,William Clyburn,17.5,18+,4.15,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,William Clyburn,19.5,20+,6.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Vasilije Micic,14.5,15+,2.18,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Vasilije Micic,9.5,10+,1.31,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Vasilije Micic,19.5,20+,5.75,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Vasilije Micic,11.5,12+,1.55,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Vasilije Micic,17.5,18+,4.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Antonio Blakeney,19.5,20+,6.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Antonio Blakeney,9.5,10+,1.34,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Antonio Blakeney,14.5,15+,2.35,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Antonio Blakeney,11.5,12+,1.67,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Antonio Blakeney,17.5,18+,4.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,3P Made,3P_M,3P Made,Antonio Blakeney,3.5,4+,5.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,3P Made,3P_M,3P Made,Antonio Blakeney,1.5,2+,1.75,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,3P Made,3P_M,3P Made,Antonio Blakeney,2.5,3+,2.87,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,3P Made,3P_M,3P Made,Elijah Bryant,1.5,2+,2.18,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,3P Made,3P_M,3P Made,Elijah Bryant,0.5,1+,1.27,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,3P Made,3P_M,3P Made,Elijah Bryant,2.5,3+,4.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Assists,AS,Assists,Kevin Punter,4.5,5+,5.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Assists,AS,Assists,Kevin Punter,2.5,3+,1.98,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Assists,AS,Assists,Elijah Bryant,4.5,5+,3.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Assists,AS,Assists,Elijah Bryant,2.5,3+,1.59,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,3P Made,3P_M,3P Made,Kevin Punter,1.5,2+,1.35,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,3P Made,3P_M,3P Made,Kevin Punter,2.5,3+,2.18,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,3P Made,3P_M,3P Made,Kevin Punter,3.5,4+,3.2,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Jan Vesely,7.5,8+,1.38,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Jan Vesely,9.5,10+,1.85,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Jan Vesely,14.5,15+,6.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Jan Vesely,11.5,12+,2.32,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Jan Vesely,4.5,5+,1.13,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Daniel Oturu,19.5,20+,5.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Daniel Oturu,14.5,15+,2.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Daniel Oturu,11.5,12+,1.54,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Daniel Oturu,9.5,10+,1.27,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Daniel Oturu,17.5,18+,3.8,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Kevin Punter,17.5,18+,2.1,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Kevin Punter,19.5,20+,2.8,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Kevin Punter,11.5,12+,1.21,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Kevin Punter,24.5,25+,3.9,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points,POINTS,Points,Kevin Punter,14.5,15+,1.55,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds,TR,Rebounds,Jan Vesely,6.5,7+,6.15,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds,TR,Rebounds,Jan Vesely,2.5,3+,1.3,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds,TR,Rebounds,Jan Vesely,4.5,5+,2.42,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds,TR,Rebounds,Elijah Bryant,6.5,7+,3.7,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds,TR,Rebounds,Elijah Bryant,2.5,3+,1.07,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds,TR,Rebounds,Elijah Bryant,4.5,5+,1.75,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,William Clyburn,17.5,18+,1.91,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,William Clyburn,13.5,14+,1.29,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,William Clyburn,21.5,22+,3.4,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,William Clyburn,19.5,20+,2.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,William Clyburn,15.5,16+,1.54,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Daniel Oturu,9.5,10+,1.01,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Daniel Oturu,24.5,25+,3.65,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Daniel Oturu,19.5,20+,1.83,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Daniel Oturu,14.5,15+,1.2,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Daniel Oturu,29.5,30+,8.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds,TR,Rebounds,Tornike Shengelia,4.5,5+,1.54,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds,TR,Rebounds,Tornike Shengelia,2.5,3+,1.07,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds,TR,Rebounds,Tornike Shengelia,6.5,7+,2.9,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds,TR,Rebounds,William Clyburn,2.5,3+,1.2,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds,TR,Rebounds,William Clyburn,6.5,7+,3.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds,TR,Rebounds,William Clyburn,4.5,5+,2.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Elijah Bryant,24.5,25+,2.9,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Elijah Bryant,19.5,20+,1.56,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Elijah Bryant,14.5,15+,1.12,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Elijah Bryant,29.5,30+,6.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Jan Vesely,13.5,14+,2.1,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Jan Vesely,9.5,10+,1.29,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Jan Vesely,17.5,18+,4.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Jan Vesely,15.5,16+,3.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Jan Vesely,11.5,12+,1.61,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds + Ass,PRA,Points + Rebounds + Ass,Elijah Bryant,29.5,30+,3.65,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds + Ass,PRA,Points + Rebounds + Ass,Elijah Bryant,19.5,20+,1.26,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds + Ass,PRA,Points + Rebounds + Ass,Elijah Bryant,34.5,35+,8.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds + Ass,PRA,Points + Rebounds + Ass,Elijah Bryant,24.5,25+,1.91,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds + Ass,PRA,Points + Rebounds + Ass,Elijah Bryant,14.5,15+,1.04,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Tornike Shengelia,24.5,25+,3.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Tornike Shengelia,29.5,30+,7.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Tornike Shengelia,14.5,15+,1.14,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Tornike Shengelia,9.5,10+,1.01,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Rebounds,PR,Points + Rebounds,Tornike Shengelia,19.5,20+,1.71,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds,TR,Rebounds,Daniel Oturu,11.5,12+,18.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds,TR,Rebounds,Daniel Oturu,4.5,5+,1.31,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds,TR,Rebounds,Daniel Oturu,6.5,7+,2.22,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds,TR,Rebounds,Daniel Oturu,9.5,10+,6.75,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Assists,PA,Points + Assists,Elijah Bryant,17.5,18+,1.56,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Assists,PA,Points + Assists,Elijah Bryant,19.5,20+,2.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Assists,PA,Points + Assists,Elijah Bryant,23.5,24+,3.65,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Assists,PA,Points + Assists,Elijah Bryant,21.5,22+,2.6,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Assists,PA,Points + Assists,Elijah Bryant,15.5,16+,1.33,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Assists,PA,Points + Assists,Vasilije Micic,15.5,16+,1.54,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Assists,PA,Points + Assists,Vasilije Micic,21.5,22+,3.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Assists,PA,Points + Assists,Vasilije Micic,19.5,20+,2.45,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Assists,PA,Points + Assists,Vasilije Micic,13.5,14+,1.29,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Assists,PA,Points + Assists,Vasilije Micic,17.5,18+,1.91,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds + Assists,RA,Rebounds + Assists,Elijah Bryant,5.5,6+,1.14,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds + Assists,RA,Rebounds + Assists,Elijah Bryant,7.5,8+,1.54,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds + Assists,RA,Rebounds + Assists,Elijah Bryant,11.5,12+,4.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Rebounds + Assists,RA,Rebounds + Assists,Elijah Bryant,9.5,10+,2.45,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Assists,PA,Points + Assists,Kevin Punter,24.5,25+,3.65,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Assists,PA,Points + Assists,Kevin Punter,14.5,15+,1.23,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Assists,PA,Points + Assists,Kevin Punter,9.5,10+,1.03,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Assists,PA,Points + Assists,Kevin Punter,19.5,20+,1.91,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,YES,ALT_PROPS,Points + Assists,PA,Points + Assists,Kevin Punter,29.5,30+,8.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Kevin Punter,18.5,19+,2.18,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Kevin Punter,22.5,23+,3.2,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Kevin Punter,20.5,21+,2.6,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Kevin Punter,32.5,33+,11.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Kevin Punter,28.5,29+,6.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Kevin Punter,16.5,17+,1.9,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Kevin Punter,26.5,27+,4.85,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Kevin Punter,30.5,31+,8.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Points,POINTS,Points,Vasilije Micic,12.5,,1.83,1.83,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Elijah Bryant,5.5,6+,5.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Elijah Bryant,3.5,4+,2.15,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Elijah Bryant,1.5,2+,1.12,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Elijah Bryant,6.5,7+,9.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Assists,AS,Assists,Elijah Bryant,2.5,,1.71,2.02,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Rebounds,TR,Rebounds,Elijah Bryant,4.5,,1.85,1.85,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Daniel Oturu,5.5,6+,1.72,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Daniel Oturu,7.5,8+,3.7,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Daniel Oturu,8.5,9+,4.35,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Daniel Oturu,12.5,13+,33.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Daniel Oturu,10.5,11+,11.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,3P Made,3P_M,3P Made,Antonio Blakeney,1.5,,1.85,1.85,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,William Clyburn,4.5,5+,8.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,William Clyburn,3.5,4+,4.75,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,William Clyburn,5.5,6+,15.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,Tornike Shengelia,4.5,5+,38.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,Tornike Shengelia,2.5,3+,6.35,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,Tornike Shengelia,3.5,4+,15.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,Tornike Shengelia,1.5,2+,2.95,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,3P Made,3P_M,3P Made,Tornike Shengelia,0.5,,1.81,1.9,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,3P Made,3P_M,3P Made,Joel Parra,0.5,,2.42,1.5,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,Joel Parra,3.5,4+,29.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,Joel Parra,1.5,2+,4.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,Joel Parra,2.5,3+,10.75,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Kevin Punter,3.5,4+,5.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Kevin Punter,4.5,5+,11.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Kevin Punter,5.5,6+,27.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Kevin Punter,2.5,3+,2.65,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Points,POINTS,Points,Joel Parra,4.5,,1.83,1.87,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Assists,AS,Assists,Jan Vesely,1.5,,2.27,1.55,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Assists,AS,Assists,Tornike Shengelia,2.5,,2.32,1.52,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Kevin Punter,1.5,2+,1.29,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Kevin Punter,5.5,6+,10.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Kevin Punter,6.5,7+,21.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Kevin Punter,3.5,4+,2.9,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Assists,AS,Assists,Kevin Punter,2.5,,2.12,1.65,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Jan Vesely,9.5,10+,43.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Jan Vesely,5.5,6+,4.4,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Jan Vesely,3.5,4+,1.78,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Jan Vesely,8.5,9+,21.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Jan Vesely,7.5,8+,11.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Jan Vesely,2.5,3+,3.75,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Jan Vesely,1.5,2+,2.05,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Jan Vesely,3.5,4+,8.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Jan Vesely,4.5,5+,22.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,Antonio Blakeney,5.5,6+,29.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,Antonio Blakeney,4.5,5+,12.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Rebounds,TR,Rebounds,Tomas Satoransky,3.5,,1.81,1.9,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Rebounds,TR,Rebounds,Kevin Punter,1.5,,1.81,1.9,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,Kevin Punter,5.5,6+,10.75,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,Kevin Punter,4.5,5+,5.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,Kevin Punter,6.5,7+,21.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Tornike Shengelia,5.5,6+,8.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Tornike Shengelia,6.5,7+,16.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Tornike Shengelia,2.5,3+,2.15,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Tornike Shengelia,4.5,5+,5.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Tornike Shengelia,1.5,2+,1.4,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Tornike Shengelia,3.5,4+,3.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Tomas Satoransky,6.5,7+,5.75,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Tomas Satoransky,4.5,5+,2.3,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Tomas Satoransky,2.5,3+,1.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Tomas Satoransky,5.5,6+,3.45,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Tomas Satoransky,3.5,4+,1.7,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Tomas Satoransky,8.5,9+,18.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Tomas Satoransky,7.5,8+,9.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Tomas Satoransky,9.5,10+,35.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Points,POINTS,Points,Tornike Shengelia,14.5,,1.83,1.87,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Tomas Satoransky,6.5,7+,3.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Tomas Satoransky,5.5,6+,2.1,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Tomas Satoransky,8.5,9+,7.75,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Tomas Satoransky,7.5,8+,4.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Tomas Satoransky,3.5,4+,1.14,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Tomas Satoransky,4.5,5+,1.44,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Tomas Satoransky,9.5,10+,14.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tornike Shengelia,16.5,17+,2.15,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tornike Shengelia,24.5,25+,7.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tornike Shengelia,20.5,21+,3.7,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tornike Shengelia,28.5,29+,18.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tornike Shengelia,12.5,13+,1.35,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tornike Shengelia,30.5,31+,31.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tornike Shengelia,22.5,23+,5.15,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tornike Shengelia,26.5,27+,11.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tornike Shengelia,18.5,19+,3.35,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Antonio Blakeney,22.5,23+,10.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Antonio Blakeney,24.5,25+,17.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Antonio Blakeney,12.5,13+,1.85,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Antonio Blakeney,10.5,11+,1.38,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Antonio Blakeney,16.5,17+,3.2,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Antonio Blakeney,18.5,19+,4.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Antonio Blakeney,26.5,27+,30.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Antonio Blakeney,20.5,21+,6.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Jan Vesely,19.5,20+,9.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Jan Vesely,17.5,18+,6.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Jan Vesely,23.5,24+,24.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Jan Vesely,13.5,14+,3.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Jan Vesely,15.5,16+,4.15,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Jan Vesely,21.5,22+,14.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Jan Vesely,25.5,26+,43.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tomas Satoransky,9.5,10+,2.2,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tomas Satoransky,17.5,18+,9.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tomas Satoransky,5.5,6+,1.32,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tomas Satoransky,13.5,14+,3.95,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tomas Satoransky,19.5,20+,14.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tomas Satoransky,7.5,8+,1.72,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tomas Satoransky,21.5,22+,24.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tomas Satoransky,15.5,16+,6.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tomas Satoransky,11.5,12+,2.95,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Tomas Satoransky,23.5,24+,45.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Joel Parra,8.5,9+,3.05,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Joel Parra,18.5,19+,33.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Joel Parra,14.5,15+,10.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Joel Parra,10.5,11+,3.9,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Joel Parra,16.5,17+,17.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Joel Parra,12.5,13+,6.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Joel Parra,4.5,5+,1.72,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Joel Parra,6.5,7+,2.22,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Rebounds,TR,Rebounds,Antonio Blakeney,1.5,,1.95,1.77,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,Elijah Bryant,4.5,5+,16.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,Elijah Bryant,3.5,4+,7.35,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,Elijah Bryant,5.5,6+,38.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Elijah Bryant,27.5,28+,14.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Elijah Bryant,31.5,32+,40.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Elijah Bryant,25.5,26+,9.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Elijah Bryant,21.5,22+,4.15,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Elijah Bryant,23.5,24+,6.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Elijah Bryant,15.5,16+,1.91,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Elijah Bryant,13.5,14+,1.45,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Elijah Bryant,29.5,30+,23.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Elijah Bryant,8.5,9+,10.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Elijah Bryant,9.5,10+,20.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Elijah Bryant,5.5,6+,2.42,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Elijah Bryant,10.5,11+,40.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Elijah Bryant,3.5,4+,1.28,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Elijah Bryant,7.5,8+,6.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Antonio Blakeney,3.5,4+,4.15,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Antonio Blakeney,4.5,5+,7.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Antonio Blakeney,6.5,7+,33.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Antonio Blakeney,5.5,6+,15.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Antonio Blakeney,2.5,3+,2.57,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Rebounds,TR,Rebounds,Daniel Oturu,5.5,,1.81,1.9,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Rebounds,TR,Rebounds,Vasilije Micic,2.5,,2.25,1.57,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Points,POINTS,Points,Daniel Oturu,12.5,,1.91,1.8,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Points,POINTS,Points,Ishmail Wainright,3.5,,1.83,1.83,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,3P Made,3P_M,3P Made,Vasilije Micic,1.5,,1.58,2.22,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Vasilije Micic,2.5,3+,2.1,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Vasilije Micic,4.5,5+,4.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Vasilije Micic,7.5,8+,33.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Vasilije Micic,6.5,7+,16.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Vasilije Micic,5.5,6+,8.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,Vasilije Micic,3.5,4+,2.95,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,Vasilije Micic,4.5,5+,8.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,3P Made,3P_M,3P Made,Vasilije Micic,5.5,6+,17.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Vasilije Micic,26.5,27+,25.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Vasilije Micic,20.5,21+,6.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Vasilije Micic,12.5,13+,1.72,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Vasilije Micic,16.5,17+,2.95,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Vasilije Micic,24.5,25+,15.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Vasilije Micic,22.5,23+,9.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Vasilije Micic,10.5,11+,1.31,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Vasilije Micic,18.5,19+,4.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Ishmail Wainright,5.5,6+,2.12,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Ishmail Wainright,13.5,14+,10.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Ishmail Wainright,17.5,18+,33.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Ishmail Wainright,7.5,8+,2.9,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Ishmail Wainright,15.5,16+,18.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Ishmail Wainright,9.5,10+,4.35,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Ishmail Wainright,11.5,12+,6.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Vasilije Micic,7.5,8+,7.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Vasilije Micic,5.5,6+,3.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Vasilije Micic,3.5,4+,1.4,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Assists,AS,Assists,Vasilije Micic,8.5,9+,13.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Daniel Oturu,26.5,27+,28.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Daniel Oturu,10.5,11+,1.35,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Daniel Oturu,18.5,19+,4.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Daniel Oturu,16.5,17+,3.05,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Daniel Oturu,12.5,13+,1.78,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Daniel Oturu,24.5,25+,16.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Daniel Oturu,22.5,23+,10.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Daniel Oturu,20.5,21+,6.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Assists,AS,Assists,Tomas Satoransky,5.5,,2.15,1.62,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Points,POINTS,Points,Tomas Satoransky,7.5,,1.83,1.83,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,3P Made,3P_M,3P Made,Tomas Satoransky,0.5,,1.42,2.65,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Points,POINTS,Points,William Clyburn,12.5,,1.83,1.83,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,William Clyburn,16.5,17+,2.7,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,William Clyburn,20.5,21+,4.85,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,William Clyburn,12.5,13+,1.72,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,William Clyburn,24.5,25+,10.25,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,William Clyburn,28.5,29+,25.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,William Clyburn,22.5,23+,6.85,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,William Clyburn,26.5,27+,15.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,William Clyburn,18.5,19+,3.6,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,William Clyburn,10.5,11+,1.32,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Points,POINTS,Points,Kevin Punter,16.5,,1.98,1.73,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Points,POINTS,Points,Chris Jones,7.5,,1.83,1.83,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Chris Jones,23.5,24+,38.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Chris Jones,17.5,18+,8.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Chris Jones,21.5,22+,22.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Chris Jones,19.5,20+,13.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Chris Jones,5.5,6+,1.3,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Chris Jones,15.5,16+,5.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Points,POINTS,Points,Chris Jones,13.5,14+,3.8,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,William Clyburn,9.5,10+,12.5,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,William Clyburn,8.5,9+,7.85,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,William Clyburn,11.5,12+,35.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,William Clyburn,3.5,4+,1.42,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,William Clyburn,10.5,11+,20.0,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,William Clyburn,7.5,8+,5.15,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,ALT_PROPS,Rebounds,TR,Rebounds,William Clyburn,5.5,6+,2.52,,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Points,POINTS,Points,Antonio Blakeney,12.5,,1.98,1.73,True
+OPAP,2026-03-13_barcelona_hapoel_tel_aviv,Barcelona vs Hapoel Tel Aviv,2026-03-13T19:30:00Z,NO,MAIN_PROPS,Points,POINTS,Points,Elijah Bryant,15.5,,1.98,1.73,True

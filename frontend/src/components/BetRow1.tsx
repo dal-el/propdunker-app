@@ -11,7 +11,6 @@ import { pickIdForRow, usePicks } from "@/lib/picksStore";
 import { resolveTeamKey } from "@/lib/resolveTeamKey";
 import { TEAM_CANONICAL, TEAM_ALIASES, type TeamKey } from "@/lib/teamData";
 import { CARD_GLASS, PILL, PILL_ACTIVE } from "@/lib/uiTokens";
-import { resolveEuroleagueLogoUrl, isLikelyUrl, isWindowsPath } from "@/lib/teamLogos";
 
 const API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || "http://127.0.0.1:8000";
 
@@ -705,23 +704,6 @@ function OddsPill({ odds }: { odds: number }) {
   );
 }
 
-
-function isPamestoiximaBookmaker(row:any){
-  const raw = String(
-    row?.bookmakerFullName ||
-    row?.bookmakerName ||
-    row?.bookmaker ||
-    row?.book ||
-    row?.sportsbook ||
-    ""
-  ).trim().toLowerCase();
-  return raw === "pamestoixima" || raw === "pame stoixima";
-}
-
-function isBbReadyYes(row:any){
-  return String(row?.bb_ready ?? "").trim().toUpperCase() === "YES";
-}
-
 function TierBadge({ tier }: { tier: BetLine["prop"]["tier"] }) {
   return (
     <span
@@ -804,18 +786,14 @@ const BetRowComponent = React.forwardRef<
 ) {
   if (!row) return null;
 
-  // ----- Logo resolution (simplified) -----
-  const logoSrc = safeLogoUrl(
-    row?.team?.logo ||
-    resolveEuroleagueLogoUrl(
-      row?.team?.id ||
-      row?.team?.abbrev ||
-      row?.team?.name
-    )
-  );
+  const logoSrcRaw =
+    (row as any)?.team?.logo ||
+    (row as any)?.teamLogo ||
+    (row as any)?.logo ||
+    ((row as any)?.player)?.teamLogo ||
+    ((row as any)?.player)?.logo;
 
-  // ----- Player position -----
-  const playerPos = getPlayerPos(row);
+  const logoSrc = safeLogoUrl(logoSrcRaw);
 
   const propCategoryFull =
     ((row as any)?.prop)?.label ||
@@ -893,7 +871,7 @@ const BetRowComponent = React.forwardRef<
                     {row.player.name}
                   </span>
                   <span className={clsx(PILL, "px-2 py-[2px] text-[11px] text-white/85")}>
-                    {playerPos || "—"}
+                    {row.player.pos}
                   </span>
                 </div>
               </div>
@@ -973,14 +951,7 @@ const BetRowComponent = React.forwardRef<
                 {bookmakerFull ? (
                   <div className="text-[11px] leading-none text-white/60 whitespace-nowrap">{bookmakerFull}</div>
                 ) : null}
-                <div className="relative flex items-center justify-center">
-                  {isPamestoiximaBookmaker(row) && isBbReadyYes(row) ? (
-                    <span className="absolute -top-3 left-1/2 -translate-x-1/2 text-[10px] leading-none font-bold text-sky-400 pointer-events-none">
-                      BB
-                    </span>
-                  ) : null}
-                  <TierBadge tier={row.prop.tier} />
-                </div>
+                <TierBadge tier={row.prop.tier} />
               </div>
             ) : (
               <div className="col-span-4" />
@@ -1002,16 +973,7 @@ const BetRowComponent = React.forwardRef<
 
           {bookmakerFull || row.prop?.tier ? (
             <div className="shrink-0 flex flex-col items-end justify-end">
-              {row.prop?.tier ? (
-                <div className="relative flex items-center justify-center">
-                  {isPamestoiximaBookmaker(row) && isBbReadyYes(row) ? (
-                    <span className="absolute -top-3 left-1/2 -translate-x-1/2 text-[10px] leading-none font-bold text-sky-400 pointer-events-none">
-                      BB
-                    </span>
-                  ) : null}
-                  <TierBadge tier={row.prop.tier} />
-                </div>
-              ) : null}
+              {row.prop?.tier ? <TierBadge tier={row.prop.tier} /> : null}
               {bookmakerFull ? (
                 <div className="mt-1 text-[11px] leading-none text-white/60 whitespace-nowrap">{bookmakerFull}</div>
               ) : null}

@@ -1,7 +1,8 @@
+
 import re
 import json
 from pathlib import Path
-from typing import Dict, Any, Optional, Tuple
+from typing import Dict, Any, Optional
 
 from utils import slug, iso_from_str, clean_category
 
@@ -10,15 +11,10 @@ _PLUS_RE = re.compile(r"^(?P<n>\d+)\+$")
 GROUPCODE_TO_CANON = {
     # main O/U
     "TOTAL_POINTS_OVER_UNDER_PLAYER": "Points",
-    "TOTAL_POINTS_OVER_UNDER_PLAYER_INC_OT": "Points",
     "TOTAL_REBOUNDS_OVER_UNDER_PLAYER": "Rebounds",
-    "TOTAL_REBOUNDS_OVER_UNDER_PLAYER_INC_OT": "Rebounds",
     "TOTAL_ASSISTS_OVER_UNDER_PLAYER": "Assists",
-    "TOTAL_ASSISTS_OVER_UNDER_PLAYER_INC_OT": "Assists",
     "TOTAL_STEALS_OVER_UNDER_PLAYER": "Steals",
-    "TOTAL_STEALS_OVER_UNDER_PLAYER_INC_OT": "Steals",
     "TOTAL_BLOCKS_OVER_UNDER_PLAYER": "Blocks",
-    "TOTAL_BLOCKS_OVER_UNDER_PLAYER_INC_OT": "Blocks",
 
     "PLAYER_TOTAL_POINTS_REBOUNDS_OVER/UNDER": "Points + Rebounds",
     "PLAYER_TOTAL_POINTS_ASSISTS_OVER/UNDER": "Points + Assists",
@@ -33,15 +29,10 @@ GROUPCODE_TO_CANON = {
 
     # alt plus
     "PLAYER_UNDEFINED_TOTAL_POINTS": "Points",
-    "PLAYER_UNDEFINED_TOTAL_POINTS_INC_OT": "Points",
     "PLAYER_UNDEFINED_TOTAL_REBOUNDS": "Rebounds",
-    "PLAYER_UNDEFINED_TOTAL_REBOUNDS_INC_OT": "Rebounds",
     "PLAYER_UNDEFINED_TOTAL_ASSISTS": "Assists",
-    "PLAYER_UNDEFINED_TOTAL_ASSISTS_INC_OT": "Assists",
     "PLAYER_UNDEFINED_TOTAL_STEALS": "Steals",
-    "PLAYER_UNDEFINED_TOTAL_STEALS_INC_OT": "Steals",
     "PLAYER_UNDEFINED_TOTAL_BLOCKS": "Blocks",
-    "PLAYER_UNDEFINED_TOTAL_BLOCKS_INC_OT": "Blocks",
     "PLAYER_UNDEFINED_TOTAL_BLOCKS_STEALS": "Steals + Blocks",
     "PLAYER_UNDEFINED_TOTAL_POINTS_REBOUNDS": "Points + Rebounds",
     "PLAYER_UNDEFINED_TOTAL_POINTS_ASSISTS": "Points + Assists",
@@ -61,7 +52,7 @@ def _load_categories_map() -> Dict[str, Any]:
     return data if isinstance(data, dict) else {}
 
 
-def _resolve_category(canon: str, cat_map: Dict[str, Any]) -> Tuple[str, str, bool]:
+def _resolve_category(canon: str, cat_map: Dict[str, Any]):
     canon = clean_category(canon)
     if canon in cat_map and isinstance(cat_map[canon], dict):
         rec = cat_map[canon]
@@ -84,8 +75,8 @@ def _player_from_market_name(name: str) -> str:
         return lines[0]
     for sep in (" to Achieve ", " Total "):
         if sep in s:
-            return s.split(sep, 1)[0].strip().rstrip("-").strip()
-    return s.rstrip("-").strip()
+            return s.split(sep, 1)[0].strip()
+    return s
 
 
 def _line_from_market(market: Dict[str, Any]) -> Optional[float]:
@@ -125,61 +116,7 @@ def _is_player_market(group_code: str) -> bool:
     return bool(group_code) and (("PLAYER" in group_code) or group_code.endswith("_PLAYER"))
 
 
-
-def _prop_identity_key(prop: Dict[str, Any]) -> tuple:
-    return (
-        str(prop.get("bet_type") or ""),
-        str(prop.get("sheet_key") or ""),
-        str(prop.get("ui_name") or ""),
-        str(prop.get("player_name") or "").strip().lower(),
-        str(prop.get("line")),
-        str(prop.get("source_display") or ""),
-        str(prop.get("over_pick") or ""),
-        str(prop.get("under_pick") or ""),
-    )
-
-
-def _dedupe_bb_ready_props(props: list[Dict[str, Any]]) -> list[Dict[str, Any]]:
-    """
-    If the same prop exists in both bb_ready YES and NO:
-    - keep one row only
-    - final bb_ready must be YES
-    - odds must come from the NO row
-    """
-    grouped: Dict[tuple, list[Dict[str, Any]]] = {}
-    ordered_keys: list[tuple] = []
-
-    for p in props:
-        k = _prop_identity_key(p)
-        if k not in grouped:
-            grouped[k] = []
-            ordered_keys.append(k)
-        grouped[k].append(p)
-
-    out_props: list[Dict[str, Any]] = []
-    for k in ordered_keys:
-        items = grouped[k]
-        yes_item = next((x for x in items if str(x.get("bb_ready") or "").upper() == "YES"), None)
-        no_item = next((x for x in items if str(x.get("bb_ready") or "").upper() == "NO"), None)
-
-        if yes_item is not None and no_item is not None:
-            merged = dict(yes_item)
-            merged["bb_ready"] = "YES"
-            merged["over_odds"] = no_item.get("over_odds")
-            merged["under_odds"] = no_item.get("under_odds")
-            out_props.append(merged)
-        else:
-            out_props.append(dict(items[0]))
-
-    return out_props
-
-
 def parse_opap_json(raw: Dict[str, Any]) -> Dict[str, Any]:
-
-    bb_ready_value = str(raw.get("__bb_ready") or "").strip().upper()
-    if bb_ready_value not in {"YES", "NO"}:
-        bb_ready_value = ""
-
     data = raw.get("data") or {}
     events = data.get("events") or []
     if not events:
@@ -190,28 +127,23 @@ def parse_opap_json(raw: Dict[str, Any]) -> Dict[str, Any]:
     home = next((t.get("name") for t in teams if t.get("side") == "HOME"), None) or "HOME"
     away = next((t.get("name") for t in teams if t.get("side") == "AWAY"), None) or "AWAY"
 
-    start_iso = iso_from_str(event.get("startTime") or "") or ""
-    date_key = start_iso[:10] if start_iso else "unknown_date"
-    home_id = slug(home)
-    away_id = slug(away)
-    pre_game_key = f"{date_key}_{home_id}_{away_id}"
+    start_iso = iso_from_str(event.get("startTime") or "")
+    date_key = (start_iso or "unknown_date")[:10]
+    pre_game_key = f"{date_key}_{slug(home)}_{slug(away)}"
 
     out: Dict[str, Any] = {
         "bookmaker": "OPAP",
         "pre_game_key": pre_game_key,
         "match_label": f"{home} vs {away}",
-        "start_time": start_iso or None,
+        "start_time": start_iso,
         "home_team": home,
         "away_team": away,
-        "home_team_id": home_id,
-        "away_team_id": away_id,
-        "game": {"home": home, "away": away, "date": start_iso or None},
+        "home_team_id": slug(home),
+        "away_team_id": slug(away),
         "props": [],
-        "unmapped_categories": [],
     }
 
     cat_map = _load_categories_map()
-    unmapped = set()
 
     for m in (event.get("markets") or []):
         gc = str(m.get("groupCode") or "")
@@ -220,15 +152,13 @@ def parse_opap_json(raw: Dict[str, Any]) -> Dict[str, Any]:
 
         canon = GROUPCODE_TO_CANON.get(gc)
         if not canon:
-            unmapped.add(gc)
             continue
 
         sheet_key, ui_name, is_mapped = _resolve_category(canon, cat_map)
-        if not is_mapped:
-            unmapped.add(canon)
-
         player_name = _player_from_market_name(str(m.get("name") or ""))
+        bb_ready = str(m.get("__bb_ready") or "NO").upper()
 
+        # ALT plus
         if _is_alt_plus_market(m):
             for o in (m.get("outcomes") or []):
                 oname = str(o.get("name") or "").strip()
@@ -236,84 +166,63 @@ def parse_opap_json(raw: Dict[str, Any]) -> Dict[str, Any]:
                 if not mm:
                     continue
                 n = int(mm.group("n"))
+                line = float(n) - 0.5
                 out["props"].append({
                     "bet_type": "ALT_PROPS",
                     "book_category": ui_name,
                     "sheet_key": sheet_key,
                     "ui_name": ui_name,
                     "player_name": player_name,
-                    "line": float(n) - 0.5,
+                    "line": line,
                     "source_display": oname,
                     "over_odds": _price_decimal(o),
                     "under_odds": None,
                     "is_mapped": is_mapped,
-                    "bb_ready": bb_ready_value,
+                    "bb_ready": bb_ready,
                 })
             continue
 
+        # DD/TD (YES only from OPAP)
         if gc in {"PLAYER_DOUBLE_DOUBLE", "PLAYER_TRIPLE_DOUBLE"}:
             outs = m.get("outcomes") or []
-            yes = next((o for o in outs if str(o.get("name") or "").strip().lower() == "yes"), None)
-            no = next((o for o in outs if str(o.get("name") or "").strip().lower() == "no"), None)
-            if yes or no:
-                out["props"].append({
-                    "bet_type": "MAIN_PROPS",
-                    "book_category": ui_name,
-                    "sheet_key": sheet_key,
-                    "ui_name": ui_name,
-                    "player_name": player_name,
-                    "line": 0.5,
-                    "source_display": "YES/NO",
-                    "over_odds": _price_decimal(yes) if yes else None,
-                    "under_odds": _price_decimal(no) if no else None,
-                    "over_pick": "YES",
-                    "under_pick": "NO",
-                    "is_mapped": is_mapped,
-                    "bb_ready": bb_ready_value,
-                })
+            yes_odds = _price_decimal(outs[0]) if outs else None
+            out["props"].append({
+                "bet_type": "MAIN_PROPS",
+                "book_category": ui_name,
+                "sheet_key": sheet_key,
+                "ui_name": ui_name,
+                "player_name": player_name,
+                "line": 0.5,
+                "source_display": "YES/NO",
+                "over_odds": yes_odds,
+                "under_odds": None,
+                "over_pick": "YES",
+                "under_pick": "NO",
+                "is_mapped": is_mapped,
+                "bb_ready": bb_ready,
+            })
             continue
 
+        # MAIN O/U
         outs = m.get("outcomes") or []
         over = next((o for o in outs if str(o.get("name") or "").strip().lower() == "over"), None)
         under = next((o for o in outs if str(o.get("name") or "").strip().lower() == "under"), None)
         if not over or not under:
             continue
-
+        line = _line_from_market(m)
         out["props"].append({
             "bet_type": "MAIN_PROPS",
             "book_category": ui_name,
             "sheet_key": sheet_key,
             "ui_name": ui_name,
             "player_name": player_name,
-            "line": _line_from_market(m),
+            "line": line,
             "source_display": None,
             "over_odds": _price_decimal(over),
             "under_odds": _price_decimal(under),
             "is_mapped": is_mapped,
-            "bb_ready": bb_ready_value,
+            "bb_ready": bb_ready,
         })
-
-    # stable de-dup like Novibet flow
-    deduped = []
-    seen = set()
-    for p in out["props"]:
-        key = (
-            p.get("bet_type"),
-            p.get("sheet_key"),
-            p.get("player_name"),
-            p.get("line"),
-            p.get("source_display"),
-            p.get("over_odds"),
-            p.get("under_odds"),
-        )
-        if key in seen:
-            continue
-        seen.add(key)
-        deduped.append(p)
-    out["props"] = deduped
-    out["unmapped_categories"] = sorted(unmapped)
-
-    out["props"] = _dedupe_bb_ready_props(out["props"])
 
     if not out["props"]:
         raise ValueError("OPAP adapter produced 0 entries (check traversal/mappings)")

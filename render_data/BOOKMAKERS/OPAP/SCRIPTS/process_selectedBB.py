@@ -86,59 +86,8 @@ def _save_merge_cache(cache_dir: Path, gkey: str, raw: dict) -> None:
     p.write_text(json.dumps(raw, ensure_ascii=False, indent=2), encoding="utf-8")
 
 
-
-def _prop_identity_key(prop: dict) -> tuple:
-    return (
-        str(prop.get("bet_type") or ""),
-        str(prop.get("sheet_key") or ""),
-        str(prop.get("ui_name") or ""),
-        str(prop.get("player_name") or "").strip().lower(),
-        str(prop.get("line")),
-        str(prop.get("source_display") or ""),
-        str(prop.get("over_pick") or ""),
-        str(prop.get("under_pick") or ""),
-    )
-
-
-def _dedupe_bb_ready_props(props: list[dict]) -> list[dict]:
-    """
-    If the same prop exists in both bb_ready YES and NO:
-    - keep one row only
-    - final bb_ready must be YES
-    - odds must come from the NO row
-    """
-    grouped: dict[tuple, list[dict]] = {}
-    ordered_keys: list[tuple] = []
-
-    for p in props:
-        k = _prop_identity_key(p)
-        if k not in grouped:
-            grouped[k] = []
-            ordered_keys.append(k)
-        grouped[k].append(p)
-
-    out_props: list[dict] = []
-    for k in ordered_keys:
-        items = grouped[k]
-        yes_item = next((x for x in items if str(x.get("bb_ready") or "").upper() == "YES"), None)
-        no_item = next((x for x in items if str(x.get("bb_ready") or "").upper() == "NO"), None)
-
-        if yes_item is not None and no_item is not None:
-            merged = dict(yes_item)
-            merged["bb_ready"] = "YES"
-            merged["over_odds"] = no_item.get("over_odds")
-            merged["under_odds"] = no_item.get("under_odds")
-            out_props.append(merged)
-        else:
-            out_props.append(dict(items[0]))
-
-    return out_props
-
-
 def _write_outputs(normalized: dict, out_dir: Path) -> Path:
-
     ensure_dir(out_dir)
-    normalized["props"] = _dedupe_bb_ready_props(normalized.get("props", []))
 
     out_json = out_dir / f"{normalized['pre_game_key']}.json"
     out_json.write_text(json.dumps(normalized, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -238,42 +187,35 @@ def _stem_ends_with_1(path: Path) -> bool:
     return bool(re.search(r"1$", stem))
 
 
-def _bb_ready_from_paths(paths: list[Path]) -> str:
-    """YES if any merged source filename ends with 1 (e.g. PAO1.json), else NO."""
-    return "YES" if any(_stem_ends_with_1(p) for p in paths) else "NO"
+def _bb_ready_from_path(path: Path) -> str:
+    return "YES" if _stem_ends_with_1(path) else "NO"
 
 
+def _tag_raw_markets_with_bb_ready(raw: dict, bb_ready: str) -> dict:
+    """Tag each raw market with source-level bb_ready before merge so merged outputs preserve origin."""
+    tagged = dict(raw)
+    data = dict(tagged.get("data") or {})
+    events = list(data.get("events") or [])
+    if not events:
+        return tagged
 
-
-def _apply_bb_ready_to_props(normalized: dict, bb_ready_value: str) -> None:
-    bb_ready_value = str(bb_ready_value or "").strip().upper()
-    if bb_ready_value not in {"YES", "NO"}:
-        bb_ready_value = ""
-    for p in normalized.get("props", []):
-        p["bb_ready"] = bb_ready_value
-
-
-def _merge_normalized_records(records: list[dict]) -> dict:
-    if not records:
-        raise ValueError("No normalized records to merge")
-    base = dict(records[0])
-    merged_props = []
-    unmapped = set(base.get("unmapped_categories") or [])
-    for rec in records:
-        merged_props.extend(rec.get("props", []))
-        unmapped.update(rec.get("unmapped_categories") or [])
-    base["props"] = _dedupe_bb_ready_props(merged_props)
-    base["unmapped_categories"] = sorted(unmapped)
-    return base
+    event = dict(events[0])
+    markets = []
+    for m in (event.get("markets") or []):
+        mm = dict(m)
+        mm["__bb_ready"] = bb_ready
+        markets.append(mm)
+    event["markets"] = markets
+    events[0] = event
+    data["events"] = events
+    tagged["data"] = data
+    return tagged
 
 
 def process_one_file(inp: Path, out_dir: Path | None = None) -> Path:
     raw = json.loads(inp.read_text(encoding="utf-8"))
-    bb_ready_value = "YES" if _stem_ends_with_1(inp) else "NO"
-    raw["__bb_ready"] = bb_ready_value
+    raw = _tag_raw_markets_with_bb_ready(raw, _bb_ready_from_path(inp))
     normalized = parse_opap_json(raw)
-    normalized["bb_ready"] = bb_ready_value
-    _apply_bb_ready_to_props(normalized, bb_ready_value)
 
     try:
         pindex = _load_player_index(inp)
@@ -309,32 +251,21 @@ def process_files(filepaths) -> str:
 
     for gkey, paths in grouped.items():
         merged_raw = _load_merge_cache(cache_dir, gkey)
-        normalized_parts: list[dict] = []
 
         for inp in paths:
             raw = json.loads(inp.read_text(encoding="utf-8"))
-            bb_ready_value = "YES" if _stem_ends_with_1(inp) else "NO"
-
-            raw_for_parse = dict(raw)
-            raw_for_parse["__bb_ready"] = bb_ready_value
-            one_norm = parse_opap_json(raw_for_parse)
-            one_norm["bb_ready"] = bb_ready_value
-            _apply_bb_ready_to_props(one_norm, bb_ready_value)
-            normalized_parts.append(one_norm)
-
+            raw = _tag_raw_markets_with_bb_ready(raw, _bb_ready_from_path(inp))
             if merged_raw is None:
                 merged_raw = raw
             else:
                 merged_raw = _merge_raw(merged_raw, raw)
 
-        if merged_raw is not None:
-            _save_merge_cache(cache_dir, gkey, merged_raw)
-
-        if not normalized_parts:
+        if merged_raw is None:
             continue
 
-        normalized = _merge_normalized_records(normalized_parts)
-        normalized["bb_ready"] = "YES" if any(str(p.get("bb_ready") or "").upper() == "YES" for p in normalized.get("props", [])) else "NO"
+        _save_merge_cache(cache_dir, gkey, merged_raw)
+
+        normalized = parse_opap_json(merged_raw)
 
         try:
             pindex = _load_player_index(paths[0])

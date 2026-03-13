@@ -1,143 +1,515 @@
 bookmaker,pre_game_key,match_label,start_time,bet_type,book_category,sheet_key,ui_name,player_name,line,source_display,over_odds,under_odds
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Talen Horton-Tucker,16.5,,1.8,1.93
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Jordan Nwora,16.5,,1.85,1.88
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Talen Horton-Tucker,14.5,15+,1.4,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Talen Horton-Tucker,15.5,16+,1.55,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Talen Horton-Tucker,16.5,17+,1.72,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Talen Horton-Tucker,17.5,18+,1.95,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Talen Horton-Tucker,18.5,19+,2.25,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Talen Horton-Tucker,19.5,20+,2.6,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Talen Horton-Tucker,20.5,21+,3.05,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Talen Horton-Tucker,21.5,22+,3.6,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Talen Horton-Tucker,22.5,23+,4.3,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jordan Nwora,14.5,15+,1.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jordan Nwora,16.5,17+,1.87,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jordan Nwora,18.5,19+,2.45,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jordan Nwora,20.5,21+,3.35,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jordan Nwora,22.5,23+,4.7,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jordan Nwora,24.5,25+,6.7,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jordan Nwora,26.5,27+,9.25,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jordan Nwora,28.5,29+,12.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jordan Nwora,30.5,31+,15.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jared Butler,11.5,12+,1.47,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jared Butler,13.5,14+,1.87,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jared Butler,15.5,16+,2.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jared Butler,17.5,18+,3.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jared Butler,19.5,20+,5.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jared Butler,21.5,22+,7.3,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jared Butler,23.5,24+,10.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jared Butler,25.5,26+,13.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Jared Butler,27.5,28+,16.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Wade Baldwin,11.5,12+,1.52,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Wade Baldwin,13.5,14+,1.98,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Wade Baldwin,15.5,16+,2.72,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Wade Baldwin,17.5,18+,4.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Wade Baldwin,19.5,20+,5.9,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Wade Baldwin,21.5,22+,8.75,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Wade Baldwin,23.5,24+,12.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Wade Baldwin,25.5,26+,15.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Wade Baldwin,27.5,28+,17.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Chima Moneke,10.5,11+,1.44,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Chima Moneke,12.5,13+,1.85,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Chima Moneke,14.5,15+,2.6,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Chima Moneke,16.5,17+,3.85,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Chima Moneke,18.5,19+,5.8,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Chima Moneke,20.5,21+,8.75,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Chima Moneke,22.5,23+,12.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Chima Moneke,24.5,25+,15.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Chima Moneke,26.5,27+,18.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Tarik Biberovic,10.5,11+,1.45,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Tarik Biberovic,11.5,12+,1.62,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Tarik Biberovic,12.5,13+,1.83,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Tarik Biberovic,13.5,14+,2.12,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Tarik Biberovic,14.5,15+,2.47,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Tarik Biberovic,15.5,16+,2.92,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Tarik Biberovic,16.5,17+,3.45,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Tarik Biberovic,17.5,18+,4.15,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Tarik Biberovic,18.5,19+,5.1,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Codi Miller-McIntyre,8.5,9+,1.4,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Codi Miller-McIntyre,10.5,11+,1.8,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Codi Miller-McIntyre,12.5,13+,2.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Codi Miller-McIntyre,14.5,15+,3.6,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Codi Miller-McIntyre,16.5,17+,5.4,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Codi Miller-McIntyre,18.5,19+,8.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Codi Miller-McIntyre,20.5,21+,11.25,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Codi Miller-McIntyre,22.5,23+,15.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Codi Miller-McIntyre,24.5,25+,17.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nando de Colo,7.5,8+,1.52,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nando de Colo,8.5,9+,1.75,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nando de Colo,9.5,10+,2.07,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nando de Colo,10.5,11+,2.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nando de Colo,11.5,12+,3.05,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nando de Colo,12.5,13+,3.75,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nando de Colo,13.5,14+,4.7,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nando de Colo,14.5,15+,5.8,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Bonzie Colson,5.5,6+,1.47,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Bonzie Colson,6.5,7+,1.67,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Bonzie Colson,7.5,8+,1.98,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Bonzie Colson,8.5,9+,2.42,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Bonzie Colson,9.5,10+,2.95,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Bonzie Colson,10.5,11+,3.65,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Bonzie Colson,11.5,12+,4.55,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Bonzie Colson,12.5,13+,5.8,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mikael Jantunen,4.5,5+,1.42,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mikael Jantunen,5.5,6+,1.7,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mikael Jantunen,6.5,7+,2.05,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mikael Jantunen,7.5,8+,2.47,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mikael Jantunen,8.5,9+,3.15,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Mikael Jantunen,9.5,10+,4.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Semi Ojeleye,4.5,5+,1.55,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Semi Ojeleye,5.5,6+,1.85,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Semi Ojeleye,6.5,7+,2.37,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Semi Ojeleye,7.5,8+,3.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Semi Ojeleye,8.5,9+,3.95,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Semi Ojeleye,9.5,10+,5.2,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Kalinic,4.5,5+,1.62,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Kalinic,5.5,6+,2.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Kalinic,6.5,7+,2.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Kalinic,7.5,8+,3.1,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Kalinic,8.5,9+,4.05,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Nikola Kalinic,9.5,10+,5.3,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Ebuka Izundu,4.5,5+,1.67,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Ebuka Izundu,5.5,6+,1.88,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Ebuka Izundu,6.5,7+,2.67,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Ebuka Izundu,7.5,8+,3.2,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Ebuka Izundu,8.5,9+,4.6,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Ebuka Izundu,9.5,10+,5.7,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Khem Birch,2.5,3+,1.47,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Khem Birch,3.5,4+,1.6,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Khem Birch,4.5,5+,2.35,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Khem Birch,5.5,6+,2.8,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Khem Birch,6.5,7+,4.4,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points,POINTS,Points,Khem Birch,7.5,8+,5.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Talen Horton-Tucker,17.5,,1.95,1.78
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Jordan Nwora,16.5,,1.87,1.87
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Jared Butler,13.5,,1.87,1.87
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Wade Baldwin,13.5,,2.0,1.75
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Wade Baldwin,13.5,,1.98,1.78
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Tarik Biberovic,12.5,,1.83,1.91
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Chima Moneke,12.5,,1.87,1.87
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Codi Miller-McIntyre,10.5,,1.82,1.93
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Nando de Colo,8.5,,1.75,2.0
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Bonzie Colson,6.5,,1.75,2.02
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Semi Ojeleye,5.5,,1.85,1.9
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Ebuka Izundu,5.5,,1.88,1.85
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Mikael Jantunen,5.5,,1.95,1.78
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Chima Moneke,12.5,,1.85,1.88
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Codi Miller-McIntyre,10.5,,1.8,1.95
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Nando de Colo,8.5,,1.78,1.98
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Bonzie Colson,7.5,,1.98,1.78
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Mikael Jantunen,6.5,,2.05,1.72
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Semi Ojeleye,5.5,,1.85,1.88
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Ebuka Izundu,5.5,,1.88,1.87
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Nikola Kalinic,5.5,,2.0,1.75
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points O/U,POINTS,Points,Khem Birch,3.5,,1.6,2.25
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Codi Miller-McIntyre,6.5,,1.87,1.87
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Wade Baldwin,6.5,,2.2,1.62
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Jared Butler,3.5,,1.67,2.12
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Nando de Colo,2.5,,1.57,2.32
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Talen Horton-Tucker,1.5,,1.5,2.47
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Codi Miller-McIntyre,5.5,6+,1.38,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Codi Miller-McIntyre,6.5,7+,1.78,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Codi Miller-McIntyre,7.5,8+,2.47,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Codi Miller-McIntyre,8.5,9+,3.65,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Codi Miller-McIntyre,9.5,10+,5.6,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Codi Miller-McIntyre,10.5,11+,8.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Codi Miller-McIntyre,11.5,12+,12.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Codi Miller-McIntyre,12.5,13+,15.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Wade Baldwin,4.5,5+,1.27,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Wade Baldwin,5.5,6+,1.6,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Wade Baldwin,6.5,7+,2.22,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Wade Baldwin,7.5,8+,3.3,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Wade Baldwin,8.5,9+,5.1,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Wade Baldwin,9.5,10+,8.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jared Butler,2.5,3+,1.2,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jared Butler,3.5,4+,1.57,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jared Butler,4.5,5+,2.3,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jared Butler,5.5,6+,3.7,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jared Butler,6.5,7+,6.2,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jared Butler,7.5,8+,10.25,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Nando de Colo,1.5,2+,1.15,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Nando de Colo,2.5,3+,1.53,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Nando de Colo,3.5,4+,2.35,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Nando de Colo,4.5,5+,4.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Talen Horton-Tucker,0.5,1+,1.07,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Talen Horton-Tucker,1.5,2+,1.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Talen Horton-Tucker,2.5,3+,2.52,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Talen Horton-Tucker,3.5,4+,5.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Chima Moneke,0.5,1+,1.11,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Chima Moneke,1.5,2+,1.62,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Chima Moneke,2.5,3+,2.95,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Chima Moneke,3.5,4+,6.1,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jordan Nwora,0.5,1+,1.25,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jordan Nwora,1.5,2+,2.22,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jordan Nwora,2.5,3+,4.8,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Jordan Nwora,3.5,4+,10.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Tarik Biberovic,0.5,1+,1.31,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Tarik Biberovic,1.5,2+,2.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Tarik Biberovic,2.5,3+,5.7,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Assists,AS,Assists,Tarik Biberovic,3.5,4+,11.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Codi Miller-McIntyre,6.5,,1.8,1.95
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Wade Baldwin,5.5,,1.62,2.2
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Jared Butler,3.5,,1.57,2.3
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Nando de Colo,2.5,,1.55,2.35
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Talen Horton-Tucker,1.5,,1.52,2.42
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Chima Moneke,1.5,,1.65,2.15
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Jordan Nwora,1.5,,2.22,1.62
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Assists O/U,AS,Assists,Tarik Biberovic,1.5,,2.5,1.5
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Chima Moneke,5.5,,1.67,2.12
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Khem Birch,4.5,,1.65,2.15
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Jordan Nwora,3.5,,1.67,2.1
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Chima Moneke,4.5,5+,1.3,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Chima Moneke,5.5,6+,1.67,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Chima Moneke,6.5,7+,2.3,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Chima Moneke,7.5,8+,3.35,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Chima Moneke,8.5,9+,5.2,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Chima Moneke,9.5,10+,8.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Khem Birch,3.5,4+,1.26,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Khem Birch,4.5,5+,1.6,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Khem Birch,5.5,6+,2.25,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Khem Birch,6.5,7+,3.45,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Khem Birch,7.5,8+,5.4,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Khem Birch,8.5,9+,8.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Wade Baldwin,2.5,3+,1.23,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Wade Baldwin,3.5,4+,1.65,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Wade Baldwin,4.5,5+,2.42,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Wade Baldwin,5.5,6+,3.9,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Wade Baldwin,6.5,7+,6.6,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Wade Baldwin,7.5,8+,10.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jordan Nwora,2.5,3+,1.24,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jordan Nwora,3.5,4+,1.65,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jordan Nwora,4.5,5+,2.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jordan Nwora,5.5,6+,4.1,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jordan Nwora,6.5,7+,6.9,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jordan Nwora,7.5,8+,11.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Codi Miller-McIntyre,2.5,3+,1.25,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Codi Miller-McIntyre,3.5,4+,1.7,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Codi Miller-McIntyre,4.5,5+,2.57,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Codi Miller-McIntyre,5.5,6+,4.25,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Codi Miller-McIntyre,6.5,7+,7.2,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Codi Miller-McIntyre,7.5,8+,11.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Talen Horton-Tucker,2.5,3+,1.25,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Talen Horton-Tucker,3.5,4+,1.67,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Talen Horton-Tucker,4.5,5+,2.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Talen Horton-Tucker,5.5,6+,4.05,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Talen Horton-Tucker,6.5,7+,6.8,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Talen Horton-Tucker,7.5,8+,11.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nikola Kalinic,1.5,2+,1.16,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nikola Kalinic,2.5,3+,1.57,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nikola Kalinic,3.5,4+,2.4,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Nikola Kalinic,4.5,5+,4.15,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Bonzie Colson,1.5,2+,1.17,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Bonzie Colson,2.5,3+,1.47,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Bonzie Colson,3.5,4+,2.22,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Bonzie Colson,4.5,5+,3.55,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tarik Biberovic,1.5,2+,1.17,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tarik Biberovic,2.5,3+,1.6,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tarik Biberovic,3.5,4+,2.47,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Tarik Biberovic,4.5,5+,4.3,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jared Butler,0.5,1+,1.1,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jared Butler,1.5,2+,1.57,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jared Butler,2.5,3+,2.77,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds,TR,Rebounds,Jared Butler,3.5,4+,5.6,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Chima Moneke,5.5,,1.7,2.07
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Khem Birch,4.5,,1.62,2.2
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Jordan Nwora,3.5,,1.67,2.12
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Wade Baldwin,3.5,,1.67,2.12
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Talen Horton-Tucker,3.5,,1.67,2.1
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Talen Horton-Tucker,3.5,,1.7,2.07
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Codi Miller-McIntyre,3.5,,1.72,2.05
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Bonzie Colson,3.5,,2.05,1.72
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Nikola Kalinic,2.5,,1.6,2.27
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Bonzie Colson,2.5,,1.6,2.25
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Tarik Biberovic,2.5,,1.62,2.22
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Jared Butler,1.5,,1.6,2.25
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds O/U,TR,Rebounds,Jared Butler,1.5,,1.6,2.27
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Khem Birch,1.5,,1.67,2.05
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Chima Moneke,1.5,,2.22,1.57
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Chima Moneke,1.5,,2.2,1.57
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Nikola Kalinic,0.5,,1.5,2.35
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Wade Baldwin,0.5,,1.5,2.37
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Talen Horton-Tucker,0.5,,1.55,2.27
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Jordan Nwora,0.5,,2.07,1.65
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Chima Moneke,4.5,,1.83,1.83
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Offensive Rebounds O/U,Offensive Rebounds,Offensive Rebounds,Tarik Biberovic,0.5,,2.2,1.57
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Chima Moneke,4.5,,1.85,1.83
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Jordan Nwora,3.5,,2.05,1.67
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Codi Miller-McIntyre,3.5,,2.2,1.57
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Khem Birch,3.5,,2.2,1.57
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Wade Baldwin,2.5,,1.6,2.15
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Talen Horton-Tucker,2.5,,1.6,2.15
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Tarik Biberovic,2.5,,1.98,1.72
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Tarik Biberovic,2.5,,1.95,1.72
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Defensive Rebounds O/U,Defensive Rebounds,Defensive Rebounds,Jared Butler,1.5,,1.85,1.82
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Tarik Biberovic,2.5,,1.98,1.78
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Tarik Biberovic,1.5,2+,1.31,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Tarik Biberovic,2.5,3+,2.02,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Tarik Biberovic,3.5,4+,3.6,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Tarik Biberovic,4.5,5+,6.9,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jared Butler,1.5,2+,1.42,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jared Butler,2.5,3+,2.3,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jared Butler,3.5,4+,4.3,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jared Butler,4.5,5+,8.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jordan Nwora,0.5,1+,1.1,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jordan Nwora,1.5,2+,1.6,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jordan Nwora,2.5,3+,2.85,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Jordan Nwora,3.5,4+,5.7,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Codi Miller-McIntyre,0.5,1+,1.18,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Codi Miller-McIntyre,1.5,2+,1.98,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Codi Miller-McIntyre,2.5,3+,4.05,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Codi Miller-McIntyre,3.5,4+,8.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Bonzie Colson,0.5,1+,1.25,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Bonzie Colson,1.5,2+,2.27,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Bonzie Colson,2.5,3+,4.9,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Bonzie Colson,3.5,4+,10.25,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Talen Horton-Tucker,0.5,1+,1.27,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Talen Horton-Tucker,1.5,2+,2.3,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Talen Horton-Tucker,2.5,3+,5.1,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Talen Horton-Tucker,3.5,4+,11.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nando de Colo,0.5,1+,1.4,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nando de Colo,1.5,2+,2.95,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nando de Colo,2.5,3+,7.1,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nando de Colo,3.5,4+,14.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nikola Kalinic,0.5,1+,1.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nikola Kalinic,1.5,2+,3.4,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nikola Kalinic,2.5,3+,8.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Nikola Kalinic,3.5,4+,15.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Wade Baldwin,0.5,1+,1.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Wade Baldwin,1.5,2+,3.45,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Wade Baldwin,2.5,3+,8.75,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Wade Baldwin,3.5,4+,16.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Chima Moneke,0.5,1+,3.35,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Three Point Shots Scored,3P_M,3P Made,Chima Moneke,1.5,2+,11.75,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Tarik Biberovic,2.5,,2.0,1.75
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Jared Butler,2.5,,2.3,1.57
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Jordan Nwora,1.5,,1.6,2.27
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Codi Miller-McIntyre,1.5,,1.98,1.78
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Bonzie Colson,1.5,,2.15,1.65
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Talen Horton-Tucker,1.5,,2.3,1.57
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Nando de Colo,0.5,,1.42,2.75
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Nikola Kalinic,0.5,,1.5,2.47
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Wade Baldwin,0.5,,1.57,2.3
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Jordan Nwora,1.5,,1.6,2.25
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Codi Miller-McIntyre,1.5,,1.95,1.78
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Bonzie Colson,1.5,,2.25,1.6
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Talen Horton-Tucker,1.5,,2.27,1.6
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Nando de Colo,0.5,,1.42,2.72
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Nikola Kalinic,0.5,,1.52,2.42
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Wade Baldwin,0.5,,1.52,2.42
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Three Point Shots Scored O/U,3P_M,3P Made,Chima Moneke,0.5,,3.25,1.31
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Talen Horton-Tucker,4.5,,1.82,1.9
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Talen Horton-Tucker,4.5,,1.72,2.0
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Chima Moneke,3.5,,1.62,2.18
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Jordan Nwora,3.5,,1.78,1.93
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Wade Baldwin,3.5,,1.83,1.87
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Codi Miller-McIntyre,2.5,,1.88,1.82
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Wade Baldwin,3.5,,1.87,1.83
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Codi Miller-McIntyre,2.5,,1.9,1.82
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Jared Butler,2.5,,2.3,1.55
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Tarik Biberovic,2.5,,2.4,1.5
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Nando de Colo,1.5,,1.65,2.1
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Tarik Biberovic,2.5,,2.42,1.5
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Total Two Point Shots Scored O/U,2P_M,2P Made,Nando de Colo,1.5,,1.65,2.12
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Talen Horton-Tucker,6.5,,2.4,1.5
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Jordan Nwora,5.5,,1.8,1.9
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Wade Baldwin,4.5,,1.9,1.8
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Field Goals Scored O/U,FGM,FG Made,Jared Butler,4.5,,2.0,1.72
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Chima Moneke,3.5,,1.87,1.83
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Talen Horton-Tucker,3.5,,2.0,1.72
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Jordan Nwora,3.5,,2.1,1.65
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Talen Horton-Tucker,3.5,,1.98,1.75
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Jordan Nwora,3.5,,2.07,1.67
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Wade Baldwin,2.5,,1.67,2.07
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Jared Butler,2.5,,2.07,1.67
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Nando de Colo,1.5,,1.65,2.12
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Semi Ojeleye,1.5,,1.98,1.75
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Mikael Jantunen,1.5,,2.12,1.65
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Codi Miller-McIntyre,0.5,YES/NO,7.1,1.05
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Wade Baldwin,0.5,YES/NO,7.4,1.05
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Chima Moneke,0.5,YES/NO,7.5,1.05
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Talen Horton-Tucker,0.5,YES/NO,14.0,1.004
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Jordan Nwora,0.5,YES/NO,16.0,1.003
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Jared Butler,0.5,YES/NO,17.5,1.002
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Tarik Biberovic,0.5,YES/NO,32.0,1.001
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Triple Double,TD,Triple Double,Codi Miller-McIntyre,0.5,YES/NO,35.0,1.001
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Triple Double,TD,Triple Double,Wade Baldwin,0.5,YES/NO,40.0,1.001
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Nando de Colo,1.5,,1.65,2.1
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Semi Ojeleye,1.5,,2.0,1.72
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Free Throws Scored O/U,FT_M,Free Throws Made,Mikael Jantunen,1.5,,2.15,1.62
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Codi Miller-McIntyre,0.5,YES/NO,6.8,1.06
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Wade Baldwin,0.5,YES/NO,7.3,1.05
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Chima Moneke,0.5,YES/NO,7.4,1.05
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Jared Butler,0.5,YES/NO,15.0,1.003
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Talen Horton-Tucker,0.5,YES/NO,15.0,1.003
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Jordan Nwora,0.5,YES/NO,15.5,1.003
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Double-Double,DD,Double Double,Tarik Biberovic,0.5,YES/NO,35.0,1.001
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Triple Double,TD,Triple Double,Wade Baldwin,0.5,YES/NO,37.0,1.001
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Triple Double,TD,Triple Double,Codi Miller-McIntyre,0.5,YES/NO,45.0,1.001
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Wade Baldwin,0.5,1+,1.39,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Wade Baldwin,1.5,2+,2.9,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Wade Baldwin,2.5,3+,7.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Wade Baldwin,3.5,4+,13.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Jordan Nwora,0.5,1+,1.45,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Jordan Nwora,1.5,2+,3.15,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Jordan Nwora,2.5,3+,7.6,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Jordan Nwora,3.5,4+,14.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Codi Miller-McIntyre,0.5,1+,1.47,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Codi Miller-McIntyre,1.5,2+,3.15,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Codi Miller-McIntyre,2.5,3+,7.6,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Codi Miller-McIntyre,3.5,4+,14.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Mikael Jantunen,0.5,1+,1.91,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Mikael Jantunen,1.5,2+,5.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Steals,ST,Steals,Mikael Jantunen,2.5,3+,13.0,
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Wade Baldwin,0.5,,1.4,2.65
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Codi Miller-McIntyre,0.5,,1.47,2.42
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Jordan Nwora,0.5,,1.47,2.45
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Jordan Nwora,0.5,,1.47,2.47
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Steals O/U,ST,Steals,Mikael Jantunen,0.5,,1.91,1.78
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Khem Birch,0.5,1+,2.35,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Khem Birch,1.5,2+,7.7,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Khem Birch,2.5,3+,16.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Chima Moneke,0.5,1+,3.35,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Chima Moneke,1.5,2+,12.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Bonzie Colson,0.5,1+,3.85,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Bonzie Colson,1.5,2+,13.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Nikola Kalinic,0.5,1+,4.25,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Blocks,BL,Blocks,Nikola Kalinic,1.5,2+,14.5,
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Khem Birch,0.5,,2.32,1.52
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Chima Moneke,0.5,,3.25,1.28
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Chima Moneke,0.5,,3.2,1.28
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Bonzie Colson,0.5,,3.65,1.23
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Blocks O/U,BL,Blocks,Nikola Kalinic,0.5,,4.0,1.19
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Talen Horton-Tucker,2.5,,2.2,1.6
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Talen Horton-Tucker,2.5,,2.22,1.6
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Jordan Nwora,1.5,,1.57,2.27
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Codi Miller-McIntyre,1.5,,1.57,2.27
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Wade Baldwin,1.5,,1.65,2.12
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Nando de Colo,1.5,,1.7,2.02
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Chima Moneke,1.5,,1.72,2.0
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Wade Baldwin,23.5,,1.93,1.82
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Talen Horton-Tucker,22.5,,1.78,1.95
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Chima Moneke,1.5,,1.72,2.02
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Turnovers O/U,TO,Turnovers,Nando de Colo,1.5,,1.72,2.0
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Wade Baldwin,21.5,22+,1.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Wade Baldwin,23.5,24+,1.87,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Wade Baldwin,25.5,26+,2.47,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Wade Baldwin,27.5,28+,3.45,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Wade Baldwin,29.5,30+,4.9,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Wade Baldwin,31.5,32+,7.1,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Wade Baldwin,33.5,34+,10.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Wade Baldwin,35.5,36+,13.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Wade Baldwin,37.5,38+,16.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Talen Horton-Tucker,20.5,21+,1.39,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Talen Horton-Tucker,21.5,22+,1.53,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Talen Horton-Tucker,22.5,23+,1.7,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Talen Horton-Tucker,23.5,24+,1.9,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Talen Horton-Tucker,24.5,25+,2.15,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Talen Horton-Tucker,25.5,26+,2.45,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Talen Horton-Tucker,26.5,27+,2.82,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Talen Horton-Tucker,27.5,28+,3.3,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Talen Horton-Tucker,28.5,29+,3.9,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jordan Nwora,19.5,20+,1.44,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jordan Nwora,20.5,21+,1.57,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jordan Nwora,21.5,22+,1.75,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jordan Nwora,22.5,23+,1.95,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jordan Nwora,23.5,24+,2.22,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jordan Nwora,24.5,25+,2.55,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jordan Nwora,25.5,26+,2.95,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jordan Nwora,26.5,27+,3.45,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jordan Nwora,27.5,28+,4.05,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,19.5,20+,1.47,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,21.5,22+,1.83,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,23.5,24+,2.42,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,25.5,26+,3.35,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,27.5,28+,4.85,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,29.5,30+,7.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,31.5,32+,10.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,33.5,34+,13.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,35.5,36+,16.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Chima Moneke,18.5,19+,1.45,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Chima Moneke,20.5,21+,1.83,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Chima Moneke,22.5,23+,2.45,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Chima Moneke,24.5,25+,3.4,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Chima Moneke,26.5,27+,4.9,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Chima Moneke,28.5,29+,7.1,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Chima Moneke,30.5,31+,10.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Chima Moneke,32.5,33+,13.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Chima Moneke,34.5,35+,16.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jared Butler,17.5,18+,1.45,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jared Butler,19.5,20+,1.8,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jared Butler,21.5,22+,2.32,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jared Butler,23.5,24+,3.2,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jared Butler,25.5,26+,4.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jared Butler,27.5,28+,6.3,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jared Butler,29.5,30+,8.75,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jared Butler,31.5,32+,11.75,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Jared Butler,33.5,34+,15.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tarik Biberovic,14.5,15+,1.4,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tarik Biberovic,15.5,16+,1.55,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tarik Biberovic,16.5,17+,1.72,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tarik Biberovic,17.5,18+,1.98,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tarik Biberovic,18.5,19+,2.25,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tarik Biberovic,19.5,20+,2.62,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tarik Biberovic,20.5,21+,3.1,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tarik Biberovic,21.5,22+,3.65,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Points+Rebounds+Assists,PRA,Points + Rebounds + Ass,Tarik Biberovic,22.5,23+,4.35,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Wade Baldwin,23.5,,1.91,1.83
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Talen Horton-Tucker,23.5,,1.93,1.8
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Jordan Nwora,21.5,,1.78,1.98
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,21.5,,1.91,1.83
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Codi Miller-McIntyre,21.5,,1.87,1.87
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Chima Moneke,20.5,,1.87,1.87
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Jared Butler,19.5,,1.87,1.87
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Tarik Biberovic,17.5,,1.98,1.78
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Codi Miller-McIntyre,10.5,,1.9,1.8
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Wade Baldwin,10.5,,2.07,1.67
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Jared Butler,19.5,,1.83,1.91
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds+Assists O/U,PRA,Points + Rebounds + Ass,Tarik Biberovic,16.5,,1.75,2.0
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Codi Miller-McIntyre,8.5,9+,1.26,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Codi Miller-McIntyre,10.5,11+,1.83,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Codi Miller-McIntyre,12.5,13+,3.15,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Codi Miller-McIntyre,14.5,15+,6.2,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Codi Miller-McIntyre,16.5,17+,11.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Codi Miller-McIntyre,18.5,19+,17.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Wade Baldwin,8.5,9+,1.36,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Wade Baldwin,9.5,10+,1.65,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Wade Baldwin,10.5,11+,2.1,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Wade Baldwin,11.5,12+,2.8,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Wade Baldwin,12.5,13+,3.9,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Wade Baldwin,13.5,14+,5.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Wade Baldwin,14.5,15+,7.8,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Wade Baldwin,15.5,16+,10.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Chima Moneke,6.5,7+,1.37,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Chima Moneke,7.5,8+,1.7,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Chima Moneke,8.5,9+,2.27,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Chima Moneke,9.5,10+,3.15,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Chima Moneke,10.5,11+,4.6,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Chima Moneke,11.5,12+,6.7,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Chima Moneke,12.5,13+,9.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Chima Moneke,13.5,14+,13.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jared Butler,4.5,5+,1.28,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jared Butler,5.5,6+,1.6,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jared Butler,6.5,7+,2.18,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jared Butler,7.5,8+,3.2,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jared Butler,8.5,9+,4.9,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jared Butler,9.5,10+,7.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Talen Horton-Tucker,4.5,5+,1.29,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Talen Horton-Tucker,5.5,6+,1.65,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Talen Horton-Tucker,6.5,7+,2.22,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Talen Horton-Tucker,7.5,8+,3.25,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Talen Horton-Tucker,8.5,9+,5.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Talen Horton-Tucker,9.5,10+,7.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jordan Nwora,4.5,5+,1.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jordan Nwora,5.5,6+,2.02,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jordan Nwora,6.5,7+,3.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jordan Nwora,7.5,8+,4.65,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jordan Nwora,8.5,9+,7.3,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Jordan Nwora,9.5,10+,11.0,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tarik Biberovic,3.5,4+,1.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tarik Biberovic,4.5,5+,2.1,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tarik Biberovic,5.5,6+,3.2,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tarik Biberovic,6.5,7+,5.2,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tarik Biberovic,7.5,8+,8.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,ALT_PROPS,Rebounds+Assists,RA,Rebounds + Assists,Tarik Biberovic,8.5,9+,12.5,
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Codi Miller-McIntyre,10.5,,1.85,1.85
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Wade Baldwin,9.5,,1.67,2.07
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Chima Moneke,7.5,,1.72,2.0
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Talen Horton-Tucker,5.5,,1.65,2.12
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Jared Butler,5.5,,1.7,2.05
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Jared Butler,5.5,,1.62,2.15
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Talen Horton-Tucker,5.5,,1.65,2.1
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Jordan Nwora,5.5,,2.05,1.7
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Rebounds+Assists O/U,RA,Rebounds + Assists,Tarik Biberovic,4.5,,2.1,1.65
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Talen Horton-Tucker,20.5,,1.8,1.91
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Talen Horton-Tucker,21.5,,1.93,1.78
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Jordan Nwora,20.5,,1.85,1.85
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Chima Moneke,18.5,,1.83,1.87
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Wade Baldwin,17.5,,1.98,1.75
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Wade Baldwin,17.5,,1.93,1.78
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Tarik Biberovic,15.5,,1.8,1.9
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Jared Butler,15.5,,1.85,1.85
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Codi Miller-McIntyre,14.5,,1.82,1.88
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Bonzie Colson,10.5,,1.85,1.85
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Khem Birch,9.5,,2.0,1.72
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Codi Miller-McIntyre,14.5,,1.82,1.9
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Bonzie Colson,10.5,,1.93,1.78
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Khem Birch,9.5,,2.02,1.7
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Rebounds O/U,PR,Points + Rebounds,Nikola Kalinic,8.5,,1.91,1.8
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Wade Baldwin,19.5,,1.91,1.8
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Talen Horton-Tucker,18.5,,1.75,1.95
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Wade Baldwin,19.5,,1.9,1.82
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Talen Horton-Tucker,19.5,,1.9,1.8
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Jordan Nwora,17.5,,1.75,1.95
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Jared Butler,17.5,,1.85,1.85
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Codi Miller-McIntyre,17.5,,1.87,1.83
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Chima Moneke,14.5,,1.87,1.83
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Jared Butler,17.5,,1.82,1.9
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Codi Miller-McIntyre,17.5,,1.83,1.88
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Chima Moneke,14.5,,1.87,1.85
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Tarik Biberovic,13.5,,1.75,1.95
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Assists O/U,PA,Points + Assists,Nando de Colo,12.5,,1.98,1.75
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Chima Moneke,12.5,,1.78,1.91
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Bonzie Colson,7.5,,1.9,1.78
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Nikola Kalinic,5.5,,1.87,1.8
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Chima Moneke,12.5,,1.75,1.93
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Bonzie Colson,7.5,,1.85,1.82
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Nikola Kalinic,5.5,,1.88,1.8
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Points+Blocks O/U,PB,Points + Blocks,Khem Birch,4.5,,1.91,1.75
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Chima Moneke,18.5,,1.75,1.93
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Bonzie Colson,10.5,,1.78,1.9
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Khem Birch,9.5,,1.8,1.87
-STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Nikola Kalinic,8.5,,1.82,1.85
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Bonzie Colson,10.5,,1.83,1.85
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Khem Birch,9.5,,1.82,1.85
+STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,"Points, Rebounds + Blocks O/U",PRB,Points + Rebounds + Blocks,Nikola Kalinic,8.5,,1.83,1.85
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Chima Moneke,4.5,,1.88,1.83
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Talen Horton-Tucker,4.5,,1.88,1.83
 STOIXIMAN,2026-03-13_crvena_zvezda_fenerbahce,Crvena Zvezda vs Fenerbahce,2026-03-13T19:00:00Z,MAIN_PROPS,Fouls Received O/U,FD,Fouls Earned,Wade Baldwin,4.5,,2.4,1.5
